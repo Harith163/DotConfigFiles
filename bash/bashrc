@@ -113,10 +113,21 @@ if ! shopt -oq posix; then
 fi
 
 #set editor
-export EDITOR=emacs
+export EDITOR=/usr/bin/emacs
 
-#change path variable
+#change cd path variable
 export CDPATH="$CDPATH:$HOME/Documents/SchoolStuff/:$HOME/Documents/SchoolStuff/ThesisUndergraduate/"
 
 #mycroft
 source ~/.profile_mycroft
+
+#Montepython bin pointer
+export PYTHONPATH="$PYTHONPATH:~/Documents/SchoolStuff/ThesisUndergraduate/MontePython/montepython/"
+
+#Planck Liklihood sourcing
+source ~/Documents/SchoolStuff/ThesisUndergraduate/planck/code/plc_3.0/plc-3.01/bin/clik_profile.sh
+
+source ~/.config/bash/bash-powerline.sh
+
+#Just one of those things
+neofetch

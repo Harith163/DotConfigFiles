@@ -11,4 +11,13 @@ firefox &
 emacsclient -c -e "(scroll-bar-mode -1)" &
 
 ##tint2
-tint2 
+tint2 &
+
+##wifi-applet
+nm-applet &
+
+##bluetooth-applet
+blueman-applet &
+
+##compositing
+xcompmgr -c &

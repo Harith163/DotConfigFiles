@@ -1,2000 +1,2000 @@
-hdajackretask 
-alsamixer
-hdajackretask 
-sudo reboot 
-alsamixer
-hdajackretask 
-alsamixer
-hdajackretask 
-sudo reboot 
-alsamixer
+apt install gvfs gvfs-backends gvfs-common gvfs-daemons gvfs-fuse gvfs-libs 
+sudo apt install gvfs gvfs-backends gvfs-common gvfs-daemons gvfs-fuse gvfs-libs 
 sau
-sudo apt autoremove 
-python
+sudo apt install libc-dev-bin libc6 libc6-dbg libcrypt1 libsmbclient
 sau
-alsamixer
-sudo reboot 
-hdajackretask 
+sudo apt install orca
 sau
-cd ~/.config/
-git clone https://github.com/MycroftAI/mycroft-core.git
-cd ..
-ln -s ~/mycroft-core ~/.config/mycroft-core/
+sarc
+pass -c Github/Harith163 
+sai cron
+touch lifeorggitupdate.sh
+editor lifeorggitupdate.sh 
+pass -c Github/Harith163 
+git config credential.helper store
+cd Documents/life/
+git config credential.helper store
+git push https://github.com/owner/repo.git
+git push origin master 
+git config --global credential.helper cahce
+git config --global credential.helper cache
+cd
+chmod +x lifeorggitupdate.sh
+./lifeorggitupdate.sh 
+mv ~/lifeorggitupdate.sh /etc/cron.daily/
+sudo mv ~/lifeorggitupdate.sh /etc/cron.daily/
 ll
-ln -s ~/.config/mycroft-core/ ~/mycroft-core
+cd /etc/cron.daily/
 ll
-cd mycroft-core
+echo $currentDate
+date
+mkdir ~/.config/customscripts/
+sudo mv lifeorggitupdate.sh ~/.config/customscripts/
+ln -s ~/.config/customscripts/lifeorggitupdate.sh 
+ln -s ~/.config/customscripts/lifeorggitupdate.sh /etc/cron.daily/lifeorggitupdate.sh
+sudo ln -s ~/.config/customscripts/lifeorggitupdate.sh /etc/cron.daily/lifeorggitupdate.sh
 ll
-bash dev_setup.sh 
+./lifeorggitupdate.sh 
+cd
+cd .emacs.d/
+ll
+DATEANDTIME=DATEANDTIME='date +”%A, %b %d, %Y %I:%M %p”'
+DATEANDTIME='date +”%A, %b %d, %Y %I:%M %p”'
+echo $DATEANDTIME 
+DATEANDTIME=date +”%A, %b %d, %Y %I:%M %p”
+DATEANDTIME=date
+echo $DATEANDTIME 
+sai date
+date
+echo ${DATEANDTIME}
+date +%s
+date +"%Y-%m-%d %T"
+date +”%A, %b %d, %Y %I:%M %p”
+date +”%A, %b %d, %Y %H:%M:%S
+date --he
+date +”%A,%b %d, %Y %H:%M:%S
+date + ”%A,%b %d, %Y %H:%M:%S
+date +”%A, %b %d, %Y %I:%M %p”
+$ date +"%d/%m/%Y %H:%M:%S"
+date +"%d/%m/%Y %H:%M:%S"
+date +”%A, %b %d, %Y %I:%M %p”
+date +'%A, %b %d, %Y %I:%M %p'
+cd
+cd ~/.config/customscripts/
+./lifeorggitupdate.sh 
+cd
+rm lifeorggitupdate.sh
+ll
+rm lifeorggitupdate.sh~ 
+ll
+cd .config/customscripts/
+./lifeorggitupdate.sh
+date 
+./lifeorggitupdate.sh
+customdate
+echo $customdate
+echo ${customdate}
+echo customdate
+$customdate
+${customdate}
+customdate=$(date +'%A, %b %d, %Y %I:%M %p');
+$customdate
+echod $customdate
+echo $customdate
+cd ~/Documents/life/
+ll
+git commit README.org README.html -m ${customdate}
+git commit README.org README.html -m '${customdate}'
+man awk 
+awk ' { print "$customdate"
+
+asd
+gawk ' { print "$customdate" 
+awk ' { print "$customdate" etc
+awk
+awk -d ' { print "$customdate" etc
+cd
+echo customdate
+echo $customdate
+cd ~/.config/customscripts/
+ll
+rm lifeorggitupdate.sh~ 
 ll
 cd
-cd mycroft-core
-./start-mycroft.sh 
-./start-mycroft.sh all
-mycroft
-mycroft 
-man ./mycroft
-man ./mycroft-core
-mycroft
-cd
-mycroft-core
-man ./mycroft-core
-cd mycroft-core
+man git
+man git-commit
+cd .emacs.d/
+git commit initfile.el initfile.org --message=$customdate
+git commit initfile.el initfile.org --message='$customdate'
+git commit initfile.org --message='$customdate'
+scrot 
+man scrot 
+scrot -d 10 -s
+rm 2020-02-02-080*
 ll
-cd bin/
+ls
+crontab -l
+cd ~/.config/customscripts/
 ll
-cd
-pass generate Mycroft/KaushikEmail 15
-pass -c Mycroft/KaushikEmail 
-clear
-mycroft-core
+./lifeorggitupdate.sh 
 alsamixer
-cd ~/mycroft-core
-./stop-mycroft.sh 
-./start-mycroft.sh 
-./start-mycroft.sh all
-mycroft
-cd bin/
-ll
-cd
-mycroft-core
-cd ~/mycroft-core/bin/
-ll
-./mycroft-speak 
-cd ..
-emacsclient ~/.profile
-ll
-cd ~/.mycroft/
-ll
-emacs mycroft.conf 
-cd 
-emacs ~/.profile
-emacs ~/.profile_mycroft 
-mv ~/.mycroft/ ~/.config/mycroft
-ln -s ~/.config/mycroft ~/.mycroft
-ll
-mv ~/.profile_mycroft ~/.config/
-mv ~/.config/.profile_mycroft ~/.config/profile_mycroft
-ln -s ~/.config/profile_mycroft ~/.profile_mycroft
-source ./.profile
-mycroft-stop 
-mycroft-mic-test 
-sudo systemctl --user restart emacs.service 
+sai obs 
+sai obs-studio 
+sau
+sarc
 systemctl --user restart emacs.service 
-sau
-sudo apt autoremove 
-mycroft-help 
-mycroft-speak 
-mycroft-start
-mycroft-start all
-microft 
-mycroft-mic-test 
-alsamixerx
-alsamixer
-mycroft-mic-test 
-mycroft-stop all
-mycroft-start all
-sai blueman 
-mycroft-mic-test 
-alsamixer
-sau
-cd /etc/apt/sources.list.d/
+sudo reboot 
+emacs
+cd ~/.emacs.d
 ll
-ls
+rm .#initfile.el  ido.last  recentf
+ll
+rm recentf~ 
+ll
+cd
+sau
+cd .emacs.d/
+rm init*
+git pull origin master 
+ll
+git pull origin 
+git pull origin master 
+git clone https://github.com/Harith163/Emacs-init.el-file.git
+ll
+cp Emacs-init.el-file/init.el ~/.config/
+cp Emacs-init.el-file/initfile.org ~/.config/
+ll
+mv ~/.config/init* ./
+ll
+systemctl --user restart emacs.service 
+xrandr --output HDMI-0 --mode 1920x1080 
+xrandr --output VIRTUAL1 --mode 1920x1080
+xrandr --output VIRTUAL1 
+sudo reboot 
+sau
+sarc
+sau
+sarc
+cd ThesisUndergraduate/
+ll
+mkdir planck
+ll
+cd planck/
+ll
+wget -O COM_Likelihood_Data-baseline_R3.00.tar.gz "http://pla.esac.esa.int/pla/aio/product-action?COSMOLOGY.FILE_ID=COM_Likelihood_Data-baseline_R3.00.tar.gz"
+ll
+tar -xvzf COM_Likelihood_Code-v3.0_R3.01.tar.gz 
+ll
+tar -xvzf COM_Likelihood_Data-baseline_R3.00.tar.gz 
+ll
+rm COM_Likelihood_*
+ll
+cd code/plc_3.0/plc-3.01/
+ll
+./waf configure --lapack_mkl=${MKLROOT} --instal_all_deps
+./waf install
+./waf configure --lapack_mkl=${MKLROOT} 
+sai gfortran
+./waf configure --lapack_mkl=${MKLROOT} 
+sai liblapack
+sai liblapack-dev 
+./waf configure --lapack_mkl=${MKLROOT} --install_all_deps
+./waf install
+./waf configure
+sai libcfitsio-dev 
+sau
+./waf configure --lapack_mkl=${MKLROOT} --install_all_deps
+as astorpy-utils
+as astropy-utils
+sai astropy-utils 
+./waf configure --lapack_mkl=${MKLROOT} --install_all_deps
+./waf install
+source bin/clik_profile.sh 
+cd ThesisUndergraduate/
+ll
+cd montepython/
+ll
+cd ThesisUndergraduate/montepython/
+ll
+cp default.conf.template default.conf
 cd ..
-ls
-emacs sources.list
-emacs /etc/apt/sources.list
-sau
-hdajackretask 
-sudo reboot 
+cd planck/code/plc_3.0/plc-3.01/
+cd
+python montepython/MontePython.py run -o test -p example.param
+cd ThesisUndergraduate/montepython/
 ll
-cd .keras/
+cd montepython/
+ll
+cd ..
+python montepython/MontePython.py run -o test -p example.param
+python MontePython.py run -o test -p example.param
+cd ThesisUndergraduate/montepython/
+ll
+cd montepython/
+ll
+cd likelihoods/
+ll
+cd ..
+ll
+cd ThesisUndergraduate/montepython/montepython/
+ll
+python MontePython.py --help
+python MontePython.py run --help
+python MontePython.py run.py --help
+python MontePython.py run -h
+python MontePython.py info
+python MontePython.py info --help
+python MontePython.py run --help
+python MontePython.py run -o test -p example.param
+ll
+cd ..
 ;;
 ll
+cd tests/
+ll
+source ~/.bash
+source ~/.bashrc 
+python Montepython.py 
+source ~/.bashrc 
+python montepython/MontePython.py run
+python cd ..
+cd ..
+ll
 cd
-ls
-ls -h
-ls -lh
-clear
-uptime 
-uname -or
-mycroft-mic-test 
-alsamixer
-sudo reboot 
-sau
-sudo apt autoremove 
-sudo apt autoclean 
-sau
-as fluxbox
-sai fluxbox
-fluxbox
-ll
-mv ~/.fluxbox/ ~/.config/fluxbox
-ln -s ~/.config/fluxbox/ ~/.fluxbox
-ll
-cd ~/.fluxbox
-ll
-emacsclient init 
-emacsclient apps 
-emacsclient menu
+python montepython/MontePython.py info --help
+python MontePython.py info --help
+export PATH="~/Documents/SchoolStuff/ThesisUndergraduate/montepython/montepython/:$PATH"
+$PATH
 cd
-cd /etc/X11/fluxbox/
+cd ThesisUndergraduate/montepython/montepython/
 ll
-emacs fluxbox-menu 
-fluxbox-update_configs 
-man fluxbox
-startfluxbox 
-sap i3-wm fluxbox 
-sudo apt autoremove 
-sai awesome
-as rofi
-sai rofi
-awesome-client 
-man awesome
+$PATH
+cd ThesisUndergraduate/planck/code/plc_3.0/plc-3.01/bin/
 ll
-rm ~/.config/fluxbox/
-rm -r ~/.config/fluxbox/
+cat clik_profile.sh
+cd ..
+cd montepython/
 ll
-rm ~/.fluxbox 
-;;
+cd montepython/
 ll
-cd ~/.config/
+cat MontePython.py 
+python MontePython.py run -o test -p ../tests/test_montepython.py 
+cd
+cd ThesisUndergraduate/montepython/
 ll
-rm -i3
-rm -r i3/
-ll
+python MontePython.py run -o test -p example.param
+python montepython/MontePython.py run -o test -p example.param
 cd 
+cd ThesisUndergraduate/montepython/
 ll
-awesome
+cd bestfit/
 ll
-man awesome
-pass git push 
-pass git push master
-pass git 
-pass
-pass git log 
-pass git push 
-pass git push --set-upstream origin master
-pass git push 
-pass -c Github/Harith163 
-sau
-blueman-manager 
-cd /etc/xdg/awesome/
+cd ..
+cd chains/
 ll
-man cp
+cd ..
+cd sphinx-documentation/
+ll
 cd ..
 ll
-cp awesome/ ~/.config/awesome
-;;
+cd covmat/
 ll
-cp -r awesome/ ~/.config/awesome
-cd ~/.config/
-ll
-cd awesome/
-ll
-cd debian/
-ll
-cd me
 cd ..
-emacsclient .
+cd wrapper_wmap
+ll
+cd ..
+cd plot_files/
+ll
+cd ..
+ll
+cd ../class/
+ll
+cd external_Pk/
+ll
+cd ..
+cd scripts/
+ll
+cd ..
+ll
+cd test/
+ll
+cd ..
+ll
+cd ..
+find . *.param
+clear
+find class/ example.param
+find montepython/ example.param
+cd planck/
+ll
+cd baseline/
+ll
+cd pl
+cd ../..//
+cd montepython/montepython/
+ll
+cd likelihoods/
+ll
+cd ..
+cd  ..
+ll
+find test.param
+find . test.param
+cd ..
+rm -r montepython/
+which python
+rm -r montepython/
+ll
+git clone https://github.com/brinckmann/montepython_public.git MontePython
+cd MontePython/
+ll
+cp default.conf.template default.conf
+cd ..
+cd class/
+cd python/
+cd ..
+make clean 
+make 
+cd python/
+python setup.py build
+python setup.py install --user
+cd //
+cd .
+dc
 cd
-man awesome
-as awffull 
-man awesome
-cd /usr/share/awesome/
+cd ..
+cdd
+cd
+cd ThesisUndergraduate/
 ll
-cd lib/
+python montepython/Montepython.py run -o test -p example.param
+cd ThesisUndergraduate/MontePython/
+ll
+cd montepython/
+python MontePython.py run -o test -p example.param
+python
+MontePython.py --help
+MontePython.py run -o test 
+MontePython.py run -o ../test 
+MontePython.py run -o ../tests/
+MontePython.py run -o ../tests/ -p ../input/base2018TTTEEE.param 
+MontePython.py run -o ../tests/ -p ../input/test.param 
+cat ../default.conf
+MontePython.py run -o ../tests/ -p ../input/test.param 
+cd 
+python montepython/MontePython.py 
+os.listdir()
+sudo python montepython/MontePython.py
+$PATH
+python montepython/MontePython.py 
+echo $PATH
+python /montepython/MontePython.py
+source ~/.profile
+echo $PATH
+ll
+ln -s Montepython.py ~/Documents/SchoolStuff/ThesisUndergraduate/MontePython/montepython/MontePython.py 
+ln -s ~/Documents/SchoolStuff/ThesisUndergraduate/MontePython/montepython/MontePython.py ~/MontePython.py
+ll
+python MontePython.py 
+
+python MontePython.py -o ~/Documents/SchoolStuff/ThesisUndergraduate/MontePython/tests/ ~/Documents/SchoolStuff/ThesisUndergraduate/MontePython/input/test.param 
+cd ThesisUndergraduate/MontePython/
+ll
+find log.param
+find . log.param
+cd input/
 ll
 cd ..
-cp -r icons/ lib/ themes/ ~/.config/awesome/
+cd montepython/
 ll
+python MontePython.py --help
+python MontePython.py run --help
+MontePython.py run --help
+cd
+cd ThesisUndergraduate/MontePython/montepython/
+MontePython.py run --help
+MontePython.py run -o ../tests/ -p ../input/test.param 
+MontePython.py run -o ../tests/ -p ../input/test.param --conf ../default.conf
+rm ../default.conf.template ../default.conf~
+MontePython.py run -o ../tests/ -p ../input/test.param 
+cd
+python montepython/MontePython.py info test/
+MontePython.py info test/
+MontePython.py info Documents/SchoolStuff/ThesisUndergraduate/MontePython/tests/
+python montepython/MontePython.py --help
+ll
+source ~/.profile
+$PATH
+python montepython/MontePython.py --help
+$PYTHONPATH
+cd ThesisUndergraduate/planck/
+ll
+cd code/
+$PATH
+cd ../..
+cd M
+cd MontePython/
+ll
+~/MontePython.py run -o tests/ -p input/base2018TTTEEE.param -N 1
+~/MontePython.py run -o tests/ -p input/base2018TTTEEE.param -N 5
+cd tests/
+ll
+cat test.h_info
+cat tests.h_info 
+cd ..
+~/MontePython.py info input/
+~/MontePython.py info tests/
+cd ..
+cd planck/
+cd code/
+cd plc_3.0/plc-3.01/
+ll
+cat readme.md 
+sudo reboot 
+sau
+loadkeys DE
+loadkeys de
+setxkbmap de
+setxkbmap US
+setxkbmap us
+cat .config/openbox/autostart
+setxkbmap -option "ctrl:nocaps"
+sudo reboot 
+sap variety 
+sarc
 cd ~/.config/
 ll
-cd awesome/
+rm -r variety/
+as totem
+rm -r totem/
 ll
-emacsclient rc.lua 
+cd ookla/
 ll
-llllll
+cd ..
+rm -r gtk-*
 ll
-ls
-cd icons/
+as eog
+rm -r eog/
 ll
-open .
+as goa
+cd ..
+ll
+rm \#.profile# 
+ll
+as snap
 sau
-sudo apt autoclean 
-sudo apt autoremove 
-sudo apt autoclean 
-ls
-mycroft-mic-test 
-mycroft-speak 
-mycroft-s
-mycroft-start 
-mycroft-start all
-mycroft-mic-test 
-alsamixer
-mycroft-mic-test 
-pass -c Github/Harith163 
+sarc
+sau
+cd /etc/cron.daily/
+ll
+cd ~/.config/customscripts/
+mv lifeorggitupdate.sh lifeCRON
+cd /etc/cron.daily/
+ll
+rm lifeorggitupdate.sh 
+sudo rm lifeorggitupdate.sh 
+ll
+ln -s lifeCRON ~/.config/customscripts/lifeCRON 
+cd /etc/cron.daily/
+ln -s ~/.config/customscripts/lifeCRON ./lifeCRON
+sudo ln -s ~/.config/customscripts/lifeCRON ./lifeCRON
+ll
+crontab 
+sau
+ssh kharith1@ssh.ccv.brown.edu
+cd /var/mail/
+ll
+cat skye 
+cd
 cd Documents/life/
 ll
-rm life.tex life.pdf 
-ll
-git commit -m "life:NotSoCrappy" life.html life.org 
+git commit README.org README.html -m "Thursday, Feb 06, 2020 11:19 AM"
+pass -c Github/Harith163 
 git push origin master 
 cd
+man systemd.timer
+systemctl list-timers --all
+sctl list-timers 
+cd .config/systemd/
 ll
-sau
-man gpg
-gpg --export
-man gpg
-gpg --export kaushik.harith@gmail.com --output ~/.gpgkeyexporttest
+cd user/
 ll
-man gpg
-gpg --export kaushik.harith@gmail.com ~/.gpgkeyexporttest
+cat emacs.service
+cd ..
+cd  //
+cd 
+cd .config/customscripts/
 ll
-gpg --list-keys
-gpg --output mygpgkey_pub.gpg --export kaushik.harith@gmail.com 
-gpg --output mygpgkey_sec.gpg --export-secret-keys kaushik.harith@gmail.com 
+rm lifeorggitupdate.sh~ 
 ll
-sau
-as blender
-sudo add-apt-repository ppa:irie/blender
-sau
-cd /etc/apt/sources.list.d/
+mv lifeCRON life.sh
 ll
-rm irie-ubuntu-blender-eoan.list 
-sudo rm irie-ubuntu-blender-eoan.list 
+cd ..
+cd systemd/user/
 ll
-sau
 cd
+systemctl --user enable gitupdater.timer gitupdater.service 
+systemctl --user start gitupdater.timer 
+sctl status 
+sctl status --user gitupdater.timer 
+
+sctl status --user gitupdater.timer 
+sctl --user daemon-reload 
+sctl status --user gitupdater.timer 
+sctl --user daemon-reload 
+sctl status --user gitupdater.timer 
+sctl --user daemon-reload 
+sctl status --user gitupdater.service 
+sctl status --user gitupdater.timer 
+cd ~/.config/systemd/user/
 ll
-cd blender-2.80-linux-glibc217-x86_64/
+rm gitupdater.service~ gitupdater.timer~ 
+ll
+rm emacs.service~
 ;;
 ll
-open
-open .
+cd
+sctl status --user gitupdater.timer 
+sudo reboot 
+sctl status --user gitupdater.timer 
+sctl status --user gitupdater.service 
+cd ~/.config/customscripts/
+ll
+chmod u+x life.sh 
+ll
+systemctl --user enable gitupdater.timer gitupdater.service 
+sctl status --user gitupdater.service 
+sctl --user daemon-reload 
+sctl status --user gitupdater.service 
+sctl status --user gitupdater.timer 
+sudo reboot 
+sctl status --user gitupdater.service 
+clear
+sctl --user daemon-reload 
+sctl status --user gitupdater.service 
+sudo reboot 
+sctl status --user gitupdater.timer 
+sctl status --user gitupdater.service 
+sudo reboot 
+sctl status --user gitupdater.service 
+clear
+ll
+sctl list-timers 
+sctl list-timers --all
+systemctl --user enable gitupdater.timer gitupdater.service 
+sctl --user restart gitupdater.timer gitupdater.service 
+journalctl --user -xe
+systemctl disable --user gitupdater.*
+systemctl disable --user gitupdater.timer gitupdater.service 
+systemctl enable --user gitupdater.timer gitupdater.service 
+sctl --user daemon-reload 
+sctl start --user gitupdater.service 
+sctl status --user gitupdater.service 
+sctl list-timers 
+sctl --user list-timers 
+sctl --user daemon-reload 
+sctl status --user gitupdater.service 
+sctl status --user gitupdater.timer 
+sctl status --user gitupdater.service 
+sctl status --user gitupdater.timer 
+sctl --user daemon-reload 
+sudo reboot 
+rm /etc/cron.daily/lifeCRON 
+sudo rm /etc/cron.daily/lifeCRON 
+ll
+cd /etc/cron.daily/
+ll
+cd
+clear
+sctl --user list-timers --all
+cd ~/.config/customscripts/
+ll
+cat life.sh 
+./life.sh 
+cd
+systemctl --user start gitupdater.service 
+sctl --user list-timers 
+sau
+sarc
+sudo reboot 
+cd ~/.local/share/fonts/
+ll
+cd
+fc-cache 
+fc-cache -v
+clear
+touch ~/.config/conkyrc
+ln -s ~/.conkyrc ~/.config/conkyrc 
+ln -s ~/.config/conkyrc ~/.conkyrc
+mv ~/.config/conkyrc ~/.config/conky/
+ln -s ~/.config/conky/conkyrc ~/.conkyrc
+rm ~/.conkyrc 
+ln -s ~/.config/conky/conkyrc ~/.conkyrc
+ll
+cd ~/.config/conky/
+ll
+mkdir ./helix
+mv bytecode.png conky* README.txt ZegoeLight-U.ttf helix/
+ll
+mv helix/conkyrc .
+ll
+cd
+ll
+cd ~/.config/conky/
+ll
+cd helix/
+ll
+mkdir ~/.config/fonts
+rm -r ~/.config/fonts/
+ll
+mkdir ~/.local/share/fonts/
+cp ZegoeLight-U.ttf ~/.local/share/fonts/
+fc-list 
+clear
+fc-list --user
+fc-match -s ZegoeLight-U.ttf 
+fc-match -s ZegoeLight
+cd
+ll
+cd ~/.config/conky/helix/
 cd ..
-rm -r blender-2.80-linux-glibc217-x86_64/
-sai blender
+rm conkyrc 
+cd helix/
+ll
+mv conky\ helix\ black ../conkyrc
+cd ..
+ll
+cd
+conky 
+sai conky-all
+sai conky-cli
+sarc
 sau
-snap/blender/current/
-sudo apt autoremove 
-fprintd-enroll 
-fprintd-list 
-sai fprintd
-sap fprintd 
-lsusb 
-lspci 
-sudo add-apt-repository 'deb http://ppa.launchpad.net/fingerprint/fingerprint-gui/ubuntu bionic main'
-sudo apt-key adv --keyserver keyserver.ubuntu.com --recv EFD5FA852F20733F
+man conky 
+conky -tr
+killall conky 
+ll
+conky -a tr
+conky --a tr
+man conky 
+rm .conkyrc 
+mv ~/.config/conky/conkyrc ~/.config/conky/conky.conf
+man conky 
+conky 
+killall conky 
+sudo dpkg-reconfigure fontconfig-config 
+fc-list 
+sudo cp ~/.local/share/fonts/ZegoeLight-U.ttf /usr/local/share/fonts/
+cd /usr/local/share/fonts/
+ll
+cd .uuid
+cat .uuid
+cd
+sudo fc-cache -v
+fc-list
+fc-match -s Ze
+conky 
+killall conky 
+clear
+as didiwiki 
+sai conky-all
+sarc
+as conky-all
+sap conky*
+sarc
+as conky-cli
+sai conky-all
+ll
+conky 
+killall conky 
+cd ~/.config/conky/
+ll
+rm conky.conf 
+cp helix/* ./
+ll
+rm bytecode.png conky\ helix\ * README.txt ZegoeLight-U.ttf 
+ll
+rm -r helix/
+ll
+cp google-now/ .
+cp google-now/* ./
+ll
+cd google-now/
+ll
+cp -r * ../
+cd ..
+;;
+ll
+ls -a
+cd google-now/
+cp -r .conky-google-now/ ../.conky-google-now
+ll
+cd ..
+ll
+cd google-now/
+mv .conkyrc* ../
+cd ..
+ll
+conky -c .conkyrc-2-dark 
+rm *
+rm * -r
+ll
+rm *
+ll
+rm -r .*
+ll
+cd google-now/
+ll
+cd 
+ln -s ~/.config/conky/google-now/.conky-google-now/ ~/.conky-google-now/
+ln -s ~/.conky-google-now/ ~/.config/conky/google-now/.conky-google-now/
+ll
+conky -c ~/.config/conky/google-now/.conkyrc-transparent
+rm -r ~/.config/conky/
+ll
+sap conky-all 
+sarc
+sai cava
+sai notify-osd 
+sarc
+killall firefox 
+sudo reboot 
+sai lbry
+cd Downloads/
+ll
+sudo dpkg -i LBRY_0.41.0.deb 
+killall lbry
+cd
+nordvpn connect Canada 
+nordvpn -d 
+nordvpn disconnect 
 sau
-sudo apt autoremove 
-sudo apt-get install libbsapi policykit-1-fingerprint-gui fingerprint-gui
-pass -c Subscriptions/Entertainment/HuluBrownID 
-pass ls
+sarc
+htop
+sai htop
+htop
+pass generate 10 Misc/noom
+pass generate Misc/noom 10 -n
+pass -c Misc/noom 
+pass git push origin master
+pass -c Github/Harith163 
+pass git push origin master
 sau
-hdajackretask 
+ssh kharith1@ssh.ccv.brown.edu
+cd ThesisUndergraduate/MontePython/
+ll
+cd tests/
+ll
+emacsclient tests.tex 
+cd
+ssh kharith1@ssh.ccv.brown.edu
 sau
+sarcc
+sarc
+cd .config/openbox/
+ll
+systemctl --user stop emacs.service 
+rm \#autorun# autostart~ rc.xml~ 
+ll
+systemctl --user start emacs.service 
+cd
+clear
+uname -a
+ifconfig
+sudo ifconfig 
+ip addr show wlp107s0 
+df -ah
+sctl status --user *.timer
+sctl list-units -a
+clear
+htop 
+top 
+htop 
+cat /proc/meminfo 
+clear
+pass find mojang
+pass find minecraft
+pass find mc
+pass find m
+pass
+clear
+htop 
+clear
+cd .emacs.d
+ll
+cd
+systemctl --user restart emacs.service 
+emacs
+sai xcompmgr 
+xcompmgr -c
+(use-package doom-themes;   :config;   ;; Global settings (defaults)
+xcompmgr -c
+sudo reboot 
+sap lbry 
+sarc
+systemctl --user restart emacs.serviceemacs.service 
+systemctl --user restart emacs.service
+killall emacs 
+systemctl --user stop emacs.service
+systemctl --user start emacs.service
+systemctl --user restart emacs.service
+cd ~/.emacs.d
+ll
+cd .cache/
+ll
+cd ..
+rm ~/.cache/
+rm -r ~/.cache/
+ll
+sudo reboot 
+sudo reboot 
+systemctl --user restart emacs.service
+setxkbmap us
+setxkbmap -option "ctrl:nocaps"
+systemctl --user restart emacs.service
+sau
+sarc
 sau
 sudo apt list --upgradable 
-sudo apt list --upgradable |sudo apt upgrade 
-sudo apt upgrade 
-sudo apt install aptitude-common aptitude gir1.2-polkit-1.0 libpolkit-agent-1-0 libpolkit-gobject-1-0 mailutils-common mailutils policykit-1 
-sudo apt autoremove 
-sudo apt autoclean 
-sudo apt list --upgradable 
+sudo apt upgrade cups-bsd
+sudo apt upgrade cups
+clear
+cd ThesisUndergraduate/MontePython/
+python montepython/MontePython.py -p input/base2018TTTEEE.param -o tests/ -N 2
+python montepython/MontePython.py run -p input/base2018TTTEEE.param -o tests/ -N 2
+cd
+sai tlp 
+as tlp 
+sai tlp
+cd .emacs.d/themes/
+ll
+touch TransSide.el
+cd
 sau
+sai cups-core-drivers cups-daemon cups-ipp-utils libcups2 libcupsimage2 -f
+cd ~/.config/gconf/
+ll
+cd ..
+cd gtk-3.0/
+ll
+cd ../gtk-2.0/
+ll
+cd ..
+ll
+cd
+which gnome-terminal
+cd /usr/bin/
+ll
+cat gnome-terminal
+clear
+cd 
+sau
+as cups
+sarc
+cd Downloads/
+ll
+rm wMUJw1Qa.ics 
+rm LBRY_0.41.0.deb nordvpn-release_1.0.0_all.deb PO3-3.2.51.zip 
+ll
+mv far-side-m.txt TransSide.sh
+chmod +x TransSide.sh 
+./TransSide.sh 
+cd Downloads/
+./TransSide.sh 
+sudo apt-get install cmake libfreetype6-dev libfontconfig1-dev xclip
+sudo curl https://sh.rustup.rs -sSf | sh
+cd Downloads/
+git clone https://github.com/jwilm/alacritty.git
+cd alacritty/
+cargo build --release
+as cargo
+sai cargo
+cargo build --release
+cd ..
+rm -r alacritty/
+y
+ll
+rm TransSide.sh~
+ll
+sudo curl https://sh.rustup.rs -sSf | sh
+sudo curl https://sh.rustup.rs --uninstall | sh
+sudo curl https://sh.rustup.rs -h
+clear
+rustup self uninstall
+cd
+man rustc
+rustc self uninstall
+rustc uninstall
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+sap cargo 
+sarc
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+sudo rustup self uninstall
+ll
+rm -r .cargo/
+sudo rm -r .cargo/
+ll
+sap ncmpcpp 
+sarc
+ll
+.rustup/ self uninstall
+cd .rustup/
+ll
+cd downloads/
+ll
+cd ..
+cd toolchains/
+ll
+cd ..
+rm -r .rustup/
+ll
+rm -r .ncmpcpp/
+ll
+cd .lyrics/
+ll
+cd ..
+rm .lyrics/
+rm -r .lyrics/
 ll
 cd snap/
 ll
-cd ..
-cd .keras/
-ll
-cd ..
-sudo aptitude
-sudo apt-get --with-new-pkgs upgrade 
-sau
-5t6y7u89o0p[]\`12we34r5t6y7u8iop[]\`1234567u8i9op[]\Zxcvbn m,./Cqawsedfghujkl;'
-5t6y7u89o0p[]\`12we34r5t6y7u8iop[]\`1234567u8i9op[]\Zxcvbn m,./Cqawsedfghujkl;'CZxc ACZxcvbn mACCC -,vbnm,
-sau
-sudo apt list --upgradable 
-sau
-pass generate 15 Academic/Cengage/Brownemail
-pass generate Academic/Cengage/Brownemail 15
-pass -c Academic/Cengage/Brownemail 
-pass generate Academic/Cengage/ilrn 15
-pass -c Academic/Cengage/ilrn 
-pass generate Academic/BookshelfVitalSource 15
-pass -c Academic/BookshelfVitalSource 
-pass Academic/BookshelfVitalSource 
-pass git push 
-pass -c Github/Harith163 
-sau
-sudo reboot 
-apt changelog emacs
-cd Downloads/
-ll
-rm 2019SummerSublet2-signed.pdf document20190903001211.png mmNoR0mo.ics svaidyanath_190905-131628-18e3.pdf svaidyanath_190905-131628-18e3-signed.pdf Tela-icon-theme-master.zip _WE1noH.pdf 
-ll
-mv 30410_Russell.pdf Russell_Bertrand_INDUCTION.pdf
-ll
-mv Russell_Bertrand_INDUCTION.pdf ~/Documents/SchoolStuff/PHIL1950/
-ll
-cd
-sau
-pass Email/Gmail/KaushikPersonal 
-pass -c Github/Harith163 
-sau
-pass git push 
-pass Quizlet
-sau
-cd Do
-cd Downloads/
-ll
-sudo dpkg -i multimc_1.3-1.deb 
-sudo apt install -f
-ll
-rm multimc_1.3-1.deb 
-asThe song was quite fun! It reminded me of 'Alphabet aerobics' by Blackalicious.
-I enjoy listening to this German metal band called Rammestien. This song 'Sonne' is one of my favorites
-Rammstein - Sonne (Official Video) (Links to an external site.)
-Rammstein - Sonne (Official Video)
-There is also this song that isn't exactly in german or by a german singer but is about Merkel that I find quite funny
-
- 
-
-Angela Merkel - Ruf mich Angela (The Unofficial Oktoberfest 2019 Song) by Klemen Slakonja (Links to an external site.)
-Angela Merkel - Ruf mich Angela (The Unofficial Oktoberfest 2019 Song) by Klemen Slakonja
-
- 
-
- 
-sau
-sudo apt autoremove 
-sudo apt autoclean 
-ll
-as wine
-sai wine
-wine
-wine-stable 
-wine64 
-wine64 Downloads/ly5e26a2.exe 
-fwupdmgr get-updates 
-fwupdmgr update 
-fwupdmgr activate 
-fwupdmgr --version 
-fwupdmgr get-approved-firmware 
-fwupdmgr get-devices 
-fwupdmgr get-remotes 
-fwupdmgr install 
-
-fwupdmgr activate 1b71f91a44b4637560ae888e047e3d1158f221af {UEFI Device Firmware} 
-fwupdmgr activate 1b71f91a44b4637560ae888e047e3d1158f221af {UEFI Device Firmware}
-fwupdmgr activate 2e14fa5b6bb1bb204cda95eadc94b5542067f59d {UEFI Device Firmware} 
-fwupdmgr activate ad1d4f01af6e5b395bdecddfad56f1b79640caf6 {81C4 System Firmware} 
-sudo reboot 
-hdajackretask 
-sau
-sudo apt autoclean 
-sudo apt autoremove 
-pass generate Academic/Quizlet/SkyeHarith 20
-pass -c Academic/Quizlet/SkyeHarith 
-sudo systemctl --user restart emacs.service 
-sau
-sudo apt-get install libqt5widgets5 libqt5network5 libqt5svg5
-cd Downloads/Write/
-ll
-./Write 
-cat Write 
-clear
-less Write 
-ll
-open .
-cd
-write 
-./Write 
-cd ~/.config/bash/
+cd gallery-dl/
 ll
 cd ..
 ll
-cd ..
-cd /usr/bin/
+cd .mputils/
 ll
-d 
+cat settings.dat 
 cd
-ln -s /usr/bin/WriteNotes ~/Write 
-ln -s ~/Write /usr/bin/WriteNotes 
-sudo ln -s ~/Write /usr/bin/WriteNotes 
-WriteNotes 
+rm -r .mputils/
+ll
+mv ~/.minecraft/ ~/.config/minecraft
+ln -s ~/.config/minecraft/ ~/.minecraft
+ll
+cd .minecraft
+ll
+cd astralsorcery_persistent/
+ll
+cd 
 sau
+sarc
+as st
+as dconf-cli 
+cd .config/dconf/
 ll
-rm -r ~/.config/mycroft*
-sudo rm -r ~/.config/mycroft*
-ll
-rm ~/.mycroft ~/mycroft-core 
-ll
-rm ~/ \#.profile# 
-ll
-rm ~/.config/F5networks/ ~/.F5networks
-rm -r ~/.config/F5networks/ ~/.F5networks
-ll
-sap wine julia 
-ll
-rm -r ~/.sage ~/.config/sage/ ~/.keras/
-ll
-rm -r ~/.julia ~/.config/julia/
-sudo rm -r ~/.julia ~/.config/julia/
-rm ~/.pki/
-rm -r ~/.pki/
-ll
-sau
-sudo apt autoremove 
-sudo apt autoclean 
-sau
-sudo apt autoremove 
-sudo apt autoclean 
-sau
-cd Documents/SchoolStuff/PHIL1950/
-ll
-cd Downloads/
-ll
-mv 24570_Hempel_Scientific.pdf 25961_Duhem.pdf 31047_Popper.pdf 31048_Goodman.pdf ~/Documents/SchoolStuff/PHIL1950/
-cd ~/Documents/SchoolStuff/PHIL1950/
-;;
-mkdir Readings
-ll
-mv Russell_Bertrand_INDUCTION.pdf Readings/Bertrand_Induction.pdf
-mv 24570_Hempel_Scientific.pdf 25961_Duhem.pdf 31047_Popper.pdf 31048_Goodman.pdf Readings/
-cd Readings/
-ll
-pass -c Github/Harith163 
-sau
-apt changelog fwupd
-sudo reboot 
-pass generate Misc/PriorityPass/KaushikHarith16 8
-pass -c Misc/PriorityPass/KaushikHarith16 
-pass edit Misc/PriorityPass/KaushikHarith16 
-pass Misc/PriorityPass/KaushikHarith16 
-sau
-pass -c Github/Harith163 
-pass git push 
-}Q2HarmIxesF[vp
-pass git commit
-pass git push master
-pass git push 
-cd ~/Documents/life/
-ll
-git commit life.org life.html -m "life:Better"
-git push origin origin/master 
-cd
-pass Misc/PriorityPass/KaushikHarith16 
-pass
-cd Documents/life/
-ll
-git status 
-rm CengageBullshit.pdf life.html~ lifeTODO.txt*
-ll
-rm -r auto/
-;;
-ll
-git commit life.html life.org -m "life:Better"
-git push origin origin/master 
-git push origin master 
-pass -c Github/Harith163 
-sau
-apt changelog pam-dbus-notify 
-apt changelog fingerprint-gui
-apt changelog fprintd
-sudo reboot 
-sau
-sudo apt autoremove 
-sudo apt autoclean 
-sau
-pass Academic/Ets/KaushikHarith16 
-sudo apt autoremove 
-sudo apt autoclean 
-bluest
-blueman-manager 
-cd Documents/life/
-l
-lll
-ll
-git sta
-git status 
-git commit life.org life.html -m "life:AAAAAAAAGGGGGGHHHHHHHHHHH"
-git push origin origin/master 
-git push origin master 
-pass -c Github/Harith163 
-sau
-pass -c Browsers/Firefox 
-sau
-sudo apt autoremove 
-sudo apt autoclean 
-sau
-sudo apt autoremove 
-sudo apt autoclean 
-cd Documents/SchoolStuff/PHIL1950/
-ll
-rm midterm2.org 
-rm notes.*
-ll
-mkdir Midterm1
-mv auto/ Midterm1/
-ll
-mv midterm1.* Midterm1/
-ll
-rm .#notes.org 
-ll
-rm '#notes.org#' 
-ll
-mkdir Midterm2
-cd Midterm2
-cd ..
-cp Midterm1/midterm1.tex Midterm2/
-cd Midterm2/
-ll
-mv midterm1.tex midterm2.tex
-ll
-cel
-clear
-ll
-clear
-systemctl --user restart emacs.service 
-sau
-gnome
-sudo apt install gnome
-sudo reboot 
-sau
-sudo apt autoremove 
-sudo apt autoclean 
-sau
-man youtube-dl 
-man yelp
-man yes
-yes "fuck me fuck like fuck skye"
-clear
-pass -c Github/Harith163 
-cd Documents/SchoolStuff/PHIL1950/Readings/
-ll
-cd Downloads/
-ll
-cd ~/Documents/
-ll
-mv ETS.pdf TASIp1.pdf
-ll
-rm TASIp1.pdf 
-cd ~/Downloads/
-l
-ll
-rm 31060_Smart(1).pdf
-open
-open .
-ll
-mv * ~/Documents/SchoolStuff/PHIL1950/Readings/
-ll
-pass -c Github/Harith163 
-sau
-cd Documents/life/
-git commit life.org life.html -m "life:SlightlyBetter"
-git push origin master 
-sau
-sudo apt autoremove 
-sudo apt autoclean 
-clear
-xset r rate 200 40
-xset r rate 100 40
-xset r rate 1000 40
-xset r rate 1000 4000
-xset r rate 220 10
-xset r rate 400 10
-xset r rate 400 100
-sai fprintd
-ll
-pass git push 
-pass -c Github/Harith163 
-pass git push 
-cd Downloads/
-ll
-rm *
-ll
-open .
-cd
-cd Pictures/
-ll
-rm TatActionPrint.png 
-open .
-clear
-cd
-open Downloads/
-sau
-sudo apt autoremove 
-sudo apt autoclean 
-sau
-sudo apt autoclean 
-sudo apt auto
-sudo apt autoremove 
-say
-sau
-nmap
-as nmap
-sai nmap
-nmap ip6-allnodes 
-nmap ip6-allnodes HarithLaptop
-nmap HarithLaptop ::1
-man nmap 
-nmap -A HarithLaptop
-nmap -A ip6-allrouters 
-nmap -A ip6-allnodes 
-nmap -A HarithLaptop.home 
-sai chrome
-cd Downloads/
-ll
-rm CodeCogsEqn* icon-4814px*
-ll
-sudo dpkg -i google-chrome-stable_current_amd64.deb 
-open .
-cd Downloads/
-kk
-ll
-mkdir NARUTO
-cd NARUTO/
-mk P1
-mkdir Part1
-cd Part1/
-;;
-ll
-cd ~/Downloads/
-ll
-mv Episode\ * NARUTO/Part1/
-ll
-cd NARUTO/
-ll
-cd Part1/
-ll
-cd
-cd Downloads/
-ll
-mv Lipton\ 2005.pdf ~/Documents/SchoolStuff/PHIL1950/Readings/
-cd
-cd Documents/SchoolStuff/PHIL1950/Readings/
-ll
-sau
-cd ..
-mkdir Term Paper
-cd Term/ Paper/
-cd Term/
-cd ..
-rm -r Term/ Paper/
-mkdir TermPaper
-cd TermPaper/
-touch Termpaper.org
-pass Lastpass 
-pass -c Lastpass 
-pass -c Subscriptions/Entertainment/HuluBrownID 
-pass generate -n 15 Subscriptions/Entertainment/Disney+
-pass generate 15 Subscriptions/Entertainment/Disney+
-java --version 
-wget --no-cookies --no-check-certificate --header "Cookie: oraclelicense=accept-securebackup-cookie" https://download.oracle.com/otn-pub/java/jdk/13.0.1+9/cec27d702aa74d5a8630c65ae61e4305/jdk-13.0.1_linux-x64_bin.deb
-cd Downloads/
-ll
-cd
-sudoedit /etc/apt/sources.list.d/java-8-debian.list
-cd /etc/apt/sources.list.d/
-ll
-sau
-cd
-sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys EEA14886
-sau
-cd /etc/apt/sources.list.d/
-l
-lll
-ll
-rm java-8-debian.list 
-sudo rm java-8-debian.list 
-cd
-sudo emacs /etc/apt/sources.list.d/java-8-debian.list
-sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys EEA14886
-sudo apt update 
-sudo rm /etc/apt/sources.list.d/java-8-debian.list 
-sau
-sudo apt autoremove 
-apt --fix-broken install 
-sudo apt --fix-broken install 
-sudo apt autoclean 
-sudo apt autoremove 
-sudo apt --fix-broken install 
-sudo apt purge libpcre2-dev 
-sudo apt clean 
-sudo apt install 
-sudo apt install libpcre2-dev 
-sau
-apt install --fix-broken 
-sudo apt install --fix-broken 
-sudo apt-get --fix-broken --fix-missing install 
-cd /var/cache/apt/archives/
-ll
-sudo rm libpcre2-posix2_10.34-5_amd64.deb 
-cd
-sudo apt-get --fix-broken install 
-sudo apt autoremove 
-cd /var/cache/apt/archives/
+cat user
+users user
 cd
 clear
-sau
-apt-get --fix-missing install 
-sudo apt-get --fix-missing install 
-sudo apt-get --fix-broken install 
-sau
-mkdir ~/Movies
-rm -r ~/Movies/
-mkdir ~/Videos/
-mv ~/Downloads/NARUTO/ ~/Videos/
-cd ~/Videos/
+sai xterm
+sap gnome-terminal
+xterm 
+cat .Xauthority 
+sai terminator
+sap terminator 
+sarc
 ll
-open .
+rm -r .config/terminator/
+cd .config/
+ll
 cd
-Sau
-sau
-cd Documents/GradSchool/
-open .
-cd
-sau
-cd
-cl
-clear
-cl
-clear
-pdftk 
-pdftk Documents/SchoolStuff/GRE/ETS_registration.pdf Documents/SchoolStuff/MATH1130/notes.pdf combined.tex
-pdftk Documents/SchoolStuff/GRE/ETS_registration.pdf Documents/SchoolStuff/MATH1130/notes.pdf combined.pdf
-clearz
-clear
-sudo apt autoclean 
-sudo apt autoremove 
-pass Subscriptions/Amazon/BrownID 
-sau
-apt search gnome tiling
-apt search gnome-shell-tilin
-apt search gnome-shell-tiling
-cd Downloads/
-open .
-as webdav
-as web
-as WebDav
-source ~/.profile
-source ~/.bashrc 
-cd Downloads/
+sai xfce4-terminal 
+sap xterm 
+as vprerex 
+sap xterm 
+sarc
+sai texlive
+sai texlive-full 
 ll
-rm Resume*
-ll
-rm SOP\ *
-ll
-cd ~/Documents/GradSchool/
-ll
-rm SOP*
-ll
-mv ~/Downloads/SOP\ Cornell.docx ~/Downloads/Resume.docx ~/Documents/GradSchool/
-ll
-rm \#SOP.org# 
-ll
-rm SOP\ Cornell.docx 
-mv ~/Downloads/SOP\ Cornell.docx ~/Documents/GradSchool/
-ll
-cd Dow
-cd ~/DOw
-cd ~/Downloads/
-ll
-mv ~/Downloads/SOP\ UC\ Boulder.docx ~/Documents/GradSchool/
-cd ~/Documents/GradSchool/
-ll
-cd Documents/SchoolStuff/PHIL1950/
-mkdir Midterm3
-cd Midterm3
-cd ..
-cd Midterm2
+cd .config/
+cd xfce4/
+cd terminal/
 ll
 cd ..
-cd Midterm3/
-touch midterm3.tex
-cd Documents/life/
-git commit life.org life.html -m "ALMOST"
-git push origin origin/master 
-pass -c Github/Harith163 
-git push origin master 
-git commit life.org life.html -m "ALMOST"
-git push origin master 
-pass git push 
-$TERM 
-kpsewhich texmf.cnf
-echo $TERM 
-echo $TEXMFHOME
-$TEXMFHOME
-texhash
-sudo texhash 
-cd ~/.texlive2019/
+cd xfconf/
 ll
-cd.
 cd
-rm jdk-13.0.1_linux-x64_bin.deb 
-kpsewhich -var-value=TEXMFHOME
-cd ~/texmf
-mkdir ~/texmf
-mv ~/.texlive2019/ ~/.config/texlive2019
-ln -s ~/.config/texlive2019/ ~/.texlive2019
+sap xfce4-terminal 
+sarc
+cd
 ll
-cd ~/texmf/
-mkdir -P tex/latex/usefulcommands/
-mkdir --parents tex/latex/usefulcommands/
-cd tex/latex/usefulcommands/
-touch usefulcommands.sty
-cd
-kpsewhich usefulcommands.sty
-as chicago
-aptitude show chicago
-aptitude show bibtex
-sai rtorrent 
-sau
-sai axel aria2 
-man aria2c 
-pass Social/Facebook/superpsychicgenius 
-sau
-pass generate Misc/Sathyam/kaushik.harith@gmail.com 15
-pass -c Misc/Sathyam/kaushik.harith@gmail.com 
-pass git push 
-pass -c Github/Harith163 
-pass git push 
-pass
 clear
+sap xfconf 
+cd Downloads/
+ll
+cd
+ll
+cd
+cd Downloads/
+ll
+clear
+./TransSide.sh 
+clear
+ll
+sap xterm 
+xterm 
+cd Downloads/
+./TransSide.sh 
 cd Documents/
 ll
-rm test.*
-ll
-rm -r auto/
-mv Big5.pdf life/
-cd GradSchool/
-ll
-cd ~/Downloads/
-ll
-mv pdfresizer.com-pdf-resize.pdf page-002.pdf
-mv page-002.pdf ~/Documents/GradSchool/page_002.pdf 
-mv Downloads/SOP\ Stony\ Brook.docx Documents/GradSchool/
-cd Documents/GradSchool/
-ll
 cd
-mv Downloads/SOP\ Columbia.docx Documents/GradSchool/
-cd Documents/GradSchool/
 ll
-rm SOP\ Columbia.docx 
-cd
-cd Downloads/
+ls -a
 ll
-rm SOP\ Columbia.docx 
-cd ~/Documents/GradSchool/
-ll
-cd
-mv ~/Downloads/SOP\ Columbia.docx ~/Documents/GradSchool/
-cl
-clear
-bluetoothctl 
-sudo systemctl disable bluetooth.service 
+ls
 sau
-pass mv Subscriptions/Entertainment/HuluBrownID Subscriptions/Entertainment/HuluKaushikID
-pass rm Subscriptions/Entertainment/HuluKaushikI
-pass Subscriptions/Entertainment/HuluKaushikID 
-pass git push
-pass Github/Harith163 
+sarc
+ll
+ls -a
 pass -c Github/Harith163 
-pass git push 
-pass find Mojan
-pass find Mojang
-pass find min
-pass find ama
-sai wget gnupg software-properties-common 
+systemctl --user restart emacs.service
+as powerline
+sudo pip install powerline-shell
+source ~/.profile
+clear
+cd ThesisUndergraduate/
+cd ~/.emacs.d
+cd
+clear
 sau
-wget -qO - https://adoptopenjdk.jfrog.io/adoptopenjdk/api/gpg/key/public | sudo apt-key add -
-sudo add-apt-repository --yes https://adoptopenjdk.jfrog.io/adoptopenjdk/deb/
-apt update -y
-sudo apt update -y
+mkdir -p ~/.config/powerline-shell
+cd ~/.config/powerline-shell/
+ll
+powerline-shell --generate-config > ./config.json
+ll
+cat config.json 
+cd .config/powerline-shell/
+ll
+cat config.json 
+sudo pip purge powerline-shell
+sudo pip uninstall powerline-shell
+ll
+clear
+ls 
+ls -a
+ll
+cd ~/Documents/life/
+ll
+cd 
+systemctl --user restart emacs.service
+sau
+sarc
+sudo reboot 
+sudo add-apt-repository ppa:mmstick76/alacritty
+sau
 cd /etc/apt/sources.list.d/
 ll
-cd ..
-ll
-cat sources.list
-sudoedit sources.list
-sau
-wget -qO - https://adoptopenjdk.jfrog.io/adoptopenjdk/api/gpg/key/public | sudo apt-key add -
-sudo add-apt-repository --yes https://adoptopenjdk.jfrog.io/adoptopenjdk/deb/
-sudoedit /etc/apt/sources.list
-sudo apt update -y
-sau
-y
-sudo apt autoremove 
-sudo apt autoclean 
-sudo apt install adoptopenjdk-8-hotspot -y
-java -version 
+cat mmstick76-ubuntu-alacritty-focal.list 
+sudo rm mmstick76-ubuntu-alacritty-focal.list 
 cd
 sau
-as nordclient
+sarc
 cd Downloads/
+git clone https://github.com/alacritty/alacritty.git
 ll
-rm microg_YouTube_Vanced_0.2.6.17455_28052019\ \(11\).apk 
-rm YouTube_14.21.54_API19\(arm64-v8a_armeabi-v7a_x86\)\(nodpi\)\(vBlack-v2.0.8\)-vanced_BLauncher_MicroG_CrashFix.apk 
+cd alacritty/
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+cd
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+cd Downloads/alacritty/
+cd
+rustup override set stable
+rustup update stable
+sudo apt-get install cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-xfixes0-dev python3
+cd Downloads/alacritty/
+cargo build --release 
+alacritty
+cp target/release/alacritty ~/.local/bin/
 ll
-sudo dpkg -i nordvpn-release_1.0.0_all.deb 
-sau
-pass 
-pass -c NordVPN 
-sudo apt install nordvpn
-nordvpn login 
-nordvpn connect 
-nordvpn connect United_States 
-nordvpn disconnect 
-pass NordVPN 
-nordvpn connect Japan Tokyo 
-nordvpn rate 
-nordvpn settings 
-nordvpn h
-nordvpn set killswitch on 
-nordvpn d
-nordvpn c United_States New_York 
-nordvpn d
-nordvpn disconnect 
-nordvpn connect India Mumbai 
-nordvpn disconnect 
-nordvpn connect 
-sai gnupg1 apt-transport-https dirmngr 
-export INSTALL_KEY=379CE192D401AB61
-export DEB_DISTRO=$(lsb_release -sc)
-sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys $INSTALL_KEY
-echo "deb https://ookla.bintray.com/debian ${DEB_DISTRO} main" | sudo tee  /etc/apt/sources.list.d/speedtest.list
-sau
-sudoedit /etc/apt/sources.list.d/speedtest.list 
-sau
-sai speedtest
-nordvpn d
-nordvpn c
-sai speedtest
-speedtest 
-sudo apt autoremove 
-sudo apt autoclean 
-sau
-cat /etc/apt/sources.list
-nordvpn d
-speedtest 
-nordvpn c
-nordvpn c India Mumbai 
-nordvpn d
-sudo reboot 
-nordvpn c
-speedtest 
-nordvpn c India 
-speedtest 
-nordvpn d
-nordvpn set killswitch off 
-sau
-sudoedit /etc/apt/sources.list
-sau
-sudoedit /etc/apt/sources.list
-sau
-sap fprintd fingerprint-gui 
-sudo apt autoremove 
-sudo apt autoclean 
-sau
-nordvpn d
-speedtest 
-pass Social/Facebook/superpsychicgenius 
-pass git pull 
-pass Github/Harith163 
-pass -c Github/Harith163 
-pass git pull
-pass Social/Facebook/superpsychicgenius 
-pass -c Social/Facebook/superpsychicgenius 
-sau
-pass NordVPN 
-sau
-sudo apt autoremove 
-sudo apt autoclean 
-sau
-ll
-speed test
-speedtest 
-bluetoothctl 
-man bluetoothctl 
-sudo systemctl enable bluetooth.service 
-blueman-manager 
-sau
-speedtest 
-sau
-sudo apt autoremove 
-sudo apt autoclean 
-sudo apt autoremove 
-sau
-sudo apt autoremove 
-sudo apt autoclean 
-sau
-sudo reb
-sudo reboot 
-sau
-sudo apt autoremove 
-cd Documents/SchoolStuff/
-ll
-mkdir ThesisUndergraduate
-cd ThesisUndergraduate/
-mkdir CLASS
-mkdir MONTEPYTHON
-cd CLASS/
-git clone https://github.com/lesgourg/class_public.git class
-ll
-cd ..
-rm CLASS/
-rm -r CLASS/
-ll
-rm -r MONTEPYTHON/
-git clone https://github.com/lesgourg/class_public.git class
-ll
-cd class/
-ll
-make -j 8
-explanatory.ini
-./class explanatory.ini 
-python
-python3
-python2
-python 
-sudo pip install cython
-sai cython
-python
-make clean
-make 
-python
-ipython notebooks/
-ipython notebooks/*.ipynb
-ipython
-ipython notebooks/thermo.ipynb 
-ipython
-ipython start
-jupyter notebook
-ipython notebook
-ipython notebooks/many_times.ipynb 
-cd notebooks/
-ipython notebook 
 cd
 ll
-cd ipython
-cd .ipython
+ls
+ls -a 
+clear
+mv Downloads/alacritty/ ~/.config/alacritty
+cd ~/.config/alacritty/
 ll
-cd extensions/
-ll
-cd
-sap ipython
-sai jupyter
-cd Documents/SchoolStuff/ThesisUndergraduate/
-ll
-cd class/notebooks/
-ll
-jupyter notebook 
-jupyter notebook *
-sai python-matplotlib python-scipy
-as python-scipy-doc 
-as python-sciscipy 
-sai python-pip
-sudo pip install scipy
-jupyter notebook one_time.ipynb 
-sudo pip install matplotlib
-jupyter
-jupyter notebook
-sai pip2 install matplotlib scipy
-pip2 install matplotlib scipy
-python
-ll
-python
-sai python-matplotlib
-python
-jupyter notebook
-cd ..
-git clone https://github.com/brinckmann/montepython_public.git montepython
-cd montepython/
-ll
-python montepython/MontePython.py -o test -p example.param -N 10
-ll
-cd montepython/
-
-python montepython/MontePython.py -o test -p example.param -N 10
-python MontePython.py -o test -p example.param -N 10
-python MontePython.py --help
-python MontePython.py -v
-python MontePython.py --verbose
-python MontePython.py --version
-cd
-cd Documents/SchoolStuff/ThesisUndergraduate/
-cd class/
-cd notebooks/
-jupyter notebook
-python
-jupyter
-python 
-python
-ll
-evince cl_ST.pdf 
-rm cl_ST.pdf 
-cd
+clear
 sau
-sudo apt autoremove 
-$PATH
-editor .bashrc 
-source ~/.profile
-cd Documents/SchoolStuff/
-bg 
-source ~/.profile
+sarc
 ll
-cd Documents/SchoolStuff/ThesisUndergraduate/
-cd class/
-jupyter notebooks/
-jupyter notebook
-cd
-ll
-cd ~/.config/ipython/
-ll
-cd ..
-rm -r ./ipython/
-cd ..
-rm ~/.ipython 
-ll
-cd Documents/SchoolStuff/ThesisUndergraduate/
-cd class/
-jupyter
-cd notebooks/
-jupyter notebook
-cd
-where ipython
-sai where
-$where ipython
-where 
-cd
-source ~/.profile
-jupyter notebook -B
-jupyter notebook $
-jupyter notebook 
-cd Documents/SchoolStuff/ThesisUndergraduate/class/notebooks/
-jupyter notebook . $
-fg 
-jobs
-jupyter notebook .$
-jupyter notebook $
-jupyter notebook ./ &
-jupyter-notebook --no-browser --port=5000
-jupyter-notebook --no-browser --port=5000&
-sudo reboot 
-cd Documents/SchoolStuff/ThesisUndergraduate/class/
-cd notebooks/
-jupyter-notebook --no-browser --port=5000
-cd
-sap jupyter ipython3 
-ll
-rm -r ~/.ipython/ \#.bashrc# ~/.jupyter/
-ll
-rm -r ~/.F5Networks/
+sap gnome-terminal
+sarc
 ;;
 ll
-sai jupyter-notebook ipython
-sudo apt autoremove 
-sudo apt autoclean 
-cd Documents/SchoolStuff/ThesisUndergraduate/
+as tmux
+sai tmux
+man tmux
+sap tmux 
 ll
-cd class/
-ll
-cd notebooks/
-cd
-jupyter-notebook --no-browser --port=5000
-jupyter-notebook --no-browser --port=0000
-jupyter-notebook --no-browser --port=8888
-cd Documents/SchoolStuff/ThesisUndergraduate/class/notebooks/
-jpnb 
-jpnb &
-jpnb &&
-jpnb & &
-jpnb &
-cd
-sai elpa-auto-complete 
-sap ipython 
-rm -r ~/.ipython/
-ll
-as ipython
-as python-ipython
-sai python-ipython
-sai python-ipykernel 
-jpnb
-cd Documents/SchoolStuff/ThesisUndergraduate/class/notebooks/
-jpnb &
-ll
-rm warmup_cltt.pdf 
-as elpa-git-commit 
-as elpa-git-modes 
-cd
-systemctl status emacs.service
-systemctl restart --user emacs.service 
-cd ~/.config/systemd/user/
-ll
-emacsclient emacs.service
-sai elpa-auto-complete elpa-org elpa-org-bullets elpa-
-sai elpa-auto-complete elpa-org elpa-org-bullets 
-sap auctex 
-sai auctex 
-as catdvi 
-sau
-systemctl restart --user emacs.service 
-sai elpa-rainbow-delimiters 
-systemctl restart --user emacs.service 
-blueman-manager 
-sai elpa-use-package
-sudo apt autoremove 
-sai elpa-magit
-cd .emacs.d
-ll
-cd elpa/
+clear
+as powerline
+sai powerline
+source .profile
+which powerline
+which powerline-daemon 
+sai locate 
+locate powerline.sh
+powerline-daemon -q
+cd ~/.config/powerline-shell/
 ll
 cd ..
+rm -r powerline-shell/
+ll
+cd 
+ll
+powerline
+man powerline
+man powerline-config 
+sap xterm 
+powerline
+powerline -c
+ll
+powerline-config 
+powerline-config ~/.config/powerline/ shell
+powerline-config shell
+man powerline-config 
+sap powerline 
+curl https://raw.githubusercontent.com/riobard/bash-powerline/master/bash-powerline.sh > ~/.config/bash/bash-powerline.sh
+cd .config/bash/
+ll
+cd
+source ~/.config/bash/bash-powerline.sh 
+ll
+clear
+cd ~/.emacs.d
+time tree -
+time tree /
+clear
+ll
+cd ThesisUndergraduate/MontePython/
+ll
+ls
+ls -a
+ls
+cd //
+ll
+cd
+time tree /
+clear
+time tree /
+sudo update-alternatives --config alacritty
+sudo update-alternatives --config x-terminal-emulator 
+sudo update-alternatives --config |grep terminal
+cle
+cd
+clear
+sudo update-alternatives --config x-terminal-emulator 
+cd /usr/bin/
+cat x-terminal-emulator 
+sap l
+cd .
+killall dconf-service 
+cd
+update-alternatives --config x-terminal-emulator 
+cargo install cargo-deb
+cargo deb --install -p alacritty
+cd
+cd ~/.config/alacritty/
+cargo deb --install -p alacritty
+sau
+sarc
+update-alternatives --config x-terminal-emulator 
+clear
+sudo update-alternatives --config x-terminal-emulator 
+clear
+sudo reboot 
+which alacritty 
+sudo mv ~/.local/bin/alacritty /usr/local/bin/
+clear
+sudo update-alternatives --config x-terminal-emulator 
+man update-alternatives 
+cd /etc/alternatives/
+ll
+cd
+cat /usr/bin/x-terminal-emulator 
+$XTERM
+echo $XTERM
+XTERM=alacrityy
+XTERM=alacritty
+echo $XTERM
+sudo update-alternatives --config x-terminal-emulator 
+which koi8rxterm 
+echo $PATH
+sudo mv /usr/local/bin/alacritty /usr/bin/
+ll
+clear
+which alacritty 
+sudo update-alternatives --config x-terminal-emulator 
+sudo reboot 
+sudo update-alternatives --config x-terminal-emulator 
+lxterm 
+uxterm 
+koi8rxterm 
+cd
+clear
+sau
+cd ~/.config/openbox/
+emacs rc.xml 
+cd
+clear
 cd .emacs.d/
 ll
-rm init.el 
-cd ..
-rm -r .emacs.d/
-rm \#init.el# 
-ll
-git commit init.el 
-git push origin master 
-pass -c Github/Harith163 
-git push origin master 
-rm init.el 
-mv ~/Documents/Misc/init.el ~/.emacs.d/
-ll
-chmod +x init.el 
-ll
-systemctl --user restart emacs.service 
-sai vim
-apt search elpa-org
-as elpa-org
 cd
-as texlive-full
-pass -c Github/Harith163 
-cd Documents/life/
-l
-ll
-rm life.pdf  life.tex*
-ll
-git commit -m"Week1"
-git commit -m life.org life.html "Week1"
-cd Documents/life/
-git commit -m "Week 1" life.org life.html 
-git push origin master 
-jupyter-notebook --stop
-bg 
-source ~/.bashrc 
-jpnb 
-cp life.org README.org
-git commit README.org -m "asdsada"
-git commit README.org 
-ll
-rm README.md 
-git commit
-git add README.org 
-git commit README.org 
-git push 
-git push origin master 
-cd ~/.emacs.d/
-ll
-rm -r ./elpa/
-ll
-systemctl --user restart emacs.service 
-clear
-sai ed
-ed
-cl
-clear
-systemctl --user restart emacs.service 
-systemctl --user restart emacs.service 
-sai pylint
-systemctl --user restart emacs.service 
-emacsclient /tmp/test.py
-as virtualenva
-as virtualenv
-sai virtualenv
-rm /tmp/test.py 
-ll
-rm .wget-hsts .Xauthority 
-ll
-mv ~/.pylint.d/ ~/.config/pylint.d/
-cd ~/.config/
-ll
-cd pylint.d/
-ll
-cd ..
-ll
-ln -s ~/.config/pylint.d/ ~/.pylint.d
-ll
-mv ~/.jupyter/ ~/.config/jupyter
-ln -s ~/.config/jupyter ~/.jupyter
-ll
-cd ~/.jupyter
-;;
-ll
-cd
-mv ~/.ipython/ ~/.config/ipython
-ln -s ~/.config/ipython/ ~/.ipython
-ll
-mv ~/.java/ ~/.config/java
-ln -s ~/.config/java/ ~/.java
-ll
-rm .python_history 
-ll
-pass -c Github/Harith163 
-systemctl --user restart emacs.service 
-cd .emacs.d
-git commit init.el 
-pass -c Github/Harith163 
-git push origin master 
-systemctl --user restart emacs.service 
-git add initfile.org 
-git commit init.el initfile.org 
-git push origin master 
-git status 
-ll
-ll
-sau
-systemctl --user restart emacs.service 
-cd ~/.emacs.d
-ll
-pass -c Github/Harith163 
-systemctl --user restart emacs.service 
-git commit initfile.org 
-git push origin master 
-git pull origin master 
-ll
-git push origin master 
-git status 
-ll
-rm initfile.org~ recentf~ init.el~
-ll
-emacs init.el 
-sau
-sudo apt autoremove 
-sudo apt autoclean 
-as feynmf
-sai feynmf
-cd Documents/SchoolStuff/PHYS2400/
-ll
-rm diagram.*
-ll
-rm fmfdefault.*
-ll
-rm notes.org~ notes.tex~
-ll
-rm diagram.* fmfdefault.* notes.tex~
-ll
-sau
-sudo apt autoremove 
-sai awesome
-systemctl --user restart emacs.service 
-git config --global user.email kaushik.harith@gmail.com
-git user.email
-git config user.email 
-cd .emacs.d
-ll
-git add initfile.org 
-git commit initfile.org 
-cd 
-cd Documents/life/
-ll
-pass -c Github/Harith163 
-rm life.html* README.org 
-ll
-mv Big5.pdf ~/Documents/Misc/
-ll
-mv life.org README.org
-systemctl --user restart emacs.service 
-cd
-sai openbox
-sap awesome*
-sap feh 
-sudo apt autoremove 
-ll
-rm .aspell.en.p*
-;;
-ll
-cd .config/
-ll
-rm -r awesome/
-ll
-cd 
-openbox-session 
-openbox
-edit ~/.xinitrc 
-startx 
-cat ~/.xinitrc 
-startx
-cd Desktop/backup/
-ll
-cd .config/
-ll
-cd ..
-cd .themes/
-ll
-cd
-as slim
-sai slim
-ll
-cd Desktop/backup/
-ll
-cd .themes/
-ll
-cd ..
-cd .config/
-kk
-ll
-cd .slim
-
-cd slim/
-ll
-cd Deepin/
-ll
-cd 
-mv Desktop/backup/.config/slim/ ~/.config/
-mv Desktop/backup/.config/tint2/ ~/.config/
-mv Desktop/backup/.config/openbox/ ~/.config/
-ll
-cd .mozilla
-ll
-cd firefox/
-ll
-cd ~/Desktop/backup/.firefox/
-ll
-cd homepage/
-ll
-cd ..
-ll
-cd ..
-ll
-cd .wallpaper/
-ll
-emacs *
-cd ..
-cd .font/
-ll
-cd .
-cd ..
-cd .icons/
-ll
-cd drops/
-ll
-cd ..
-cd places/
-ll
-cd
-startx
-xinit 
-ll
-sai obconf obmenu
-sai obconf 
-obconf 
-sai menu
-slim
-slim ~/.config/slim/
-man slim
-slim -p ~/.config/slim/Deepin/slim.theme 
-slim -p ~/.config/slim/Deepin/
-emacsclient ~/.xinitrc 
-slim -d 
-cd /usr/
-ll
-cd share/
-ll
-cd slim/themes/
-ll
-cd default/
-ll
-cd ..
-cd debian-joy/
-ll
-cd ..
-cd
-ll
-ls -a
-ls
-ls -h
-ls -lh
-man sl
-man slip
-man slim
-sau
-sudo dpkg-reconfigure slim 
-sap gdm3 
-sudo reboot 
-ll
-cat .xsession-errors 
-sap gnome
-sap gnome*
-sudo reboot 
-sap menu 
-sudo apt autoremove 
-sai openbox-menu 
-sudo reboot 
-sudo apt purge openbox*
-sai openbox obconf feh
-sudo apt autoremove 
-feh 
-openbox-session 
-startx
-cd
-cd ..
-cd 
-ll
-emacsclient
-firefox 
-man xkb
-setxkbmap en
-acpi 
-setxkbmap us
-man setxkbmap 
-setxkbmap -option "ctrl:nocaps"
-emacs
-emacsclient ~/.config/openbox/
-sai evince
-obconf 
-sai gnome-terminal
-gnome-terminal
-cd ~/.config/openbox/
-ll
-as obamenu
-apt search obamenu
-cd
+exo-preferred-applications 
+man obamenu 
 obamenu 
 clear
-sai gmrun 
-sap xterm 
-sudo apt remove xterm 
-cd ~/.config/openbox/
-ll
-rm *
+as galternatives 
+sai galternatives 
 sudo reboot 
-man setxkbmap 
-setxkbmap --option "control:nocaps"
-setxkbmap -option "control:nocaps"
-man setxkbmap 
-setxkbmap -option "ctrl:nocaps"
-man xset
-xset -r 300 30
-xset -r rate 300 30
-xset r rate 300 30
-xset r rate 250 50
-sai tint2
-cd ,,
-cd ..
-cd tint2/
-ll
-tint2 -c ~/.config/tint2/elipsdark.tint2rc 
-tint2 -c ~/.config/tint2/elipsdark.tint2rc &
-cd ~/.config/openbox/
-ll
-touch autorun
-ll
-emacs autorun 
-sai feh
-feh
-nitrogen 
-tint2 -c ~/.config/tint2/elipsdark.tint2rc 
-cd Desktop/
-ll
-cd backup/
-mv ./.icons/ ~/.themes/TintStuff/icons/
-mkdir ~/.themes/TintStuff/
-mv ./.icons/ ~/.themes/TintStuff/icons
-mv ./.font/ ~/.themes/TintStuff/font
-ln -s ~/.themes/TintStuff/icons ~/.icons
-ll
+update-alternatives --config x-terminal-emulator 
 cd
-ll
-ln -s ~/.themes/TintStuff/font ~/.font
-ll
-sudo reboot 
-ll
-tint2 -c ~/.config/tint2/elipsdark.tint2rc 
-cd ~/.config/openbox/
-ll
-touch menu.xml rc.xml
-ll
-rm autorun~
-ll
-cat autorun 
-cd 
-cd ~/Desktop/backup/
-ll
-cp ./.themes/Blocks-light/ eva/ ~/.themes/
-cp ./.themes/Blocks-light/ ~/.themes/
-ll
-cd ./.themes/
-ll
-cd ..
-mv .themes/* ~/.themes/
-cd ~/.themes/
-ll
-emacsclient ~/.config/openbox/autorun 
-sai rofi
-openbox 
-sudo reboot 
-firefox 
-xset r rate 250 50
-setxkbmap -option "ctrl:nocaps"
-editor ~/.xinitrc 
-edit ~/.xinitrc 
-emacs ~/.xinitrc 
-man openbox-session 
-cd ~/.config/openbox/
-ll
-rm \#autorun# 
-ll
-emacsclient autorun 
-cd
-rm /etc/slim.conf 
-sudo rm /etc/slim.conf 
-sap slim 
-sai slim
-cd /etc/
-sudo emacs slim.conf 
-cd
-man slim
-mv ~/.config/slim/Deepin/ /usr/share/slim/
-sudo mv ~/.config/slim/Deepin/ /usr/share/slim/
-cd /usr/share/slim/
-ll
-sudo mv Deepin/ themes/
-cd themes/
-ll
-sai conky
-conky 
-sudo reboot 
-sau
-sudo apt autoremove 
-sudo apt autoclean 
-cd ~/.config/openbox/
-./autorun
-sudo ./autorun
-cat autorun
-xsettingsd &
-setxkbmap -option "ctrl:nocaps"
-xset r rate 250 50
-xset b off
-emacsclient autorun
-emacs autorun
-emacsclient autorun
-systemctl --user restart emacs.service 
-emacsclient autorun
-sudo reboot 
-sai nitrogen 
-emacsclient 
-emacsclient ~/.config/openbox/autorun
-systemctl restart slim.service 
-cd ~/.config/openbox/
-ll
-rm autorun~ \#autorun# 
-ll
-cat rc.xml 
-man nitrogen 
-rm autorun 
-sudo reboot 
-emacsclient -c
-sudo reboot 
-emacsclient -c -e'(scroll-bar-mode 1)'
-emacsclient -c -e '(scroll-bar-mode 1)'
-emacsclient -c -e '(scroll-bar-mode nil)'
-emacsclient -c -e "(scroll-bar-mode nil)"
-emacsclient -c -e "(scroll-bar-mode -1)"
-sap tint2 
-cd ~/.config/tint2/
-ll
-rm *
-rm -r icons/
-ll
-cd ..
-ll
-rm ~/.icons ~/.font
-rm -r ~/.themes/TintStuff/
-gmrun 
-sap tint2
-sai tint2 
-tint2
-rofi
-cd ~/.config/tint2/
-ll
-rm *
-git clone https://github.com/addy-dclxvi/tint2-theme-collections.git
-ll
-cd tint2-theme-collections/
-ll
-cd
-sudo reboot 
-sai thunar
-git clone https://github.com/addy-dclxvi/openbox-theme-collections ~/.themes
-cd ~/.themes/
-git clone https://github.com/addy-dclxvi/openbox-theme-collections
-ll
-cd
-ll
-rm ~/.xsession-errors 
-as ncmpcpp 
-sai ncmpcpp 
-ll
-mv *.obt ~/.themes/
-ll
-cat ~/.config/tint2/tint2-theme-collections/unleashed/unleashed-bookmark.tint2rc 
-tint2 ~/.config/tint2/tint2-theme-collections/unleashed/unleashed-bookmark.tint2rc 
-tint2 -c  ~/.config/tint2/tint2-theme-collections/unleashed/unleashed-bookmark.tint2rc 
-sudo reboot 
-xev
-sau
-list
-export $PATH=$PATH:~/Documents/SchoolStuff/ThesisUndergraduate/
-cd Documents/SchoolStuff/ThesisUndergraduate/
-cat ~/.bashrc 
-dc
-echo PATH
-echo $PATH
-where $PATH
-export PATH=$PATH:~/Documents/SchoolStuff/ThesisUndergraduate/
-echo $PATH
-cd class
-echo $PATH
-export HOME=$HOME:/home/skye/Documents/SchoolStuff/
-cd
-echo $PATH
-source ~/.profile
-ll
-echo $PATH
-cd echo $HOME
-echo $HOME
-source ~/.bashrc 
-signal-desktop 
-sai signal-desktop
-cd ..
-cd montepython/
-ll
-cd montepython/likelihoods/
-ls
-cd fake_planck_realistic
-ls
-cd ../../..
-ls
-cd input/
-l
-ls
-cd ..
-ls
-cat default.conf.template 
-ls
-cd input/
-ls
-cd ../montepython/
-ls
-cd likelihoods/
-ls
-python3
-python
-cd Documents/SchoolStuff/ThesisUndergraduate/
-ll
-cd class/
-cd notebooks/
-jpnb 
-ll
-mv Test.py.ipynb Testt.ipynb
-ll
-cd
-sau
-sap libreoffice
-sap libreoffice-gnome 
-sau
-sap libreoffice-*
-systemctl --user restart emacs.service 
-alsamixer
-cd Documents/SchoolStuff/ThesisUndergraduate/class/notebooks/
-jpnb 
-cd
-blueman-manager 
-man xsetpointer 
-man xset
-killall 
-killall conky 
-conky 
-as gnome-applets
-acpi -e
-acpi -V
-say
-sau
-sudo apt autoremove 
-sudo apt autoclean 
-sau
-speedtest 
-cd ~/Desktop/backup/.cava/
-ll
-cd ..
-rm -r backup/
-ll
-cd ..
-ll
-rm .gmrun_history 
-rofi
-rofi -show drun
-rofi -enable drun
-man rofi
-rofi -modi drun
-rofi -modi drun, window, run, ssh
-rofi -modi "drun, window, run, ssh"
-rofi -show modi
-rofi -show drun
-rofi
-sap gmrun 
-sudo apt autoclean 
-rofi-theme-selector 
-cd ~/.config/rofi/
-ll
-cat config 
-cd ..
-cd rofi/
-git clone https://github.com/davatorium/rofi-themes.git
-ll
-cd rofi-themes/
-ll
-cd User\ Themes/
-ll
-cd ../..
-ll
-emacsclient config 
-cd rofi-themes/
-ll
-./install.sh 
-cd
-rofi-theme-selector 
-ll
-rofi-theme-selector 
-cd ~/.config/rofi/rofi-themes/
-ll
-./install.sh 
-rofi-theme-selector 
-cd
-ll
-cat ~/.xsession-errors 
+cat /usr/share/man/man1/xterm.1.gz 
 clear
-rm ~/.xsession-errors 
-ll
-rm ~/.lesshst 
-ll
-cat ~/.Xauthority 
-rm ~/.Xauthority 
-ll
-cd ~/.themes/
-ll
+which xterm.1.gz
+update-alternatives --display x-terminal-emulator 
+sudo dpkg-reconfigure alacritty 
+update-alternatives --config x-terminal-emulator 
+man update-alternatives 
+update-alternatives --install /usr/bin/x-terminal-emulator x-terminal-emulator /usr/bin/alacritty 30
+sudo update-alternatives --install /usr/bin/x-terminal-emulator x-terminal-emulator /usr/bin/alacritty 30
+update-alternatives --config x-terminal-emulator 
+sudo update-alternatives --config x-terminal-emulator 
+asdsad
+ssh kharith1@ssh.ccv.brown.edu
+clear
 cd
-rm .python_history 
-ll
-rm Music/Lil\ Nas\ X\ -\ Old\ Town\ Road\ \(Official\ Movie\)\ ft.\ Billy\ Ray\ Cyrus-w2Ov5jzm3j8.mkv 
-ll
-ls
-ls -a\
-cd ~/.local/
-ll
-cd.
-cd
-cd Templates/
-ll
-cd ..
-cdl
-cd 
-sap feh 
-sudo apt autoremove 
-sudo apt autoclean 
-as variety
-sai variety 
-nitrogen 
-man variety 
-nitrogen 
-thunar 
-nitrogen 
-cd Doe
-sudo apt-add-repository -y ppa:teejee2008/ppa
-sudo apt update 
-cd /etc/apt/sources.list.d/
-ll
-rm teejee2008-ubuntu-ppa-focal.list 
-sudo rm teejee2008-ubuntu-ppa-focal.list 
-;;
-ll
-cd
-sai conky-all
-sudo apt autoremove && sudo apt autoclean 
-sudo apt autoclean 
-man conky 
-kill 12294 
-man conky 
-conky -a mm
-conky -a tr
-cd ThesisUndergraduate/class/
-ll
-cd 
-xev 
-alsamixer
-xbrightness -100
-as xbrightness
-as brightness
-xrandr -set BACKLIGHT 5
-xrandr --set BACKLIGHT 5
-xrandr --output DP-1 --set BACKLIGHT 5
-sai xbacklight 
-man xbacklight 
-xbacklight --dec 10
-xbacklight -10
-xbacklight -100
-xbacklight - 100
-xbacklight -display -set 10
-xbacklight -set 10
-xbacklight -10
-xbacklight +10
-xbacklight +1099999
-man xbacklight 
-xbacklight -get
-sai xbacklight 
-sau
-xbacklight -get
-xbacklight --get
-xbacklight -display
-xbacklight -display DS1 -get
-xrandr --output 
-xbacklight -display DP-1 -10
-xbacklight -display DP-2 -10
-xbacklight -display eDP-1 -10
-xbacklight -10
-ls /sys/class/backlight/
-xrandr --verbose
-cd /etc/X11/xorg.conf.d/
-ll
-cd ..
-xorg.conf.d/
-cd xorg.conf.d/
 ll
 ls -a
-l
-ls
-xrandr --output 0x42 --brightness 0.8
-man xrandr
-xbacklight -d 0x42 -10
-xbacklight -display 0x42 -10
-xbacklight -display 0x42 - 10
-cd ..
-echo Section "Device"
-EndSection
-touch xorg.conf.d/backlight.conf
-sudo touch xorg.conf.d/backlight.conf
-cd xorg.conf.d/
+alacritty -vvv
+clear
+sau
+sarc
+sap gnome-desktop3-data 
+sarc 
+sai evince 
+sai xpdf 
+sap xpdf 
+sarc
+sai mupdf
+mupdf 
+cd Documents/SchoolStuff/PHYS2400/
+mupdf notes.pdf 
+rm \#notes.org# notes.tex~
 ll
-emacsclient backlight.conf 
-sudo emacsclient backlight.conf 
-sudo emacs backlight.conf 
-cat backlight.conf
+ls
+ls -a
+ls -ah
+ll
+sau
+sarc
+cd ..
+mv PHYS2400/ PHYS2300/
+ll
+cd ~/.config/
+ls
+cat mimeapps.list 
+clear
+say
+cd
+sau
+sarc
+cowsay "Whats my name. Who am I. whats my gender"
+cowsay moo
+cowsay FUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE 
+clear
+sau
+systemctl --user restart emacs.service
+emacs-gtk 
+sau
+man arch
+vim 
+vi
+cd Documents/SchoolStuff/PHYS2300/
+vi notes.tex 
+cle
+cd
+sau
+cd Downloads/
+ll
+mupdf peskin_problems.pdf 
+mupdf An\ Introduction\ to\ Quantum\ Field\ Theory\ \ -\ Peskin\ and\ Schroeder.pdf 
+cd
+nordvpn c Canada 
+sau
+nordvpn disconnect 
+sudo systemctl restart nordvpn.service 
+nordvpn connect Canada Montreal 
+speedtest 
+nordvpn disconnect 
+sau
+wget -O - https://raw.githubusercontent.com/laurent22/joplin/master/Joplin_install_and_update.sh | bash
+ll
+mv ~/.joplin/ ~/.config/joplin
+ln -s ~/.config/joplin/ ~/.joplin
+ll
+cd ~/.joplin
+ll
+cd 
+cd .joplin
+open .
+thunar .
+xdg-open .
+source ~/.profile
+open
+ll
+chmod a+x Joplin.AppImage 
+ll
+./Joplin.AppImage 
+sudo ./Joplin.AppImage 
+cd ..
+rm -r ~/.config/joplin/
+ll
+rm ~/.joplin 
+ll
+cd texmf/
+ll
+cd tex/
+ll
+cd latex/
+ll
+cd 
+sau
+sarc
+sudo apt autoclean 
+lsusb 
+as finger
+as fp |grep "fprintd"
+ass fp |grep "fprintd"
+apt s
+apt show |grep "fprintd"
+apt search |grep "fprintd"
+apt search fp|grep "fprintd"
+as fprintd
+sai fprintd
+sau
+man fprintd
+fprintd-list 
+fprintd-list skye
+fprintd-enroll 
+ll
+lsusb 
+lspci 
+clear
+tint2conf 
+cl
+clear
+ll
+ls -a
+lls
+pass
+pass ls
+sap fprintd 
+sarc
+clear
+sudo shutdown 
+nitrogen --restore
+ssh kharith1@ssh.ccv.brown.edu
+clear
+mv Downloads/CCV_VNC_2.0.3.jar ~/Documents/SchoolStuff/ThesisUndergraduate/
+cd ThesisUndergraduate/
+ll
+chmod +x CCV_VNC_2.0.3.jar 
+ll
+./CCV_VNC_2.0.3.jar 
+open
+clear
+sudo update-alternatives --config java
+open
+ll
+man jar
+man java
+rm CCV_VNC_2.0.3.jar 
+mv ~/Downloads/CCV_VNC_2.0.3.jar .
+ll
+man java
+java -d64 jar CCV_VNC_2.0.3.jar 
+java jar CCV_VNC_2.0.3.jar 
+java -jar CCV_VNC_2.0.3.jar 
+cd
+clear
+sau
+sarc
+htop 
+clear
+htop 
 sudo reboot 
+scrot -s 
+time tree /
+scrot
+ll
+sau
+htop
+clear
+ls a
+ls -lha
+cd 
+clear
+time tree /
+clear
+time tree / > /dev/null
+exit 
+sau
+sarc
+clear
+tree ~/
+clear
+find *.sh
+find ./ *.sh
+find ./ *.sh > /dev/null 
+find ./ l.sh > /dev/null 
+find ./ c > /dev/null 
+find ./ cht.sh > /dev/null 
+find cht.sh . > /dev/null 
+find cht.sh > /dev/null 
+man fin
+man find
+cd .local/bin/
+ll
+cd ..
+find cht.sh
+find cht.sh .
+find cht.sh . > /dev/null 
+find cht.sh
+cd bin/
+ll
+find cht.sh
+man find
+cd ..
+find -depth 2 cht.sh
+find -depth . cht.sh
+find --depth . cht.sh
+find -depth . cht.sh
+
+man find
+cd
+cht.sh learn python
+cht.sh python
+cht.sh cht.sh
+cht.sh montepython
+cht.sh class
+cht.sh cpp/class
+clear
+cht.sh planck
+cht.sh shell
+cht.sh slurm
+cht.sh sbatch
+cht.sh ssh
+sau
+sarc
+cd ~/.config/alacritty/
+ll
+cat alacritty.yml 
+clear
+emacsclient alacritty.yml 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+clear
+ll
+asdddddddd
+cd
+ls
+ls -a
+ll
+ls
+asdd
+ls -a
+cat
+clear
+as;ll
+asd ll
+ll
+ls
+ls -a
+ll
+# (Windows only)asdasd
+clear
+scp Downloads/cfitsio-3.47.tar.gz kharith1@transfer.brown.edu:~/data/kharith1/cfitsio/
+scp Downloads/cfitsio-3.47.tar.gz kharith1@transfer.ccv.brown.edu:~/data/kharith1/cfitsio/
+sau
+sarc
+clear
+ssh kharith1@ssh.ccv.brown.edu
+cd Downloads/
+ll
+rm cfitsio-3.47.tar.gz 
+rm Trans
+rm TransSide.sh 
+ll
+mv peskin_problems.pdf An\ Introduction\ to\ Quantum\ Field\ Theory\ \ -\ Peskin\ and\ Schroeder.pdf ~/Documents/SchoolStuff/PHYS2300/
+ll
+cd
+cd ThesisUndergraduate/
+ll
+java -jar CCV_VNC_2.0.3.jar 
+cd
+clear
+ssh -t kharith1@ssh.ccv.brown.edu
+clear
+xterm -fs 16
+ssh kharith1@ssh.ccv.brown.edu
+clear
+sau
+sarc
+sudo reboot 
+ll
+ls
+cat Xterm.log.HarithLaptop.2020.02.13.22.36.45.13762 
+rm Xterm.log.HarithLaptop.2020.02.13.22.36.45.13762 
+ll
+rm .xsession-errors 
+ll
+cat .wget-hsts 
+rm .wget-hsts 
+cat .Xauthority 
+rm .Xauthority 
+cat .git-credential
+cat .git-credentials 
+clear
+ll
+cd .git-credential-cache/
+;;
+ll
+cd 
+lss
+lllllllllllllllllll
+llllllllllllll
+clear
+llc
+ll
+cat .bashrc 
+clear
+cat ~/.config/bash/bash-powerline.sh 
+$*PATH
+echo $PYTHONPATH 
+cd Desktop/
+cd
+cd .config/bash/
+cat bash_completion
+cat bash_completion |grep python
+cat bash_completion |grep "python"
+cat bash_completion |grep "p"
+cat bash_completion |grep "python"
+cd
+sai screenfetch 
+screenfetch 
+bash
+ll
+cd .config/gtk-3.0/
+ll
+cat bookmarks 
+cd ..
+cd gtk-2.0/
+ll
+cd 
+sap gtk-update-icon-cache 
+as geit
+as gedit
+sap gedit
+sarc
+sau
+sap gtk-update-icon-cache 
+ll
+obamenu 
+cd
+tlp-stat --battery 
+sudo tlp-stat --battery 
+acpi -e
+acpi -V
+man tlp
+tlp start 
+man tlp-rdw 
+man tlp-stat 
+man tlp
+man tlp-stat 
+man tlp
+cat /etc/tlp.conf 
+lsblk 
+cd Videos/NARUTO/
+ll
+cd P
+cd Part1/
+ll
+cd ../Part2
+ll
+clear
+cd
+clear
+sap acpi 
+sai acpi
+cd .config/openbox/
+cat rc.xml |grep "Volume"
+man grep
+cat rc.xml |grep "Volume" -v
+cat rc.xml |grep -iv "Volume" 
+man grep
+cat rc.xml |grep -in "Volume" 
+cat -n rc.xml | grep "^ *361"
+cat -n rc.xml | grep "^ *362"
+cat -n rc.xml | grep "^ *363"
+sap pulseaudio
+sarc
+aptitude show '~i!~M'
+aptitude search '~i!~M'
+sap rhythmbox
+sarc
+sap vlc
+sau
+aptitude search '~i!~M'
+cd
+uptime 
+htop 
+sudo suspend 
+suspend 
+sudo reboot 
+scp /home/skye/Documents/SchoolStuff/ThesisUndergraduate/scripts/test1_seperate.slurm kharith1@transfer.ccv.brown.edu:~/data/kharith1/SLURM/
+sudo shutdown 
+ssh kharith1@ssh.ccv.brown.edu
+clear
+sudo apt-get install pulseaudio-module-bluetooth
+pactl load-module module-bluetooth-discover
+sudo pactl load-module module-bluetooth-discover
+sudo reboot 
+cd
+time sau
+exi
+exit
+sau
+sarc
+clear
+bash
+ll
+cd .config/slim/
+ll
+cd ..
+cd stremio/
+ll
+cd stremio-cache/
+ll
+cd ..
+ll
+cat localFiles 
+cat server-settings.json 
+cd
+;;
+l
+ll
+sau
+cd Desktop/PimpMyStremio/
+ll
+./PimpMyStremio 
+cd ..
+cd stremio-downloader-linux-x64/
+ll
+./StremioDownloader 
+cd 
+clear
+sau
+ll
+ls
+lls
+as bro
+gem install bro
+sudo gem install bropages
+sai ruby-dev
+sudo gem install bropages
+clear
+sau
+bro apt
+bro thanks 
+ll
+mv ~/.bro ~/.config/bro
+ln -s ~/.config/bro ~/.bro
+ll
+bro bro
+for %i in (1 2 3 4 5 6 7 8 9 10 11) do bro thanks %i
+clear
+bro python
+bro git
+bro thanks 2
+time neofetch
+time sau
+gem update bropages
+bro bro
+bro ls
+bash
+bash
+ll
+mv ~/.gem/ ~/.config/gem
+ln -s ~/.config/gem ~/.gem
+ll
+cd .config/
+ll
+cd
+cd ~/.config/
+cd
+rm -r .gnupg .gconf 
+ll
+mv ~/.git-credential-cache/ ~/.local/git-credential-cache
+ln -s ~/.local/git-credential-cache/ ~/.git-credential-cache
+ln -s ~/.local/gnupg/ ~/.gnupg
+mv .config/gem/ .local/
+rm .gem 
+ln -s ~/.local/gem/ ~/.gem
+ll
+rm snap/
+rm -r snap/
+sap snapd 
+ll
+sau
+sarc
+time sarc
+ll
+cat .bro 
+bro fir
+bro firefox
+bro cargo
+bro rust
+bro alacritty
+bro gem
+bro awk
+bash
+cp /usr/bin/screenfetch ~/.config/screenfetch
+cat .config/screenfetch 
+bash
+ll
+bash
+ll
+ls -D
+ls -d
+ll -d
+htop 
+ll
+cd .pki/
+ll
+cat nssdb/
+cat nssdb/pkcs11.txt 
+man nss
+cd
+ll
+cd .rpmdb/
+ll
+cat Packages 
+cd
+ll
+man rpmdb
+man dbus-
+cd .themes/
+ll
+cd 
+mv ~/.rpmdb/ ~/.config/rpmdb
+ln -s ~/.config/rpmdb/ ~/.rpmdb
+ll
+bash
+rm ~/.config/screenfetch
+cd ~/.config/neofetch/
+ll
+cat config.conf 
+emacsclient config.conf 
+emacs config.conf 
+clear
+ll
+cd ..
+systemctl --user restart emacs.service
+sau
+sarc
+pass -c Github/Harith163 
+bash
+time neofetch 
+bro clik
+bro list
+bro org
+bro emacs
+bro emacsclient
+bro no
+bro gem
+bro virtualenv 
+bro ll
+bash
+bro man
+bash
+llslsls
+lss
+ll |wc -l
+bro wc
+ll |wc -L
+ls |wc -L
+ls |wc -l
+cd /
+ls |wc -l
+ll
+ls
+lsllsllllslslslslsllsllsllslslsllsllsllslsllslllslslsllll
+cd
+cd                           
+as ranger 
+sau
+time sarc
+time ls
+time ll
+time bash
+cd MATH1130/
+cd
+bash
+bro zsh
+zsh
+sau
+sarc
+cargo-deb update
+cargo-deb upgrade
+bro cargo
+bro cargo-deb
+sau
+sarc
+bash
+sudo reboot 
+git clone https://github.com/fernandotcl/pa-applet.git 
+cd pa-applet/
+ll
+./autogen.sh 
+./configure 
+make 
+ll
+make Makefile.am
+cd ..
+rm pa-applet/
+rm -r pa-applet/
+sudo rm -r pa-applet/
+ll
+as autotools-dev 
+pulseaudio 
+sai xserver-xorg-input-multitouch 
+sai florence 
+florence 
+killall florence 
+sap florence 
+sap obs
+sap obs-studio 
+time sarc
+sau
+sarc
+ll
+man bro
+bro man
+bro bash
+bash
+sudo reboot 
+sau
+sarc
+apt list --upgradable 
+sudo apt update
+apt list --upgradable 
+time apt list --upgradable 
+tree /usr/
+time tree /usr/
+time tree /
+time sctl --user restart emacs.service 
+bro apt list
+bro apt 
+man apt
+brooooooooooooooooooooooooooooooooooooooooooooooooo
+man man
+as when whereami 
+whereis file 
+whereis file file file file file file file file file file file 
+cd
+whereis Music/
+bro whereis
+whereis ls
+whereis alacritty
+whereis tree
+whereis whereis
+file 
+bro file
+file MontePython.py 
+file Music/
+file .cargo
+cd .config/openbox/
+file menu.xml 
+file autostart 
+cd
+apt-get -u --show-progress 
+apt-get --show-progress 
+clear_console 
+clear
+maaaaaaaaaaaaaaaaaaaaaan
+mangatha ra
+as apt-git
+apt search apt-git
+apt show apt-
+apt show apt
+lsblk 
+lslogins 
+lsmod 
+lsns 
+lsof 
+time lsof 
+htop 
+sau
+ll
+lss
+head MontePython.py 
+tail MontePython.py 
+grep -ic MontePython.py "exit"
+grep -ic "exit" MontePython.py 
+grep -i "exit" MontePython.py 
+bro grep
+grep -iC "exit" MontePython.py 
+grep -C "exit" MontePython.py 
+grep -C "exit" ./MontePython.py 
+clear
+ll | grep -v "->"
+ll
+ll | grep -v ".cargo"
+ll | grep -v "/home/"
+ll | grep -v "/home/" ".config"
+ll | grep -v "/home/, .config"
+ll
+rm .bash_aliases 
+ln -s ~/.config/bash/bash_aliases ~/.bash_aliases
+ll
+ll | grep -v "/home/"
+ll | grep -v "/home/" |wc -l
+ls |wc -l
+messages
+cat /var/mail/skye 
+llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+clear
+llllllll
+llllllllllllllllll
+ll
+man grep
+bash
+lm
+lm -v
+bash
+lm
+bash
+lm
+man regex
+bash
+lm
+
+
+lm
+lm -v
+bash
+lm
+lm -c
+lm -v
+ls -lhAtG --group-directories-first | grep --color=always "\-\>"
+ls -lhAtG --group-directories-first | grep --color=always \-\>
+ls -lhAtG --group-directories-first | grep --color=always '\-\>'
+ls -lhAtG --group-directories-first | grep '\-\>'
+ls -lhAtG --group-directories-first | grep \-\>
+ls -lhAtG --group-directories-first | grep [\-\>]
+ls -lhAtG --group-directories-first | grep [\-\>] -v
+ll
+ls -lhAtG --group-directories-first | grep [\->\] -v
+ls -lhAtG --group-directories-first | grep [\->] -v
+ls -lhAtG --group-directories-first | grep {\-\>} -v
+ls -lhAtG --group-directories-first | grep '\->' -v
+bash
+ll
+lm
+ls -lha
+ll
+lm
+bash
+echo $BASH
+cd /bin/
+cat bash
+cd
+lm
+source .profile
+lmg
+source .bash_aliases 
+sudo reboot 
+source .bashrc 
+which bash
+$BASH

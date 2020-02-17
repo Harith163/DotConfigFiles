@@ -487,3 +487,4 @@ complete -F _complete_alias jctl
 complete -F _complete_alias open
 complete -F _complete_alias as
 complete -F _complete_alias jpnb
+

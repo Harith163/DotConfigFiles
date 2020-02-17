@@ -333,7 +333,7 @@
     </keybind>
     <keybind key="C-A-t">
       <action name="Execute">
-        <command>gnome-terminal</command>
+        <command>alacritty</command>
       </action>
     </keybind>
     <keybind key="C-A-e">
@@ -348,7 +348,7 @@
     </keybind>
     <keybind key="W-space">
       <action name="Execute">
-        <command>rofi -combi-modi window,drun -show combi -modi combi</command>
+        <command>rofi -combi-modi run,window,drun -show combi -modi combi</command>
       </action>
     </keybind>
     <!-- Launch scrot when Print is pressed -->
@@ -357,6 +357,7 @@
         <command>scrot</command>
       </action>
     </keybind>
+    <!-- Volume control -->
     <keybind key="XF86AudioRaiseVolume">
       <action name="Execute">
         <command>amixer set Master 10%+</command>
@@ -383,8 +384,26 @@
       <action name="Execute">
 	<command>xbacklight -dec 10</command>
       </action>
-    </keybind>    
+    </keybind>
+    <!-- Windowsnapping -->
+    <keybind key="W-Left">
+      <action name="UnmaximizeFull"/>
+      <action name="MoveResizeTo"><x>0</x><y>0</y><height>100%</height><width>60%</width></action>
+    </keybind>
+    <keybind key="W-Right">
+      <action name="UnmaximizeFull"/>
+      <action name="MoveResizeTo"><x>-0</x><y>0</y><height>100%</height><width>40%</width></action>
+    </keybind>
+    <keybind key="W-Up">
+      <action name="UnmaximizeFull"/>
+      <action name="MoveResizeTo"><x>0</x><y>0</y><width>100%</width><height>100%</height></action>
+    </keybind>
+    <keybind key="W-Down">
+      <action name="UnmaximizeFull"/>
+      <action name="MoveResizeTo"><x>0</x><y>-0</y><width>100%</width><height>50%</height></action>
+    </keybind>
   </keyboard>
+  <!-- Mousebinds-->
   <mouse>
     <dragThreshold>1</dragThreshold>
     <!-- number of pixels the mouse must move before a drag begins -->
