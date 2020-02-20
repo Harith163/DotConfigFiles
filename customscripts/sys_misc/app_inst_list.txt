@@ -53,6 +53,7 @@ debian-archive-keyring
 debian-faq
 debianutils
 desktop-base
+diction
 diffutils
 dirmngr
 discover
@@ -110,7 +111,6 @@ gvfs-fuse
 gzip
 hdparm
 hostname
-htop
 ifupdown
 init
 init-system-helpers
