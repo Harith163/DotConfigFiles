@@ -11,6 +11,7 @@ apt-listchanges
 apt-transport-https
 apt-utils
 aptitude
+arandr
 aria2
 astropy-utils
 at-spi2-core
@@ -35,6 +36,7 @@ busybox
 bzip2
 caribou
 cmake
+cmatrix
 console-setup
 coreutils
 cowsay
@@ -246,6 +248,7 @@ locales
 locate
 login
 logrotate
+lolcat
 lsb-base
 lsof
 mailutils
