@@ -209,6 +209,7 @@ libpam-modules-bin
 libpam-runtime
 libpam-systemd
 libpam0g
+libpam0g-dev
 libpcre3
 libpopt0
 libprocps7
@@ -351,7 +352,6 @@ tlp
 tlp-rdw
 traceroute
 tracker
-transmission-gtk
 tzdata
 ucf
 udev
