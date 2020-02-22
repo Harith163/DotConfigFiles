@@ -83,6 +83,7 @@ findutils
 firefox
 firmware-iwlwifi
 flac
+flatpak
 fonts-cantarell
 galternatives
 gcc-8-base
