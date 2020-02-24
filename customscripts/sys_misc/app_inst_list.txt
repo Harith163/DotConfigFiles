@@ -11,7 +11,6 @@ apt-listchanges
 apt-transport-https
 apt-utils
 aptitude
-arandr
 aria2
 astropy-utils
 at-spi2-core
@@ -201,6 +200,8 @@ libnettle6
 libnewt0.52
 libnfnetlink0
 libnftnl11
+libnotify-bin
+libnotify4
 libnss-systemd
 libopenblas0-pthread
 libp11-kit0
@@ -267,7 +268,6 @@ nano
 ncurses-base
 ncurses-bin
 ncurses-term
-neofetch
 net-tools
 netbase
 netcat-traditional
@@ -276,6 +276,7 @@ nitrogen
 nmap
 nordvpn
 nordvpn-release
+notification-daemon
 notify-osd
 obconf
 ocs-url
@@ -293,7 +294,9 @@ pkg-config
 popularity-contest
 portaudio19-dev
 procps
+pulseaudio
 pulseaudio-module-bluetooth
+pulseaudio-utils
 pylint
 python
 python-ipykernel
@@ -315,7 +318,6 @@ qml-module-qtquick-controls
 readline-common
 reportbug
 rofi
-rsync
 rsyslog
 rtorrent
 ruby-dev
@@ -372,7 +374,6 @@ xcompmgr
 xdg-user-dirs-gtk
 xserver-xorg-input-multitouch
 xserver-xorg-input-wacom
-xxd
 xz-utils
 zenity
 zlib1g
