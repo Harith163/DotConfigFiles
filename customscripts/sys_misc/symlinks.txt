@@ -1,4 +1,3 @@
-/home/skye/.config/profile_mycroft
 /home/skye/.config/bro
 /home/skye/.config/pylint.d/
 /home/skye/.local/git-credential-cache/
@@ -17,7 +16,7 @@
 /home/skye/.config/java/
 /home/skye/.config/password-store/
 /home/skye/.config/bash/bash_logout
-/home/skye/.config/bash/bash_history
+.config/bash/bash_history
 /home/skye/.local/rustup/
 /home/skye/Documents/SchoolStuff/ThesisUndergraduate/MontePython/montepython/MontePython.py
 /home/skye/.config/texlive2019/
