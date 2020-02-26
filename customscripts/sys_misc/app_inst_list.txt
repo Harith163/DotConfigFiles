@@ -69,6 +69,7 @@ elpa-auto-complete
 elpa-magit
 elpa-org
 elpa-org-bullets
+elpa-pdf-tools
 elpa-rainbow-delimiters
 elpa-undo-tree
 elpa-use-package
@@ -82,7 +83,6 @@ findutils
 firefox
 firmware-iwlwifi
 flac
-flatpak
 fonts-cantarell
 galternatives
 gcc-8-base
@@ -96,6 +96,7 @@ gnupg
 gnupg1
 gpg
 gpgv
+gpick
 grep
 groff-base
 grub-common
@@ -348,7 +349,10 @@ tasksel
 tasksel-data
 telnet
 texlive
-texlive-full
+texlive-bibtex-extra
+texlive-generic-recommended
+texlive-lang-english
+texlive-science
 thunar
 tint2
 tlp
