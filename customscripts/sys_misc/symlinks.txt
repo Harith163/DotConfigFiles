@@ -10,6 +10,7 @@
 /home/skye/.config/emacs.d/
 /home/skye/.config/gitconfig
 /home/skye/.local/gnupg/
+/home/skye/.config/git-credentials
 /home/skye/.config/ssh/
 /home/skye/.config/bash/profile
 /home/skye/.local/ICEauthority
