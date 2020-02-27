@@ -1,6 +1,7 @@
 /home/skye/.config/bro
 /home/skye/.config/pylint.d/
 /home/skye/.local/git-credential-cache/
+/home/skye/.config/snap/
 /home/skye/.config/ipython/
 /home/skye/.config/stremio/
 /home/skye/.config/X11/xinitrc
