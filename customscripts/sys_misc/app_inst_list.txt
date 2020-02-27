@@ -198,6 +198,7 @@ liblzma5
 libmnl0
 libmodule-build-perl
 libmount1
+libmpdclient2
 libncurses6
 libncursesw6
 libnetfilter-conntrack3
@@ -248,6 +249,8 @@ libtool
 libudev1
 libunistring2
 libuuid1
+libxcb-composite0
+libxcb-cursor0
 libxcb-xfixes0-dev
 libxtables12
 libzstd1
@@ -299,6 +302,7 @@ perl
 perl-base
 perl-modules-5.28
 pkg-config
+polybar
 popularity-contest
 portaudio19-dev
 procps
@@ -337,7 +341,6 @@ shotwell
 signal-desktop
 simple-scan
 slim
-snapd
 software-properties-common
 sound-theme-freedesktop
 speedtest
