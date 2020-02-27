@@ -108,6 +108,7 @@ gstreamer1.0-plugins-base
 gstreamer1.0-plugins-good
 gstreamer1.0-plugins-ugly
 gstreamer1.0-pulseaudio
+gtk2.0-examples
 gvfs-backends
 gvfs-fuse
 gzip
@@ -153,6 +154,7 @@ libcap2-bin
 libcfitsio-dev
 libcom-err2
 libcryptsetup12
+libdata-dump-perl
 libdb5.3
 libdebconfclient0
 libdevmapper1.02.1
@@ -165,6 +167,7 @@ libfastjson4
 libfdisk1
 libffi-dev
 libffi6
+libfile-sharedir-perl
 libfontconfig1-dev
 libfreetype6-dev
 libgcc1
@@ -175,6 +178,13 @@ libgmp10
 libgnutls30
 libgpg-error0
 libgsf-bin
+libgtk2.0-0
+libgtk2.0-bin
+libgtk2.0-cil
+libgtk2.0-cil-dev
+libgtk2.0-common
+libgtk2.0-dev
+libgtk2.0-doc
 libhogweed4
 libicu-dev
 libidn11
@@ -185,14 +195,17 @@ libiptc0
 libisc-export1100
 libjpeg-dev
 libjson-c3
+libjson-xs-perl
 libkmod2
 liblapack-dev
 liblocale-gettext-perl
 liblockfile-bin
 liblognorm5
+liblwp-protocol-https-perl
 liblz4-1
 liblzma5
 libmnl0
+libmodule-build-perl
 libmount1
 libncurses6
 libncursesw6
@@ -222,6 +235,7 @@ libproxy1-plugin-webkit
 libqt5network5
 libqt5svg5
 libqt5widgets5
+librccgtk2-0
 libseccomp2
 libselinux1
 libsemanage-common
@@ -255,12 +269,14 @@ logrotate
 lolcat
 lsb-base
 lsof
+lxrandr
 mailutils
 man-db
 manpages
 mawk
 menu
 mime-support
+monodoc-gtk2.0-manual
 mount
 mpg123
 multimc
@@ -362,6 +378,8 @@ tracker
 tzdata
 ucf
 udev
+uim-gtk2.0
+uim-gtk2.0-immodule
 usbutils
 util-linux
 vinagre
