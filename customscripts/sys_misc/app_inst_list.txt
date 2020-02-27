@@ -4,7 +4,6 @@ adoptopenjdk-8-hotspot
 adwaita-icon-theme
 alacritty
 alsa-firmware-loaders
-alsa-tools-gui
 alsamixergui
 apt
 apt-listchanges
@@ -108,7 +107,6 @@ gstreamer1.0-plugins-base
 gstreamer1.0-plugins-good
 gstreamer1.0-plugins-ugly
 gstreamer1.0-pulseaudio
-gtk2.0-examples
 gvfs-backends
 gvfs-fuse
 gzip
@@ -178,13 +176,6 @@ libgmp10
 libgnutls30
 libgpg-error0
 libgsf-bin
-libgtk2.0-0
-libgtk2.0-bin
-libgtk2.0-cil
-libgtk2.0-cil-dev
-libgtk2.0-common
-libgtk2.0-dev
-libgtk2.0-doc
 libhogweed4
 libicu-dev
 libidn11
@@ -235,7 +226,6 @@ libproxy1-plugin-webkit
 libqt5network5
 libqt5svg5
 libqt5widgets5
-librccgtk2-0
 libseccomp2
 libselinux1
 libsemanage-common
@@ -276,7 +266,6 @@ manpages
 mawk
 menu
 mime-support
-monodoc-gtk2.0-manual
 mount
 mpg123
 multimc
@@ -296,6 +285,7 @@ nordvpn-release
 notification-daemon
 notify-osd
 obconf
+obsession
 ocs-url
 openbox
 openssh-client
@@ -378,8 +368,6 @@ tracker
 tzdata
 ucf
 udev
-uim-gtk2.0
-uim-gtk2.0-immodule
 usbutils
 util-linux
 vinagre
