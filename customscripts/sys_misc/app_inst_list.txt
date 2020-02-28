@@ -83,6 +83,7 @@ firefox
 firmware-iwlwifi
 flac
 fonts-cantarell
+fonts-font-awesome
 galternatives
 gcc-8-base
 gdbm-l10n
