@@ -118,6 +118,7 @@ init
 init-system-helpers
 initramfs-tools
 installation-report
+intltool
 iproute2
 iptables
 iputils-ping
@@ -228,6 +229,7 @@ libproxy1-plugin-webkit
 libqt5network5
 libqt5svg5
 libqt5widgets5
+libsdl2-2.0-0
 libseccomp2
 libselinux1
 libsemanage-common
@@ -303,7 +305,6 @@ perl
 perl-base
 perl-modules-5.28
 pkg-config
-polybar
 popularity-contest
 portaudio19-dev
 procps
