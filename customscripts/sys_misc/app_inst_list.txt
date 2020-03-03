@@ -26,7 +26,6 @@ bash-completion
 bind9-host
 bison
 blender
-blueman
 bsdmainutils
 bsdutils
 build-essential
@@ -108,7 +107,6 @@ gstreamer1.0-plugins-base
 gstreamer1.0-plugins-good
 gstreamer1.0-plugins-ugly
 gstreamer1.0-pulseaudio
-gvfs-backends
 gvfs-fuse
 gzip
 hdparm
@@ -237,7 +235,6 @@ libsemanage1
 libsepol1
 libslang2
 libsmartcols1
-libsmbclient
 libss2
 libssl-dev
 libssl1.1
@@ -274,7 +271,6 @@ menu
 mime-support
 mount
 mpg123
-mpv
 multimc
 mupdf
 nano
@@ -346,7 +342,6 @@ slim
 software-properties-common
 sound-theme-freedesktop
 speedtest
-stremio
 sudo
 swig
 system-config-printer-common
