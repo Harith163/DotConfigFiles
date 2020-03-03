@@ -19,7 +19,6 @@
 /home/skye/.config/bash/bash_logout
 .config/bash/bash_history
 /home/skye/.config/rustup/
-/home/skye/Documents/SchoolStuff/ThesisUndergraduate/MontePython/montepython/MontePython.py
 /home/skye/.config/texlive2019/
 /home/skye/.config/minecraft/
 /home/skye/.config/mozilla/
