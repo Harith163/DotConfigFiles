@@ -277,6 +277,7 @@ nano
 ncurses-base
 ncurses-bin
 ncurses-term
+neofetch
 net-tools
 netbase
 netcat-traditional
@@ -324,6 +325,7 @@ python3-scipy
 python3-setuptools
 python3-sympy
 python3-venv
+python3.7
 qml-module-qtquick-controls
 readline-common
 reportbug
@@ -339,6 +341,7 @@ shotwell
 signal-desktop
 simple-scan
 slim
+smartmontools
 software-properties-common
 sound-theme-freedesktop
 speedtest
