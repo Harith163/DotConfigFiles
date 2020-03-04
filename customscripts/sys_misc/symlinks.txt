@@ -10,6 +10,7 @@
 /home/skye/.config/emacs.d/
 /home/skye/.config/gitconfig
 /home/skye/.config/gnupg/
+/home/skye/.local/aspell.en.pws
 /home/skye/.config/git-credentials
 /home/skye/.config/ssh/
 /home/skye/.config/bash/profile
@@ -17,7 +18,8 @@
 /home/skye/.config/java/
 /home/skye/.config/password-store/
 /home/skye/.config/bash/bash_logout
-.config/bash/bash_history
+/home/skye/.local/aspell.en.prepl
+/home/skye/.config/bash/bash_history
 /home/skye/.config/rustup/
 /home/skye/.config/texlive2019/
 /home/skye/.config/minecraft/
