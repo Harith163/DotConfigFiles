@@ -72,6 +72,7 @@ elpa-rainbow-delimiters
 elpa-undo-tree
 elpa-use-package
 emacs
+evince
 f5vpn
 fdisk
 feynmf
@@ -91,6 +92,7 @@ gfortran
 git
 gkbd-capplet
 glib-networking
+gnome-keyring
 gnupg
 gnupg1
 gpg
@@ -272,7 +274,6 @@ mime-support
 mount
 mpg123
 multimc
-mupdf
 nano
 ncurses-base
 ncurses-bin
@@ -326,6 +327,7 @@ python3-setuptools
 python3-sympy
 python3-venv
 python3.7
+python3.8
 qml-module-qtquick-controls
 readline-common
 reportbug
