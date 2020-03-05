@@ -83,7 +83,6 @@ hardcode-fixer-git 1:r539.f812186-1
 hardinfo 0.5.1.816.g877ea2b-1
 haveged 1.9.8-1
 hdparm 9.58-3
-htop 2.2.0-3
 intltool 0.51.0-4
 inxi 3.0.37-2
 ipw2100-fw 1.3-10
@@ -147,6 +146,7 @@ sardi-icons 20.2-2
 scrot 1.2-1
 sdparm 1.10-3
 sg3_utils 1.44-1
+signal-desktop 1.32.0-1
 smartmontools 7.1-1
 speedtest-cli 2.1.2-2
 splix 2.0.0-14
@@ -227,6 +227,7 @@ xorg-xwd 1.0.7-1
 xorg-xwud 1.0.5-1
 yad 5.0-1
 yay 9.4.6-2
+ytop 0.5.1-1
 zenity 3.32.0+17+gfb0938f-1
 zsh-completions 0.31.0-1
 zsh-syntax-highlighting 0.6.0-1
