@@ -48,6 +48,7 @@ arcolinux-welcome-app-git 20.3-6
 arcolinux-xfce-git 20.3-1
 arcolinux-zsh-git 20.2-9
 asciinema 2.0.2-3
+auctex 12.2-1
 autoconf 2.69-7
 automake 1.16.1-2
 awesome-terminal-fonts 1.1.0-2
@@ -66,7 +67,6 @@ dconf-editor 3.34.4-1
 ddrescue 1.25-1
 downgrade 6.2.3-0
 efitools 1.9.2-1
-emacs 26.3-1
 ethtool 1:5.4-1
 expac 10-1
 firefox 73.0.1-1
