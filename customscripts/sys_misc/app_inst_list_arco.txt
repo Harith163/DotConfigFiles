@@ -150,6 +150,7 @@ sg3_utils 1.44-1
 smartmontools 7.1-1
 speedtest-cli 2.1.2-2
 splix 2.0.0-14
+stremio-beta 4.4.77-1
 sublime-text-dev 3.3211-1
 surfn-icons-git 20.2-2
 syslinux 6.04.pre2.r11.gbf6db5b4-3
