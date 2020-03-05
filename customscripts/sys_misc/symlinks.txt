@@ -5,6 +5,7 @@
 /home/skye/.config/stremio/
 /home/skye/.config/X11/xinitrc
 /home/skye/.config/jupyter
+/home/skye/.config/yarn/
 /home/skye/.config/gem/
 /home/skye/.config/bash/bashrc
 /home/skye/.config/emacs.d/
@@ -21,6 +22,7 @@
 /home/skye/.local/aspell.en.prepl
 /home/skye/.config/bash/bash_history
 /home/skye/.config/rustup/
+/home/skye/.config/yarnrc
 /home/skye/.config/texlive2019/
 /home/skye/.config/minecraft/
 /home/skye/.config/mozilla/
