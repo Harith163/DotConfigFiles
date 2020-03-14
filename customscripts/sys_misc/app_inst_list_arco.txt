@@ -24,14 +24,14 @@ arcolinux-local-xfce4-git 19.11-4
 arcolinux-mirrorlist-git 20.3-1
 arcolinux-neofetch-git 19.12-2
 arcolinux-nitrogen-git 20.2-2
-arcolinux-oblogout 0.2-19
+arcolinux-oblogout 0.2-20
 arcolinux-oblogout-themes-git 19.12-1
 arcolinux-obmenu-generator-minimal-git 19.12-3
 arcolinux-openbox-dconf-git 19.12-7
 arcolinux-openbox-git 20.3-2
 arcolinux-openbox-themes-git 19.3-1
 arcolinux-pipemenus-git 19.12-3
-arcolinux-polybar-git 19.12-1
+arcolinux-polybar-git 20.4-1
 arcolinux-qt5-git 19.3-4
 arcolinux-rofi-git 19.3-1
 arcolinux-rofi-themes-git 19.3-1
@@ -68,6 +68,7 @@ ddrescue 1.25-1
 downgrade 6.2.4-1
 efitools 1.9.2-1
 ethtool 1:5.4-1
+exa 0.9.0-1
 expac 10-1
 firefox 74.0-2
 flex 2.6.4-3
@@ -89,7 +90,6 @@ ipw2100-fw 1.3-10
 ipw2200-fw 3.1-8
 irssi 1.2.2-2
 jq 1.6-2
-jsoncpp 1.9.1-1
 kvantum-theme-arc 20180614-3
 laptop-detect 0.13.8-2
 libatomic_ops 7.6.10-1
@@ -111,7 +111,7 @@ nano 4.8-1
 nbd 3.20-1
 ndisc6 1.0.4-1
 neofetch 7.0.0-1
-neomutt 20191207-3
+neomutt 20200313-1
 netctl 1.20-2
 network-manager-applet 1.16.0-1
 networkmanager-dispatcher-ntpd 1.0-7
@@ -120,7 +120,7 @@ networkmanager-openvpn 1.8.12-1
 networkmanager-pptp 1.2.9dev+10+gb41b0d0-1
 networkmanager-vpnc 1.2.7dev+20+gdca3aea-1
 nfs-utils 2.4.3-2
-nordvpn-bin 3.6.1_1-1
+nordvpn-bin 3.7.0_2-1
 numlockx 1.2-5
 obconf 2.0.4-6
 obkey-git 1.0.47.gcf99076-1
@@ -134,6 +134,7 @@ pavucontrol 1:4.0-1
 picom 7.5-3
 pkgconf 1.6.3-3
 playerctl 2.1.1-1
+polybar 3.4.2-1
 poppler-qt5 0.86.1-1
 python2-xdg 0.26-4
 qt5-styleplugins 5.0.0.20170311-19
@@ -177,7 +178,7 @@ volumeicon 0.5.1-4
 wget 1.20.3-2
 wvdial 1.61-7
 xcape 1.2-3
-xdg-desktop-portal-gtk 1.6.0-3
+xdg-desktop-portal-gtk 1.6.0-4
 xdo 0.5.7-1
 xf86-input-elographics 1.4.2-1
 xf86-input-evdev 2.10.6-1
@@ -231,5 +232,6 @@ yad 5.0-1
 yay 9.4.6-2
 ytop 0.5.1-1
 zenity 3.32.0+17+gfb0938f-1
+zoom 3.5.361976.0301-1
 zsh-completions 0.31.0-1
 zsh-syntax-highlighting 0.6.0-1
