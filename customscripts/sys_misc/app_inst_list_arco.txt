@@ -93,6 +93,7 @@ jq 1.6-2
 kvantum-theme-arc 20180614-3
 laptop-detect 0.13.8-2
 libatomic_ops 7.6.10-1
+lolcat 100.0.0-2
 lsb-release 1.4-15
 lshw B.02.18-3
 lsscsi 0.30-1
@@ -131,7 +132,7 @@ pamac-aur 9.3.0-2
 pass 1.7.3-1
 patch 2.7.6-8
 pavucontrol 1:4.0-1
-picom 7.5-3
+picom-tryone-git 1329_Next.48.g9fe2d10_2020.03.14-1
 pkgconf 1.6.3-3
 playerctl 2.1.1-1
 polybar 3.4.2-1
