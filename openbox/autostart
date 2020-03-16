@@ -7,7 +7,13 @@ xset b off
 nitrogen --restore &
 
 ##tint2
-tint2 &
+#tint2 &
+
+##polybar
+sh ~/.config/polybar/launch.sh &
+
+##conky
+conky ~/.config/conky/conkyrc
 
 ##wifi-applet
 nm-applet &
