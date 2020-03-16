@@ -1,13 +1,10 @@
-/home/skye/.config/bro
 /home/skye/.config/pylint.d/
 /home/skye/.config/git-credential-cache/
-/home/skye/.config/X11/xsession-errors
 /home/skye/.config/ipython/
 /home/skye/.config/stremio/
 /home/skye/.config/X11/Xauthority
 /home/skye/.config/X11/xinitrc
 /home/skye/.config/jupyter
-/home/skye/.config/gem/
 /home/skye/.config/bash/bashrc
 /home/skye/.config/emacs.d/
 /home/skye/.config/gitconfig
@@ -17,6 +14,7 @@
 /home/skye/.config/ssh/
 /home/skye/.config/bash/profile
 /home/skye/.local/ICEauthority
+/home/skye/.config/zsh/p10k.zsh
 /home/skye/.config/java/
 /home/skye/.config/password-store/
 /home/skye/.config/bash/bash_logout
@@ -29,6 +27,4 @@
 /home/skye/.config/zoom
 /home/skye/.config/mozilla/
 /home/skye/.config/cargo/
-/home/skye/.config/bash/bash_aliases
 /home/skye/.config/rpmdb/
-/home/skye/.config/bash/bash_completion
