@@ -21,5 +21,3 @@ alias lln='exa -al --group-directories-first | grep --color=always "\-> /home/sk
 alias cp="cp -i"                          # confirm before overwriting something
 alias df='df -h'                          # human-readable sizes
 alias grep='grep --colour=auto'
-
-alias edit='emacsclient -c'
