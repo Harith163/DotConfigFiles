@@ -5,7 +5,7 @@ alsa-utils 1.2.2-1
 arandr 0.1.10-4
 arc-gtk-theme 20190917-1
 archiso 43-1
-arcolinux-arc-themes-nico-git 19.11-1
+arcolinux-arc-themes-nico-git 20.4-1
 arcolinux-bin-git 20.3-3
 arcolinux-common-git 19.3-2
 arcolinux-config-openbox-git 20.2-1
@@ -91,16 +91,16 @@ ipw2200-fw 3.1-8
 irssi 1.2.2-2
 jq 1.6-2
 kvantum-theme-arc 20180614-3
-laptop-detect 0.14-1
+laptop-detect 0.15-1
 libatomic_ops 7.6.10-1
 lsb-release 1.4-15
 lshw B.02.18-3
-lsscsi 0.30-1
+lsscsi 0.31-1
 lxappearance-obconf 0.2.3-2
 lxrandr 0.3.2-1
 man-db 2.9.1-1
 man-pages 5.05-1
-mc 4.8.24-1
+mc 4.8.24-2
 meld 3.20.2-1
 memtest86+ 5.01-3
 mintstick-git r201.fd46357-1
@@ -151,7 +151,7 @@ rofi-menus-git 0e3ac3c-1
 rp-pppoe 3.13-1
 sardi-icons 20.2-2
 sdparm 1.10-3
-sg3_utils 1.44-1
+sg3_utils 1.45-1
 signal-desktop 1.32.1-1
 smartmontools 7.1-1
 speedtest-cli 2.1.2-2
@@ -237,4 +237,4 @@ ytop 0.5.1-1
 zenity 3.32.0+17+gfb0938f-1
 zoom 3.5.361976.0301-1
 zsh-completions 0.31.0-1
-zsh-syntax-highlighting 0.6.0-1
+zsh-syntax-highlighting 0.7.1-1
