@@ -13,13 +13,13 @@ nitrogen --restore &
 sh ~/.config/polybar/launch.sh &
 
 ##conky
-conky ~/.config/conky/conkyrc
+conky &
 
 ##wifi-applet
-nm-applet &
+#nm-applet &
 
 ##bluetooth-applet
-blueman-applet &
+#blueman-applet &
 
 ## compositor
 picom &

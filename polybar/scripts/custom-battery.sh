@@ -4,9 +4,9 @@
 bat_status=$(acpi | awk '{print $3}' | sed -e "s/,$//") 
 bat_charge=$(acpi | awk '{print $4}' | sed -e "s/%,$//") 
 
-if [ -a bat_status="Charging" ]; then
+if [[ bat_status=="Charging" ]]; then
     icon_status=""
-else
+else [[ bat_status=="Discharging" ]]
     icon_status=""
 fi
 

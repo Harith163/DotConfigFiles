@@ -7,7 +7,7 @@ alias jctl='journalctl'
 alias as='apt show'
 alias jpnb='jupyter-notebook --browser=firefox'
 alias sarc='sudo apt autoremove && sudo apt autoclean'
-alias wtr='curl wttr.in/Providence?m'
+alias wtr='curl wttr.in/Providence'
 alias sudo='sudo '
 
 # Changing "ls" to "exa"
@@ -21,3 +21,4 @@ alias lln='exa -al --group-directories-first | grep --color=always "\-> /home/sk
 alias cp="cp -i"                          # confirm before overwriting something
 alias df='df -h'                          # human-readable sizes
 alias grep='grep --colour=auto'
+alias curl='curl '
