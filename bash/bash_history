@@ -1330,3 +1330,6 @@ l
 ll
 exit 
 exit
+emacs -q
+emacs --debug-init
+exit

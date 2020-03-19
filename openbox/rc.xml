@@ -194,18 +194,6 @@
         <wrap>no</wrap>
       </action>
     </keybind>
-    <!-- <keybind key="C-A-Up"> -->
-    <!--   <action name="GoToDesktop"> -->
-    <!--     <to>up</to> -->
-    <!--     <wrap>no</wrap> -->
-    <!--   </action> -->
-    <!-- </keybind> -->
-    <!-- <keybind key="C-A-Down"> -->
-    <!--   <action name="GoToDesktop"> -->
-    <!--     <to>down</to> -->
-    <!--     <wrap>no</wrap> -->
-    <!--   </action> -->
-    <!-- </keybind> -->
     <keybind key="S-A-Left">
       <action name="SendToDesktop">
         <to>left</to>
@@ -218,38 +206,11 @@
         <wrap>no</wrap>
       </action>
     </keybind>
-    <!-- <keybind key="S-A-Up"> -->
-    <!--   <action name="SendToDesktop"> -->
-    <!--     <to>up</to> -->
-    <!--     <wrap>no</wrap> -->
-    <!--   </action> -->
-    <!-- </keybind> -->
-    <!-- <keybind key="S-A-Down"> -->
-    <!--   <action name="SendToDesktop"> -->
-    <!--     <to>down</to> -->
-    <!--     <wrap>no</wrap> -->
-    <!--   </action> -->
-    <!-- </keybind> -->
-    <!-- <keybind key="W-F1"> -->
-    <!--   <action name="GoToDesktop"> -->
-    <!--     <to>1</to> -->
-    <!--   </action> -->
-    <!-- </keybind> -->
-    <!-- <keybind key="W-F2"> -->
-    <!--   <action name="GoToDesktop"> -->
-    <!--     <to>2</to> -->
-    <!--   </action> -->
-    <!-- </keybind> -->
-    <!-- <keybind key="W-F3"> -->
-    <!--   <action name="GoToDesktop"> -->
-    <!--     <to>3</to> -->
-    <!--   </action> -->
-    <!-- </keybind> -->
     <keybind key="W-d">
       <action name="ToggleShowDesktop"/>
     </keybind>
     <!-- Keybindings for windows -->
-    <keybind key="C-A-w">
+    <keybind key="W-q">
       <action name="Close"/>
     </keybind>
     <keybind key="A-Escape">
@@ -278,26 +239,6 @@
         </finalactions>
       </action>
     </keybind>
-    <!-- <keybind key="A-S-Tab"> -->
-    <!--   <action name="PreviousWindow"> -->
-    <!--     <finalactions> -->
-    <!--       <action name="Focus"/> -->
-    <!--       <action name="Raise"/> -->
-    <!--       <action name="Unshade"/> -->
-    <!--     </finalactions> -->
-    <!--   </action> -->
-    <!-- </keybind> -->
-    <!-- <keybind key="C-A-Tab"> -->
-    <!--   <action name="NextWindow"> -->
-    <!--     <panels>yes</panels> -->
-    <!--     <desktop>yes</desktop> -->
-    <!--     <finalactions> -->
-    <!--       <action name="Focus"/> -->
-    <!--       <action name="Raise"/> -->
-    <!--       <action name="Unshade"/> -->
-    <!--     </finalactions> -->
-    <!--   </action> -->
-    <!-- </keybind> -->
     <!-- Keybindings for window switching with the arrow keys -->
     <keybind key="W-S-Right">
       <action name="DirectionalCycleWindows">
@@ -309,35 +250,30 @@
         <direction>left</direction>
       </action>
     </keybind>
-    <!-- <keybind key="W-S-Up"> -->
-    <!--   <action name="DirectionalCycleWindows"> -->
-    <!--     <direction>up</direction> -->
-    <!--   </action> -->
-    <!-- </keybind> -->
-    <!-- <keybind key="W-S-Down"> -->
-    <!--   <action name="DirectionalCycleWindows"> -->
-    <!--     <direction>down</direction> -->
-    <!--   </action> -->
-    <!-- </keybind> -->
     <!-- Keybindings for running applications -->
-    <keybind key="C-A-t">
+    <keybind key="W-t">
       <action name="Execute">
         <command>alacritty</command>
       </action>
     </keybind>
-    <keybind key="C-A-e">
+    <keybind key="W-e">
       <action name="Execute">
         <command>emacsclient -c</command>
       </action>
     </keybind>
-    <keybind key="C-A-b">
+    <keybind key="W-b">
       <action name="Execute">
         <command>firefox</command>
       </action>
     </keybind>
     <keybind key="W-space">
       <action name="Execute">
-        <command>rofi -modi window,drun,run,ssh -show</command>
+        <command>rofi -combi-modi run,window,drun,ssh -show window -modi combi</command>
+      </action>
+    </keybind>
+        <keybind key="W-p">
+      <action name="Execute">
+        <command>rofi-pass</command>
       </action>
     </keybind>
     <!-- Launch scrot when Print is pressed -->
