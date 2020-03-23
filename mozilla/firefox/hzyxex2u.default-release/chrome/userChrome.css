@@ -1,0 +1,4 @@
+#titlebar{ -moz-appearance: none !important }
+:root[tabsintitlebar][sizemode="maximized"]{ padding-top: 8px !important; }
+#titlebar:hover > #toolbar-menubar[autohide="true"]{ height: calc(var(--tab-min-height) + var(--space-above-tabbar) - var(--tabs-navbar-shadow-size)) !important; }
+#titlebar:not(:hover) > #toolbar-menubar[autohide="true"][inactive] + #TabsToolbar{ visibility: collapse }
