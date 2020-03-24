@@ -3,7 +3,7 @@
 /home/skye/.config/ipython/
 /home/skye/.config/stremio/
 /home/skye/.config/X11/Xauthority
-/home/skye/.config/zsh/zshrc.zwc
+/home/skye/.config/zshrc.zwc
 /home/skye/.config/X11/xinitrc
 /home/skye/.config/jupyter
 /home/skye/.local/pki
@@ -13,7 +13,6 @@
 /home/skye/.local/aspell.en.pws
 /home/skye/.config/git-credentials
 /home/skye/.config/ssh/
-/home/skye/.config/notmuch-config
 /home/skye/.config/zsh/z
 /home/skye/.config/bash/profile
 /home/skye/.local/ICEauthority
@@ -28,4 +27,3 @@
 /home/skye/.config/zoom
 /home/skye/.config/mozilla/
 /home/skye/.config/cargo/
-/home/skye/.config/rpmdb/
