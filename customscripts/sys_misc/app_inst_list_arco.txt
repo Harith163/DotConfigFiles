@@ -54,11 +54,12 @@ autoconf 2.69-7
 automake 1.16.1-2
 awesome-terminal-fonts 1.1.0-2
 base 2-2
+bat 0.13.0-1
 bison 3.5.3-1
 blueberry 1.3.5-1
 blueman 2.1.2-1
 breeze 5.18.3-1
-broadcom-wl 6.30.223.271-179
+broadcom-wl 6.30.223.271-180
 clonezilla 3.35.2-1
 conky-lua-archers 1.11.3-2
 cups-pdf 3.0.1-4
@@ -76,14 +77,13 @@ fsarchiver 0.8.5-1
 geany 1.36-1
 gksu 2.0.2-6
 gmrun 0.9.5w-1
-gnome-disk-utility 3.36.0-1
+gnome-disk-utility 3.36.1-1
 gnu-netcat 0.7.1-7
 gparted 1.1.0-1
 gutenprint 5.3.3-2
 hardcode-fixer-git 1:r539.f812186-1
 hardinfo 0.5.1.816.g877ea2b-1
 haveged 1.9.8-1
-htop 2.2.0-3
 intltool 0.51.0-4
 inxi 3.0.37-2
 ipw2100-fw 1.3-10
@@ -144,7 +144,7 @@ refind-efi 0.11.3-1
 reflector 2020.3.21.2-1
 ristretto 0.10.0-2
 rofi-bluetooth-git r7.87f3280-1
-rofi-emoji 2.1.0-1
+rofi-emoji 2.1.1-1
 rofi-pass 2.0.2-2
 rp-pppoe 3.13-1
 sardi-icons 20.2-2
@@ -155,7 +155,7 @@ signal-desktop 1.32.1-1
 speedtest-cli 2.1.2-2
 splix 2.0.0-14
 stremio-beta 4.4.77-1
-surfn-icons-git 20.2-2
+surfn-icons-git 20.3-2
 syslinux 6.04.pre2.r11.gbf6db5b4-3
 system-config-printer 1.5.12+33+g23b454ef-1
 tcpdump 4.9.3-1
@@ -166,7 +166,7 @@ thefuck 3.30-1
 tint2 16.7-1
 tlp 1.3.1-2
 tmux 3.0_a-1
-trizen 1:1.62-1
+trizen 1:1.63-1
 ttf-font-awesome 5.12.1-1
 ttf-hack 3.003-1
 ttf-roboto 2.138-1
