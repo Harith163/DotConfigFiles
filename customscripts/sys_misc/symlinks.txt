@@ -3,7 +3,6 @@
 /home/skye/.config/ipython/
 /home/skye/.config/stremio/
 /home/skye/.config/X11/Xauthority
-/home/skye/.config/zshrc.zwc
 /home/skye/.config/X11/xinitrc
 /home/skye/.config/jupyter
 /home/skye/.local/pki
