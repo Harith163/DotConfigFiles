@@ -30,7 +30,7 @@ auto-ls-ll () {
 
 auto-ls-git-status () {
   if [[ $(git rev-parse --is-inside-work-tree 2> /dev/null) == true ]]; then
-    git status
+    git status -uno
   fi
 }
 

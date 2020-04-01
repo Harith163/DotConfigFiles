@@ -1,24 +1,22 @@
-alias sai='sudo apt install'
-alias sau='sudo apt update && sudo apt upgrade'
-alias sap='sudo apt purge'
+# alias sai='sudo apt install'
+# alias sau='sudo apt update && sudo apt upgrade'
+# alias sap='sudo apt purge'
+#alias as='apt show'
+#alias sarc='sudo apt autoremove && sudo apt autoclean'
+
 alias open='thunar ./'
 alias sctl='systemctl'
 alias jctl='journalctl'
-alias as='apt show'
 alias jpnb='jupyter-notebook --browser=firefox'
-alias sarc='sudo apt autoremove && sudo apt autoclean'
-alias wtr='curl wttr.in/Providence'
 alias sudo='sudo '
 
-# Changing "ls" to "exa"
-alias ll='exa -al --color=always --group-directories-first' # my preferred listing
-alias la='exa -a --color=always --group-directories-first'  # all files and dirs
-alias ls='exa -l --color=always --group-directories-first'  # long format
-alias lt='exa -aT --color=always --group-directories-first' # tree listing
-alias lln='exa -al --group-directories-first | grep --color=always "\-> /home/skye/"'
+# Changing "ls" to "exa --git"
+# alias ls='exa --color=always --group-directories-first'
+# alias ll='ls -al' # The obvious answer.
+# alias l='ll -h'
+alias lg='ls -al --git' # git listing
+alias lln='exa -al --group-directories-first | grep --color=always "\-> /home/skye/"' #view symlinks
 
 
-alias cp="cp -i"                          # confirm before overwriting something
-alias df='df -h'                          # human-readable sizes
-alias grep='grep --colour=auto'
 alias curl='curl '
+alias cat='bat '

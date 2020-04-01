@@ -182,30 +182,18 @@
   <keyboard>
     <chainQuitKey>C-g</chainQuitKey>
     <!-- Keybindings for desktop switching -->
-    <keybind key="C-A-Left">
+    <keybind key="W-Tab">
       <action name="GoToDesktop">
-        <to>left</to>
-        <wrap>no</wrap>
+	<to>next</to>
+	<wrap>yes</wrap>
       </action>
     </keybind>
-    <keybind key="C-A-Right">
-      <action name="GoToDesktop">
-        <to>right</to>
-        <wrap>no</wrap>
-      </action>
-    </keybind>
-    <keybind key="S-A-Left">
+    <keybind key="W-S-Tab">
       <action name="SendToDesktop">
-        <to>left</to>
-        <wrap>no</wrap>
+        <to>next</to>
+        <wrap>yes</wrap>
       </action>
-    </keybind>
-    <keybind key="S-A-Right">
-      <action name="SendToDesktop">
-        <to>right</to>
-        <wrap>no</wrap>
-      </action>
-    </keybind>
+    </keybind>    
     <keybind key="W-d">
       <action name="ToggleShowDesktop"/>
     </keybind>
@@ -223,12 +211,6 @@
         <menu>client-menu</menu>
       </action>
     </keybind>
-    <!-- Take a screenshot of the current window with scrot when Alt+Print are pressed -->
-    <keybind key="A-Print">
-      <action name="Execute">
-        <command>scrot '%d\\%m\\%Y.png' -e 'mv $f /home/skye/Pictures/Screenshots'</command>
-      </action>
-    </keybind>
     <!-- Keybindings for window switching -->
     <keybind key="A-Tab">
       <action name="NextWindow">
@@ -237,17 +219,6 @@
           <action name="Raise"/>
           <action name="Unshade"/>
         </finalactions>
-      </action>
-    </keybind>
-    <!-- Keybindings for window switching with the arrow keys -->
-    <keybind key="W-S-Right">
-      <action name="DirectionalCycleWindows">
-        <direction>right</direction>
-      </action>
-    </keybind>
-    <keybind key="W-S-Left">
-      <action name="DirectionalCycleWindows">
-        <direction>left</direction>
       </action>
     </keybind>
     <!-- Keybindings for running applications -->
@@ -271,9 +242,19 @@
         <command>rofi -combi-modi run,window,drun,ssh -show window -modi combi</command>
       </action>
     </keybind>
-        <keybind key="W-p">
+    <keybind key="W-p">
       <action name="Execute">
         <command>rofi-pass</command>
+      </action>
+    </keybind>
+    <keybind key="W-f">
+      <action name="Execute">
+        <command>thunar</command>
+      </action>
+    </keybind>
+    <keybind key="W-y">
+      <action name="Execute">
+        <command>alacritty --command ytop</command>
       </action>
     </keybind>
     <!-- Launch scrot when Print is pressed -->

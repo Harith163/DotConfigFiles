@@ -1063,7 +1063,7 @@ label = " %output%"
 type = internal/battery
 battery = BAT1
 adapter = ADP1
-full-at = 100
+full-at = 101
 
 format-charging = <animation-charging> <label-charging>
 label-charging = %percentage%%  

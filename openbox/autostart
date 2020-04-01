@@ -1,5 +1,5 @@
 ### xsettings
-setxkbmap -layout de,us -option "ctrl:nocaps, ctrl:swap_rwin_rctl"
+setxkbmap -layout us -option "ctrl:nocaps, ctrl:swap_rwin_rctl"
 xset r rate 250 50
 xset b off
 
@@ -22,4 +22,4 @@ conky &
 #blueman-applet &
 
 ## compositor
-picom &
+picom --blur-background --blur-method box --blur-size 0.5 --experimental-backends -b 

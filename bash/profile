@@ -27,6 +27,11 @@ fi
 #set editor
 export EDITOR=/usr/bin/emacs
 
+#set environment stuff
+export LESSHISTFILE=
+export LESSHISTSIZE=0
+
+
 # set PATH so it includes user's private bin if it exists
 if [ -d "$HOME/.local/bin" ] ; then
     PATH="$HOME/.local/bin:$PATH"
