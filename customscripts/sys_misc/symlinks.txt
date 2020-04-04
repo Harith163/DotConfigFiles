@@ -1,3 +1,4 @@
+/home/skye/.config/bro
 /home/skye/.config/pylint.d/
 /home/skye/.config/git-credential-cache/
 /home/skye/.config/ipython/
@@ -5,6 +6,7 @@
 /home/skye/.config/X11/Xauthority
 /home/skye/.config/X11/xinitrc
 /home/skye/.config/jupyter
+/home/skye/.config/gem
 /home/skye/.local/pki
 /home/skye/.config/emacs.d/
 /home/skye/.config/gitconfig
@@ -14,6 +16,7 @@
 /home/skye/.config/ssh/
 /home/skye/.config/zsh/z
 /home/skye/.config/bash/profile
+/home/skye/.config/android
 /home/skye/.local/ICEauthority
 /home/skye/.config/zsh/p10k.zsh
 /home/skye/.config/java/
@@ -25,4 +28,3 @@
 /home/skye/.config/minecraft/
 /home/skye/.config/zoom
 /home/skye/.config/mozilla/
-/home/skye/.config/cargo/
