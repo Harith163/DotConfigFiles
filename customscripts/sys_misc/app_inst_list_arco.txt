@@ -68,7 +68,7 @@ dconf-editor 3.36.0-1
 ddrescue 1.25-1
 downgrade 6.2.5-1
 efitools 1.9.2-1
-emacs-org-mode-git 1:9.3.6.r433.g4b26289f0-1
+emacs-org-mode 9.3.6-1
 exa 0.9.0-1
 expac 10-1
 firefox 74.0.1-1
