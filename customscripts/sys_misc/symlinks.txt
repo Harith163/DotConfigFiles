@@ -20,6 +20,7 @@
 /home/skye/.local/ICEauthority
 /home/skye/.config/zsh/p10k.zsh
 /home/skye/.config/java/
+/home/skye/.config/password-store
 /home/skye/.local/aspell.en.prepl
 /home/skye/.config/zsh/zshrc
 /home/skye/.config/rustup/
