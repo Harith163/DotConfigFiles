@@ -6,7 +6,7 @@ arandr 0.1.10-4
 arc-gtk-theme 20190917-1
 archiso 43-1
 arcolinux-arc-themes-nico-git 20.4-1
-arcolinux-bin-git 20.4-10
+arcolinux-bin-git 20.4-11
 arcolinux-common-git 19.3-2
 arcolinux-config-openbox-git 20.4-1
 arcolinux-conky-collection-git 20.1-2
@@ -36,15 +36,15 @@ arcolinux-polybar-git 20.4-1
 arcolinux-qt5-git 19.3-4
 arcolinux-rofi-git 19.3-1
 arcolinux-rofi-themes-git 19.3-1
-arcolinux-root-git 20.2-11
+arcolinux-root-git 20.4-1
 arcolinux-slim 1.3.6-8
 arcolinux-slimlock-themes-git 19.3-1
 arcolinux-system-config-git 20.4-1
-arcolinux-termite-themes-git 20.3-2
+arcolinux-termite-themes-git 20.4-1
 arcolinux-tint2-git 19.12-2
 arcolinux-tint2-themes-git 19.12-2
 arcolinux-variety-git 20.1-6
-arcolinux-wallpapers-git 20.2-1
+arcolinux-wallpapers-git 20.4-1
 arcolinux-welcome-app-git 20.4-6
 arcolinux-xfce-git 20.4-1
 arcolinux-zsh-git 20.2-9
@@ -59,13 +59,14 @@ bison 3.5.4-1
 blueberry 1.3.5-1
 blueman 2.1.2-1
 breeze 5.18.4.1-1
-broadcom-wl 6.30.223.271-186
+broadcom-wl 6.30.223.271-187
 clonezilla 3.35.2-1
 conky-lua-archers 1.11.3-2
 cups-pdf 3.0.1-4
 darkhttpd 1.12-5
 dconf-editor 3.36.0-1
 ddrescue 1.25-1
+dictd 1.12.1-6
 downgrade 6.2.5-1
 efitools 1.9.2-1
 emacs-org-mode 9.3.6-1
@@ -85,7 +86,7 @@ gutenprint 5.3.3-2
 hardcode-fixer-git 1:r539.f812186-1
 hardinfo 0.5.1.816.g877ea2b-1
 haveged 1.9.8-1
-insync 3.1.1.40765-1
+insync 3.1.2.40785-1
 intltool 0.51.0-4
 inxi 3.0.37-2
 ipw2100-fw 1.3-10
@@ -96,6 +97,7 @@ kamoso 19.12.3-1
 kvantum-theme-arc 20180614-3
 laptop-detect 0.16-1
 libatomic_ops 7.6.10-1
+lolcat 100.0.0-2
 lshw B.02.18-3
 lsscsi 0.31-1
 lxappearance-obconf 0.2.3-2
@@ -110,7 +112,7 @@ mkinitcpio-openswap 0.1.0-3
 mtpfs 1.1-3
 mu 1.2-3
 multimc-git 0.6.11.r1.g21ac860e-1
-nano 4.9.1-1
+nano 4.9.2-1
 nbd 3.20-2
 ndisc6 1.0.4-1
 neofetch 7.0.0-1
@@ -129,7 +131,7 @@ obkey-git 1.0.47.gcf99076-1
 obmenu-generator 0.87-1
 obmenu3 1.04-2
 oh-my-zsh-git r5600.6dee9f99d-1
-pamac-aur 9.4.1-1
+pamac-aur 9.4.2-1
 patch 2.7.6-8
 pavucontrol 1:4.0-1
 pfetch-git r323.e30fc10-1
@@ -138,6 +140,7 @@ playerctl 2.1.1-1
 polybar 3.4.2-2
 polybar-scripts-git r527.0e892c0-1
 poppler-qt5 0.87.0-1
+python-pygments 2.6.1-2
 python2-pyxdg 0.26-6
 qt5-styleplugins 5.0.0.20170311-20
 qt5-webkit 5.212.0alpha4-3
@@ -165,6 +168,8 @@ system-config-printer 1.5.12+33+g23b454ef-1
 tcpdump 4.9.3-1
 termite 15-1
 testdisk 7.1-1
+texlive-bibtexextra 2019.52577-1
+texlive-latexextra 2019.52575-1
 the_platinum_searcher-bin 2.2.0-1
 thefuck 3.30-1
 tint2 16.7-1
@@ -184,7 +189,7 @@ volumeicon 0.5.1-4
 wget 1.20.3-2
 wvdial 1.61-7
 xcape 1.2-3
-xdg-desktop-portal-gtk 1.6.0-4
+xdg-desktop-portal-gtk 1.7.1-1
 xdo 0.5.7-1
 xf86-input-elographics 1.4.2-1
 xf86-input-evdev 2.10.6-1
@@ -200,11 +205,11 @@ xf86-video-openchrome 0.6.0-3
 xf86-video-vesa 2.4.0-2
 xf86-video-vmware 13.3.0-1
 xfce4-appfinder 4.14.0-1
-xfce4-notifyd 0.4.4-2
+xfce4-notifyd 0.6.0-1
 xfce4-power-manager 1.6.6-1
 xfce4-screenshooter 1.9.7-1
-xfce4-settings 4.14.2-1
-xfce4-taskmanager 1.2.2-1
+xfce4-settings 4.14.3-1
+xfce4-taskmanager 1.2.3-1
 xfce4-terminal 0.8.9.2-1
 xfwm4 4.14.0-1
 xl2tpd 1.3.15-1
@@ -238,6 +243,6 @@ yad 6.0-1
 yay 9.4.6-2
 ytop 0.5.1-1
 zenity 3.32.0+17+gfb0938f-1
-zoom 3.5.382995.0407-1
+zoom 3.5.383291.0407-1
 zsh-completions 0.31.0-1
 zsh-syntax-highlighting 0.7.1-1
