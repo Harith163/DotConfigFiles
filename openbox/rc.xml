@@ -214,11 +214,61 @@
     <!-- Keybindings for window switching -->
     <keybind key="A-Tab">
       <action name="NextWindow">
+	<dialog>icons</dialog>
+	<raise>yes</raise>
+	<allDesktops>yes</allDesktops>
+	<raise>yes</raise>
         <finalactions>
           <action name="Focus"/>
           <action name="Raise"/>
           <action name="Unshade"/>
         </finalactions>
+      </action>
+    </keybind>
+    <!-- Resize focused window relative -->
+    <keybind key="W-C-j">
+      <action name="ResizeRelative">
+	<bottom>15</bottom>
+      </action>
+    </keybind>
+    <keybind key="W-C-k">
+      <action name="ResizeRelative">
+	<bottom>-15</bottom>
+      </action>
+    </keybind>
+    <keybind key="W-C-l">
+      <action name="ResizeRelative">
+	<right>15</right>
+      </action>
+    </keybind>
+    <keybind key="W-C-h">
+      <action name="ResizeRelative">
+	<right>-15</right>
+      </action>
+    </keybind>
+    <!-- Move focused window relative -->
+    <keybind key="W-l">
+      <action name="MoveRelative">
+	<x>20</x>
+	<y>0</y>
+      </action>
+    </keybind>
+    <keybind key="W-h">
+      <action name="MoveRelative">
+	<x>-20</x>
+	<y>0</y>
+      </action>
+    </keybind>
+    <keybind key="W-k">
+      <action name="MoveRelative">
+	<x>0</x>
+	<y>-20</y>
+      </action>
+    </keybind>
+    <keybind key="W-j">
+      <action name="MoveRelative">
+	<x>0</x>
+	<y>20</y>
       </action>
     </keybind>
     <!-- Keybindings for running applications -->

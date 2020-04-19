@@ -19,13 +19,13 @@ alias sgrep='grep -R -n -H -C 5 --exclude-dir={.git,.svn,CVS} '
 alias t='tail -f'
 
 # Command line head / tail shortcuts
-alias -g H='| head'
-alias -g T='| tail'
-alias -g G='| grep'
-alias -g L="| less"
-alias -g M="| most"
-alias -g LL="2>&1 | less"
-alias -g CA="2>&1 | cat -A"
+# alias -g H='| head'
+# alias -g T='| tail'
+ alias -g G='| grep'
+# alias -g L="| less"
+# alias -g M="| most"
+# alias -g LL="2>&1 | less"
+# alias -g CA="2>&1 | cat -A"
 alias -g NE="2> /dev/null"
 alias -g NUL="> /dev/null 2>&1"
 alias -g P="2>&1| pygmentize -l pytb"
@@ -42,9 +42,9 @@ alias p='ps -f'
 alias sortnr='sort -n -r'
 alias unexport='unset'
 
-alias rm='rm -I'
-alias cp='cp -I'
-alias mv='mv -I'
+alias rm='rm -i'
+alias cp='cp -i'
+alias mv='mv -i'
 
 # zsh is able to auto-do some kungfoo
 # depends on the SUFFIX :)

@@ -306,7 +306,7 @@ font-3 = "Noto Sans Mono:size=10;0"
 
 modules-left = bluetooth wifi ewmh xwindow
 modules-center = weather date
-modules-right = todo pavolume xkeyboard backlight battery
+modules-right = todo pavolume xkeyboard backlight battery lowbat
 
 tray-detached = false
 tray-offset-x = 0
@@ -1100,6 +1100,11 @@ ramp-capacity-foreground = #c7ae25
 
 
 ################################################################################
+[module/lowbat]
+;custom
+type = custom/script
+exec = sh ~/.config/customscripts/sys_misc/battery-notify.sh
+interval = 300
 
 [module/bluetooth]
 ;https://github.com/ClydeDroid/rofi-bluetooth
@@ -1117,7 +1122,7 @@ format-underline = #6790eb
 
 [module/wifi]
 type = custom/script
-exec = nmcli connection show --active | awk 'FNR == 2 {print $1}' 
+exec = iw dev wlp107s0 info | awk 'FNR == 5 {print $2}'; nmcli connection show --active | awk 'FNR == 2 {print $1}' 
 interval = 5
 click-left = sh ~/.config/rofi-wifi-menu/rofi-wifi-menu.sh &
 format-foreground = ${colors.foreground}

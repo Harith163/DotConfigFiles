@@ -28,9 +28,10 @@ fi
 export EDITOR=/usr/bin/emacs
 
 #set environment stuff
-export LESSHISTFILE=
+export LESSHISTFILE=/dev/null
 export LESSHISTSIZE=0
 
+export PASSWORD_STORE_DIR=$HOME/.config/password-store
 
 # set PATH so it includes user's private bin if it exists
 if [ -d "$HOME/.local/bin" ] ; then
