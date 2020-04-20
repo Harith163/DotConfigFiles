@@ -174,7 +174,6 @@ the_platinum_searcher-bin 2.2.0-1
 thefuck 3.30-1
 tint2 16.7-1
 tlp 1.3.1-2
-tmux 3.0_a-1
 trizen 1:1.63-1
 ttf-font-awesome 5.13.0-1
 ttf-hack 3.003-1
