@@ -216,7 +216,7 @@
       <action name="NextWindow">
 	<dialog>icons</dialog>
 	<raise>yes</raise>
-	<allDesktops>yes</allDesktops>
+	<allDesktops>no</allDesktops>
 	<raise>yes</raise>
         <finalactions>
           <action name="Focus"/>

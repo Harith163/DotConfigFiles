@@ -49,7 +49,7 @@ format-offset =
 ; =======================
 
 ; Gotham theme ==========
-background = #880a0f14
+background = #00000f
 foreground = #99d1ce
 alert = #d26937
 volume-min = #2aa889

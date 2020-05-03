@@ -38,5 +38,5 @@ if [ -d "$HOME/.local/bin" ] ; then
     PATH="$HOME/.local/bin:$PATH"
 fi
 
-#cargo
-export PATH="$HOME/.cargo/bin:$PATH"
+#cargo and tex-live
+export PATH=/opt/texlive/2020/bin/x86_64-linux:$HOME/.cargo/bin:$PATH
