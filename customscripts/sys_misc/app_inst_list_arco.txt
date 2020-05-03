@@ -240,7 +240,6 @@ xorg-xsetroot 1.1.2-1
 xorg-xvinfo 1.1.4-1
 xorg-xwd 1.0.7-1
 xorg-xwud 1.0.5-1
-xscreensaver 5.44-1
 yad 6.0-1
 yay 9.4.7-1
 ytop 0.6.0-1
