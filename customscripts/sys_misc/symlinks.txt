@@ -24,7 +24,6 @@
 /home/skye/.local/aspell.en.prepl
 /home/skye/.config/zsh/zshrc
 /home/skye/.config/rustup/
-/home/skye/.config/texlive2019/
 /home/skye/.config/minecraft/
 /home/skye/.config/zoom
 /home/skye/.config/mozilla/
