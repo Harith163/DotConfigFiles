@@ -1,0 +1,9 @@
+ !
+ ! Caps_Lock and Control_L
+ !
+ clear Lock
+ keycode 66 = Control_R
+ add Control = Control_R
+
+ ! right shift and escape
+ keycode 62 = Escape
