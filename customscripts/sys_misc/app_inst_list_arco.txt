@@ -1,4 +1,5 @@
 acpi 1.7-2
+aic94xx-firmware 30-9
 alacritty 0.4.2-2
 alsa-firmware 1.2.1-2
 alsa-utils 1.2.2-1
@@ -60,7 +61,7 @@ bison 3.5.4-1
 blueberry 1.3.5-1
 blueman 2.1.2-1
 breeze 5.18.4.1-1
-broadcom-wl 6.30.223.271-194
+broadcom-wl 6.30.223.271-196
 clonezilla 3.35.2-2
 conky-lua-archers 1.11.3-2
 copyq 3.10.0-1
@@ -186,6 +187,7 @@ vim 8.2.0510-2
 vlc 3.0.10-1
 volumeicon 0.5.1-4
 wacom-utility 1.21-6
+wd719x-firmware 1-6
 wget 1.20.3-2
 write_stylus 209-4
 wvdial 1.61-7
@@ -206,7 +208,7 @@ xf86-video-openchrome 0.6.0-3
 xf86-video-vesa 2.4.0-2
 xf86-video-vmware 13.3.0-1
 xfce4-appfinder 4.14.0-1
-xfce4-notifyd 0.6.0-1
+xfce4-notifyd 0.6.1-1
 xfce4-power-manager 1.6.6-1
 xfce4-screenshooter 1.9.7-1
 xfce4-settings 4.14.3-1
