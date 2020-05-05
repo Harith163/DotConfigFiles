@@ -16,6 +16,7 @@
 /home/skye/.config/ssh/
 /home/skye/.config/zsh/z
 /home/skye/.config/bash/profile
+/home/skye/.config/X11/xmodmap
 /home/skye/.config/android
 /home/skye/.local/ICEauthority
 /home/skye/.config/zsh/p10k.zsh
