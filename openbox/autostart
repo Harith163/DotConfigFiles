@@ -1,5 +1,6 @@
 ### xsettings
-setxkbmap -layout us -option "ctrl:nocaps, ctrl:swap_rwin_rctl"
+# setxkbmap -layout us -option "ctrl:nocaps, ctrl:swap_rwin_rctl"
+xmodmap ~/.xmodmap
 xset r rate 250 50
 xset b off
 
