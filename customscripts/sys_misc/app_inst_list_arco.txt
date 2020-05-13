@@ -70,7 +70,7 @@ darkhttpd 1.12-5
 dconf-editor 3.36.2-1
 ddrescue 1.25-1
 dictd 1.12.1-6
-downgrade 7.0.0-1
+downgrade 8.0.0-1
 efitools 1.9.2-1
 emacs-all-the-icons-dired-git r55.fc2dfa1-1
 emacs-org-mode 9.3.6-1
@@ -128,7 +128,7 @@ networkmanager-openvpn 1.8.12-1
 networkmanager-pptp 1.2.9dev+10+gb41b0d0-1
 networkmanager-vpnc 1.2.7dev+20+gdca3aea-1
 nfs-utils 2.4.3-2
-nordvpn-bin 3.7.1-1
+nordvpn-bin 3.7.2-2
 numlockx 1.2-5
 obconf 2.0.4-6
 obkey-git 1.0.47.gcf99076-1
@@ -183,6 +183,7 @@ urxvt-perls 2.3-1
 urxvt-resize-font-git 26.e966a5d-1
 variety 0.8.3-1
 vi 1:070224-4
+vivaldi 3.0.1874.38-1
 vlc 3.0.10-1
 volumeicon 0.5.1-4
 wacom-utility 1.21-6
@@ -201,7 +202,7 @@ xf86-input-void 1.4.1-4
 xf86-video-amdgpu 19.1.0-1
 xf86-video-ati 1:19.1.0-1
 xf86-video-fbdev 0.5.0-1
-xf86-video-intel 1:2.99.917+906+g846b53da-1
+xf86-video-intel 1:2.99.917+908+g7181c5a4-1
 xf86-video-nouveau 1.0.16-1
 xf86-video-openchrome 0.6.0-4
 xf86-video-vesa 2.4.0-3
@@ -245,6 +246,6 @@ yad 6.0-1
 yay 9.4.7-1
 ytop 0.6.1-1
 zenity 3.32.0+17+gfb0938f-1
-zoom 5.0.399860.0429-1
+zoom 5.0.403652.0509-1
 zsh-completions 0.31.0-1
 zsh-syntax-highlighting 0.7.1-1
