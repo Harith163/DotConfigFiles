@@ -72,7 +72,7 @@ dconf-editor 3.36.2-1
 ddrescue 1.25-1
 dictd 1.12.1-6
 downgrade 8.0.0-1
-efitools 1.9.2-2
+efitools 1.9.2-3
 emacs-all-the-icons-dired-git r55.fc2dfa1-1
 emacs-company-mode 0.9.12-1
 emacs-libvterm-git r488.8337e77-1
