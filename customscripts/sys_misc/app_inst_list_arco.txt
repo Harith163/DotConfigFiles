@@ -138,6 +138,7 @@ obmenu-generator 0.87-1
 obmenu3 1.05-2
 oh-my-zsh-git r5620.31eca46ee-1
 pamac-aur 9.5.1-1
+pandoc 2.9.2.1-46
 patch 2.7.6-8
 pavucontrol 1:4.0-2
 pfetch-git r323.e30fc10-1
