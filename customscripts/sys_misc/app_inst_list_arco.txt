@@ -15,13 +15,13 @@ arcolinux-cron-git 19.12-5
 arcolinux-docs-git 19.3-1
 arcolinux-fonts-git 19.7-3
 arcolinux-geany-git 19.7-1
-arcolinux-grub-theme-vimix-git 20200209-2
+arcolinux-grub-theme-vimix-git 20200527-3
 arcolinux-hblock-git 2.1.6-1
 arcolinux-keyring 20230105-1
 arcolinux-kvantum-git 20.5-1
 arcolinux-lightdm-gtk-greeter 1:2.0.6-1
 arcolinux-lightdm-gtk-greeter-settings 1.2.2-4
-arcolinux-local-applications-git 20.4-1
+arcolinux-local-applications-git 20.6-1
 arcolinux-local-xfce4-git 19.11-4
 arcolinux-mirrorlist-git 20.3-1
 arcolinux-neofetch-git 20.4-3
@@ -30,7 +30,7 @@ arcolinux-oblogout 0.2-20
 arcolinux-oblogout-themes-git 19.12-1
 arcolinux-obmenu-generator-minimal-git 20.5-1
 arcolinux-openbox-dconf-git 19.12-7
-arcolinux-openbox-git 20.5-7
+arcolinux-openbox-git 20.6-1
 arcolinux-openbox-themes-git 19.3-1
 arcolinux-pipemenus-git 19.12-3
 arcolinux-polybar-git 20.4-2
@@ -46,7 +46,7 @@ arcolinux-tint2-git 19.12-2
 arcolinux-tint2-themes-git 19.12-2
 arcolinux-variety-git 20.1-6
 arcolinux-wallpapers-git 20.4-1
-arcolinux-welcome-app-git 20.6-2
+arcolinux-welcome-app-git 20.6-4
 arcolinux-xfce-git 20.5-8
 arcolinux-zsh-git 20.2-9
 asciinema 2.0.2-3
@@ -56,12 +56,12 @@ autoconf 2.69-7
 automake 1.16.2-1
 awesome-terminal-fonts 1.1.0-2
 base 2-2
-bat 0.15.1-1
+bat 0.15.4-1
 biber 1:2.13-1
 bison 3.6.2-1
-blueman 2.1.2-1
+blueman 2.1.3-1
 breeze 5.18.5-1
-broadcom-wl 6.30.223.271-202
+broadcom-wl 6.30.223.271-203
 clonezilla 3.35.2-2
 conky-lua-archers 1.11.3-2
 copyq 3.11.1-1
@@ -119,7 +119,7 @@ mintstick-git r201.fd46357-1
 mkinitcpio-openswap 0.1.0-3
 mtpfs 1.1-3
 multimc-git 0.6.11.r1.g21ac860e-1
-nano 4.9.2-1
+nano 4.9.3-1
 nbd 3.20-2
 ndisc6 1.0.4-1
 neofetch 7.0.0-1
@@ -138,8 +138,8 @@ obkey-git 1.0.47.gcf99076-1
 obmenu-generator 0.87-1
 obmenu3 1.05-2
 oh-my-zsh-git r5620.31eca46ee-1
-pamac-aur 9.5.1-1
-pandoc 2.9.2.1-50
+pamac-aur 9.5.1-2
+pandoc 2.9.2.1-54
 patch 2.7.6-8
 pavucontrol 1:4.0-2
 pfetch-git r323.e30fc10-1
@@ -149,7 +149,7 @@ polybar-scripts-git r527.0e892c0-1
 poppler-qt5 0.88.0-1
 python-pygments 2.6.1-2
 python2-pyxdg 0.26-6
-qt5-styleplugins 5.0.0.20170311-20
+qt5-styleplugins 5.0.0.20170311-21
 qt5-webkit 5.212.0alpha4-4
 qt5-xmlpatterns 5.14.2-1
 qt5ct 0.41-2
@@ -161,7 +161,7 @@ rofi-emoji 2.1.2-1
 rofi-pass 2.0.2-2
 rp-pppoe 3.13-2
 rxvt-unicode 9.22-9
-sardi-icons 20.4-1
+sardi-icons 20.5-3
 scrot 1.2-1
 sdparm 1.11-1
 sg3_utils 1.45-1
@@ -169,7 +169,7 @@ signal-desktop 1.34.1-1
 speedtest-cli 2.1.2-2
 splix 2.0.0-14
 stremio-beta 4.4.77-1
-surfn-icons-git 20.4-1
+surfn-icons-git 20.5-3
 syslinux 6.04.pre2.r11.gbf6db5b4-3
 system-config-printer 1.5.12+33+g23b454ef-1
 tcpdump 4.9.3-2
