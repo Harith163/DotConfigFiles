@@ -21,7 +21,7 @@ arcolinux-keyring 20230105-1
 arcolinux-kvantum-git 20.5-1
 arcolinux-lightdm-gtk-greeter 1:2.0.6-1
 arcolinux-lightdm-gtk-greeter-settings 1.2.2-4
-arcolinux-local-applications-git 20.6-1
+arcolinux-local-applications-git 20.6-2
 arcolinux-local-xfce4-git 19.11-4
 arcolinux-mirrorlist-git 20.3-1
 arcolinux-neofetch-git 20.4-3
@@ -45,7 +45,7 @@ arcolinux-termite-themes-git 20.4-1
 arcolinux-tint2-git 19.12-2
 arcolinux-tint2-themes-git 19.12-2
 arcolinux-variety-git 20.1-6
-arcolinux-wallpapers-git 20.4-1
+arcolinux-wallpapers-git 20.6-1
 arcolinux-welcome-app-git 20.6-4
 arcolinux-xfce-git 20.5-8
 arcolinux-zsh-git 20.2-9
@@ -72,6 +72,7 @@ dconf-editor 3.36.2-1
 ddrescue 1.25-1
 dictd 1.12.1-6
 downgrade 8.0.0-1
+dropbox 98.4.158-1
 efitools 1.9.2-3
 emacs-all-the-icons-dired-git r55.fc2dfa1-1
 emacs-company-mode 0.9.12-1
@@ -139,7 +140,7 @@ obmenu-generator 0.87-1
 obmenu3 1.05-2
 oh-my-zsh-git r5620.31eca46ee-1
 pamac-aur 9.5.1-2
-pandoc 2.9.2.1-54
+pandoc 2.9.2.1-56
 patch 2.7.6-8
 pavucontrol 1:4.0-2
 pfetch-git r323.e30fc10-1
@@ -165,7 +166,7 @@ sardi-icons 20.5-3
 scrot 1.2-1
 sdparm 1.11-1
 sg3_utils 1.45-1
-signal-desktop 1.34.1-1
+signal-desktop 1.34.1-2
 speedtest-cli 2.1.2-2
 splix 2.0.0-14
 stremio-beta 4.4.77-1
