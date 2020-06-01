@@ -5,7 +5,7 @@ alsa-firmware 1.2.1-2
 alsa-utils 1.2.2-1
 arandr 0.1.10-4
 arc-gtk-theme 20190917-1
-archiso 43-2
+archiso 44-2
 arcolinux-arc-themes-nico-git 20.4-1
 arcolinux-bin-git 20.6-2
 arcolinux-common-git 19.3-2
@@ -111,6 +111,7 @@ lshw B.02.19.2-1
 lsscsi 0.31-1
 lxappearance-obconf 0.2.3-2
 lxrandr 0.3.2-1
+make 4.3-3
 man-db 2.9.1-2
 man-pages 5.06-2
 mc 4.8.24-2
@@ -140,7 +141,7 @@ obmenu-generator 0.87-1
 obmenu3 1.05-2
 oh-my-zsh-git r5620.31eca46ee-1
 pamac-aur 9.5.1-2
-pandoc 2.9.2.1-56
+pandoc 2.9.2.1-58
 patch 2.7.6-8
 pavucontrol 1:4.0-2
 pfetch-git r323.e30fc10-1
