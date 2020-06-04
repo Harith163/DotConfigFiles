@@ -1,3 +1,4 @@
+acpi 1.7-3
 alacritty 0.4.3-1
 alsa-firmware 1.2.1-2
 alsa-utils 1.2.2-1
@@ -52,9 +53,9 @@ autoconf 2.69-7
 automake 1.16.2-1
 awesome-terminal-fonts 1.1.0-2
 base 2-2
+bat 0.15.4-1
 bison 3.6.2-1
 blueberry 1.3.8-1
-bluez-utils 5.54-2
 breeze 5.18.5-1
 broadcom-wl 6.30.223.271-203
 clonezilla 3.35.2-2
@@ -63,11 +64,14 @@ cups-pdf 3.0.1-5
 darkhttpd 1.12-5
 dconf-editor 3.36.2-1
 ddrescue 1.25-1
-dmenu2 0.2-1
 downgrade 8.0.0-1
+dropbox 98.4.158-1
 efitools 1.9.2-3
+emacs-org-mode 9.3.6-1
 ethtool 1:5.6-1
+exa 0.9.0-1
 expac 10-2
+figlet 2.2.5-4
 firefox 77.0.1-1
 flex 2.6.4-3
 fsarchiver 0.8.5-2
@@ -89,7 +93,6 @@ ipw2100-fw 1.3-10
 ipw2200-fw 3.1-8
 irssi 1.2.2-2
 jq 1.6-2
-jsoncpp 1.9.2-1
 kvantum-theme-arc 20180614-3
 laptop-detect 0.16-1
 libatomic_ops 7.6.10-2
@@ -101,12 +104,14 @@ lxrandr 0.3.2-1
 make 4.3-3
 man-db 2.9.1-2
 man-pages 5.06-2
+mbsync-git 929.462fed5-1
 mc 4.8.24-2
 meld 3.20.2-1
 memtest86+ 5.01-4
 mintstick-git r201.fd46357-1
 mkinitcpio-openswap 0.1.0-3
 mtpfs 1.1-3
+mu 1.4.8-1
 nano 4.9.3-1
 nbd 3.20-2
 ndisc6 1.0.4-1
@@ -128,8 +133,10 @@ oh-my-zsh-git r5620.31eca46ee-1
 pamac-aur 9.5.3-1
 patch 2.7.6-8
 pavucontrol 1:4.0-2
+pfetch 0.6.0-1
 picom 8-2
 playerctl 2.1.1-1
+polybar 3.4.3-1
 poppler-qt5 0.88.0-1
 python2-pyxdg 0.26-6
 qt5-styleplugins 5.0.0.20170311-22
@@ -139,7 +146,8 @@ qt5ct 0.41-4
 refind 0.12.0-6
 reflector 2020.3.21.2-1
 ristretto 0.10.0-3
-rofi 1.5.4-1
+rofi-bluetooth-git r7.87f3280-1
+rofi-pass 2.0.2-2
 rp-pppoe 3.14-1
 sardi-icons 20.5-3
 scrot 1.2-1
@@ -157,6 +165,7 @@ tcpdump 4.9.3-2
 termite 15-1
 testdisk 7.1-2
 the_platinum_searcher-bin 2.2.0-1
+thefuck 3.30-1
 tint2 16.7-1
 tmux 3.1_b-1
 trizen 1:1.63-1
