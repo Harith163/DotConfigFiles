@@ -4,7 +4,6 @@
 /home/skye/.config/git-credential-cache/
 /home/skye/.config/ipython/
 /home/skye/.config/stremio/
-/home/skye/.config/dropbox-dist
 /home/skye/.config/X11/Xauthority
 /home/skye/.config/w3m
 /home/skye/.local/authinfo
@@ -13,6 +12,7 @@
 /home/skye/.config/gem
 /home/skye/.local/pki
 /home/skye/.config/bash/bashrc
+/home/skye/.config/dropbox-dist
 /home/skye/.config/emacs.d/
 /home/skye/.config/gitconfig
 /home/skye/.config/dropbox
