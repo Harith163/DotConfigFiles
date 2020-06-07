@@ -6,7 +6,7 @@ arandr 0.1.10-4
 arc-gtk-theme 20200513-1
 archiso 44-2
 arcolinux-arc-themes-nico-git 20.4-1
-arcolinux-bin-git 20.6-2
+arcolinux-bin-git 20.6-3
 arcolinux-common-git 19.3-2
 arcolinux-config-openbox-git 20.4-1
 arcolinux-conky-collection-git 20.1-2
@@ -240,5 +240,5 @@ xorg-xwud 1.0.5-2
 yad 6.0-1
 yay-bin 9.4.7-1
 zenity 3.32.0+17+gfb0938f-2
-zsh-completions 0.31.0-1
+zsh-completions 0.32.0-1
 zsh-syntax-highlighting 0.7.1-1
