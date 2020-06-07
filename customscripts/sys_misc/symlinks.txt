@@ -8,7 +8,6 @@
 /home/skye/.config/w3m
 /home/skye/.local/authinfo
 /home/skye/.config/X11/xinitrc
-/home/skye/.config/dropbox-dist
 /home/skye/.config/jupyter
 /home/skye/.config/gem
 /home/skye/.local/pki
