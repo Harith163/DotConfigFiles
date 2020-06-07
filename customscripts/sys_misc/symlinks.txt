@@ -8,11 +8,11 @@
 /home/skye/.config/w3m
 /home/skye/.local/authinfo
 /home/skye/.config/X11/xinitrc
+/home/skye/.config/dropbox-dist
 /home/skye/.config/jupyter
 /home/skye/.config/gem
 /home/skye/.local/pki
 /home/skye/.config/bash/bashrc
-/home/skye/.config/dropbox-dist
 /home/skye/.config/emacs.d/
 /home/skye/.config/gitconfig
 /home/skye/.config/dropbox
