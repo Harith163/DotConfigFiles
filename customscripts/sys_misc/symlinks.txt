@@ -19,6 +19,7 @@
 /home/skye/.local/aspell.en.pws
 /home/skye/.config/git-credentials
 /home/skye/.config/ssh/
+/home/skye/.config/wget-hsts
 /home/skye/.config/zsh/z
 /home/skye/.config/bash/profile
 /home/skye/.config/X11/xmodmap
