@@ -29,6 +29,7 @@
 /home/skye/.config/java/
 /home/skye/.config/password-store
 /home/skye/.local/aspell.en.prepl
+/home/skye/.config/X11/Xresources
 /home/skye/.config/zsh/zshrc
 /home/skye/.config/bash/bash_history
 /home/skye/.config/rustup/
