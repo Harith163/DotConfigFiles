@@ -24,8 +24,12 @@ auto-ls-ls () {
 }
 
 auto-ls-ll () {
-    ll
-    [[ $AUTO_LS_NEWLINE != false ]] && echo ""
+    if [[ ($(pwd) = $HOME || $(pwd) = ~/.config) ]]; then
+	[[ $AUTO_LS_NEWLINE != false ]]
+    else
+	ll
+	[[ $AUTO_LS_NEWLINE != false ]]
+    fi
 }
 
 auto-ls-git-status () {
