@@ -48,6 +48,7 @@ arcolinux-wallpapers-git 20.6-1
 arcolinux-welcome-app-git 20.6-4
 arcolinux-xfce-git 20.5-8
 arcolinux-zsh-git 20.2-9
+aria2 1.35.0-2
 asciinema 2.0.2-3
 aspell-en 2019.10.06-1
 auctex 12.2-1
@@ -59,7 +60,7 @@ bat 0.15.4-1
 bison 3.6.3-1
 blueman 2.1.3-1
 breeze 5.19.1-1
-broadcom-wl 6.30.223.271-207
+broadcom-wl 6.30.223.271-208
 clonezilla 3.35.2-2
 conky-lua-archers 1.11.3-2
 cups-pdf 3.0.1-5
@@ -70,13 +71,14 @@ dmg2dir 3.1.1-2
 downgrade 8.0.0-1
 dropbox 99.4.501-1
 efitools 1.9.2-3
-electron 9.0.4-1
+emacs-eaf 1.0.0-2
 emacs-org-mode 9.3.6-1
 emacs-w3m-git r5933.e522a44b-1
 exa 0.9.0-1
 expac 10-2
 fancontrol-gui v0.8-1
 figlet 2.2.5-4
+filebrowser-bin 2.1.2-1
 firefox 77.0.1-1
 flex 2.6.4-3
 fsarchiver 0.8.5-2
@@ -93,7 +95,7 @@ hardinfo 0.5.1.816.g877ea2b-1
 haveged 1.9.12-1
 htop 2.2.0-3
 intltool 0.51.0-5
-inxi 3.1.01-1
+inxi 3.1.03-1
 ipw2100-fw 1.3-10
 ipw2200-fw 3.1-8
 irssi 1.2.2-2
@@ -143,11 +145,10 @@ playerctl 2.1.1-1
 polkit-gnome 0.105-4
 polybar 3.4.3-1
 poppler-qt5 0.88.0-1
+python-pyinotify 0.9.6-7
 python2-pyxdg 0.26-6
 python2-requests 2.23.0-1
 qt5-styleplugins 5.0.0.20170311-22
-qt5-webkit 5.212.0alpha4-6
-qt5-xmlpatterns 5.15.0-1
 qt5ct 1.0-1
 refind 0.12.0-6
 reflector 2020.3.21.2-1
@@ -159,6 +160,7 @@ sardi-icons 20.5-3
 scrot 1.3-1
 sdparm 1.11-1
 sg3_utils 1.45-1
+signal-desktop-noto 1.34.1-1
 speedtest-cli 2.1.2-2
 splix 2.0.0-14
 stremio 4.4.107-1
@@ -175,7 +177,7 @@ tlp-rdw 1.3.1-2
 tmux 3.1_b-1
 trizen 1:1.63-1
 ttf-all-the-icons 4.0.1-1
-ttf-font-awesome 5.13.0-1
+ttf-font-awesome 5.13.1-1
 ttf-hack 3.003-2
 ttf-inconsolata 1:3.000-2
 ttf-inconsolata-hellenic 1.19-1
