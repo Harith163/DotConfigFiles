@@ -45,7 +45,7 @@ arcolinux-system-config-git 20.7-11
 arcolinux-termite-themes-git 20.4-1
 arcolinux-tint2-git 19.12-2
 arcolinux-tint2-themes-git 19.12-2
-arcolinux-variety-git 20.1-6
+arcolinux-variety-git 20.7-1
 arcolinux-wallpapers-git 20.6-1
 arcolinux-welcome-app-git 20.6-4
 arcolinux-xfce-git 20.5-8
@@ -72,14 +72,14 @@ dconf-editor 3.36.2-1
 ddrescue 1.25-1
 dmg2dir 3.1.1-2
 downgrade 8.0.0-1
-dropbox 99.4.501-1
+dropbox 100.4.409-1
 efitools 1.9.2-3
 emacs-org-mode 9.3.6-1
 emacs-w3m-git r5933.e522a44b-1
 exa 0.9.0-1
 expac 10-2
 figlet 2.2.5-4
-filebrowser-bin 2.2.0-1
+filebrowser-bin 2.3.0-1
 firefox 77.0.1-1
 flex 2.6.4-3
 fsarchiver 0.8.5-2
@@ -129,7 +129,7 @@ networkmanager-openconnect 1.2.6-2
 networkmanager-openvpn 1.8.12-1
 networkmanager-pptp 1.2.9dev+10+gb41b0d0-2
 networkmanager-vpnc 1.2.7dev+20+gdca3aea-2
-nfs-utils 2.4.3-2
+nfs-utils 2.5.1-1
 numlockx 1.2-5
 obconf 2.0.4-6
 obkey-git 1.0.47.gcf99076-1
