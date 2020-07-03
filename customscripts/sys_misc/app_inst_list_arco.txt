@@ -8,7 +8,7 @@ arandr 0.1.10-4
 arc-gtk-theme 20200513-1
 archiso 45-1
 arcolinux-arc-themes-nico-git 20.4-1
-arcolinux-bin-git 20.6-10
+arcolinux-bin-git 20.7-1
 arcolinux-common-git 19.3-2
 arcolinux-config-openbox-git 20.4-1
 arcolinux-conky-collection-git 20.1-2
@@ -62,7 +62,7 @@ bison 3.6.4-1
 blueman 2.1.3-1
 bookworm 1.1.2-1
 breeze 5.19.2-1
-broadcom-wl 6.30.223.271-210
+broadcom-wl 6.30.223.271-211
 clonezilla 3.35.2-2
 conky-lua-archers 1.11.3-2
 cups-pdf 3.0.1-5
@@ -173,7 +173,7 @@ ristretto 0.10.0-3
 rofi-bluetooth-git r7.87f3280-1
 rofi-pass 2.0.2-2
 rp-pppoe 3.14-1
-sardi-icons 20.5-3
+sardi-icons 20.7-1
 screenrotator-git 1:r25.e1de8b7-1
 scrot 1.3-1
 sdparm 1.11-1
@@ -183,7 +183,7 @@ slock 1.4-3
 speedtest-cli 2.1.2-2
 splix 2.0.0-14
 stremio 4.4.107-1
-surfn-icons-git 20.5-3
+surfn-icons-git 20.7-1
 syslinux 6.04.pre2.r11.gbf6db5b4-3
 system-config-printer 1.5.12+33+g23b454ef-1
 tcpdump 4.9.3-2
