@@ -34,7 +34,7 @@ arcolinux-openbox-dconf-git 19.12-7
 arcolinux-openbox-git 20.6-1
 arcolinux-openbox-themes-git 19.3-1
 arcolinux-pipemenus-git 19.12-3
-arcolinux-polybar-git 20.4-2
+arcolinux-polybar-git 20.7-2
 arcolinux-qt5-git 19.3-4
 arcolinux-rofi-git 19.3-1
 arcolinux-rofi-themes-git 19.3-1
@@ -46,7 +46,7 @@ arcolinux-termite-themes-git 20.4-1
 arcolinux-tint2-git 19.12-2
 arcolinux-tint2-themes-git 19.12-2
 arcolinux-variety-git 20.7-1
-arcolinux-wallpapers-git 20.7-3
+arcolinux-wallpapers-git 20.7-4
 arcolinux-welcome-app-git 20.6-4
 arcolinux-xfce-git 20.5-8
 arcolinux-zsh-git 20.7-1
@@ -79,7 +79,7 @@ exa 0.9.0-1
 expac 10-2
 figlet 2.2.5-4
 filebrowser-bin 2.3.0-1
-firefox 78.0-1
+firefox 78.0.1-1
 flex 2.6.4-3
 fsarchiver 0.8.5-2
 geany 1.36-1
@@ -93,6 +93,7 @@ hardcode-fixer-git 1:r539.f812186-1
 hardinfo 0.5.1.816.g877ea2b-1
 haveged 1.9.13-1
 htop 2.2.0-3
+iio-sensor-proxy 3.0-1
 intltool 0.51.0-6
 inxi 3.1.03-1
 ipw2100-fw 1.3-10
@@ -173,10 +174,12 @@ rofi-bluetooth-git r7.87f3280-1
 rofi-pass 2.0.2-2
 rp-pppoe 3.14-1
 sardi-icons 20.5-3
+screenrotator-git 1:r25.e1de8b7-1
 scrot 1.3-1
 sdparm 1.11-1
 sg3_utils 1.45-1
 signal-desktop-noto 1.34.1-1
+slock 1.4-3
 speedtest-cli 2.1.2-2
 splix 2.0.0-14
 stremio 4.4.107-1
