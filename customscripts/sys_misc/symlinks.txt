@@ -33,6 +33,7 @@
 /home/skye/.config/zsh/zshrc
 /home/skye/.config/bash/bash_history
 /home/skye/.config/rustup/
+/home/skye/.config/yarnrc
 /home/skye/.config/minecraft/
 /home/skye/.config/zoom
 /home/skye/.config/mozilla
