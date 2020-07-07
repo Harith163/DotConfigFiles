@@ -9,6 +9,7 @@
 /home/skye/.local/authinfo
 /home/skye/.config/X11/xinitrc
 /home/skye/.config/jupyter
+/home/skye/.config/npmrc
 /home/skye/.config/gem
 /home/skye/.local/pki
 /home/skye/.config/bash/bashrc
