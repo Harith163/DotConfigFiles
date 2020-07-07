@@ -67,7 +67,7 @@ clonezilla 3.35.2-2
 conky-lua-archers 1.11.3-2
 cups-pdf 3.0.1-5
 darkhttpd 1.12-5
-dconf-editor 3.36.2-1
+dconf-editor 3.36.4-1
 ddrescue 1.25-1
 dmg2dir 3.1.1-2
 downgrade 8.0.0-1
