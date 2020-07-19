@@ -61,7 +61,7 @@ bison 3.6.4-1
 blueman 2.1.3-1
 bookworm 1.1.2-2
 breeze 5.19.3-1
-broadcom-wl 6.30.223.271-212
+broadcom-wl 6.30.223.271-213
 clonezilla 3.35.2-2
 conky-lua-archers 1.11.3-2
 cups-pdf 3.0.1-5
@@ -71,7 +71,7 @@ ddrescue 1.25-1
 dmg2dir 3.1.1-2
 docky 2.2.1.1-4
 downgrade 8.0.0-1
-dropbox 100.4.409-1
+dropbox 101.4.434-1
 efitools 1.9.2-3
 electron 9.1.0-3
 emacs-org-mode 9.3.6-1
@@ -79,7 +79,7 @@ emacs-w3m-git r5933.e522a44b-1
 exa 0.9.0-2
 expac 10-2
 figlet 2.2.5-4
-filebrowser-bin 2.4.0-1
+filebrowser-bin 2.5.0-1
 firefox 78.0.2-1
 flex 2.6.4-3
 fsarchiver 0.8.5-2
@@ -103,6 +103,7 @@ jq 1.6-3
 kvantum-theme-arc 20180614-3
 laptop-detect 0.16-1
 libatomic_ops 7.6.10-2
+logiops 0.2-1
 lshw B.02.19.2-1
 lsscsi 0.31-1
 lxappearance-obconf 0.2.3-3
