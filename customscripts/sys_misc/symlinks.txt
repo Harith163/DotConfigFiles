@@ -1,4 +1,5 @@
 /home/skye/.config/mbsyncrc
+/home/skye/.config/npm
 /home/skye/.config/bro
 /home/skye/.config/pylint.d/
 /home/skye/.config/git-credential-cache/
