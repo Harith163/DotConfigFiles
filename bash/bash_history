@@ -1,59 +1,3 @@
-cd Update/
-ll
-cd
-ll
-cd P
-Public/
-ll
-cd ..
-rm -r Public/
-ll
-cd Templates/
-ll
-cd ..
-rm -r Templates/
-ll
-cd Videos/
-ll
-cd ..
-ll
-rm .android/
-rm -r .android/
-ll
-ping desktop.ccv.brown.edu 
-sp -Syu
-lazy
-man lavtrans 
-sp -Syu
-pacman -Qdtq
-sp -Rn $(pacman -Qdtq)
-pacman -Syu
-sudo pacman -Syu
-cd .local/bin/
-ll
-chmod +x par.sh 
-cd
-par.sh 
-sudo par.sh 
-sp -Syu
-yay -Rn $(yay -Qdtq)
-ll
-man passmenu 
-man passwd
-sp -Syu
-yay -Syu
-pacman -Syu
-sudo pacman -Syu
-$EDITOR 
-yay -S fingerprint-gui 
-lsusb
-sp -Syu fprintd 
-fprintd-enroll 
-pacman -Rsc fprintd 
-sudo pacman -Rsc fprintd 
-ll
-rm -r .yarn* .config/yarn*
-ll
 zsh
 exit 
 cat .lesshst 
@@ -498,3 +442,138 @@ cd .config/
 l
 exit 
 exit 
+z oh-my-zsh
+cd oh-my-zsh
+cd ..
+cd oh-my-zsh/
+cd plugins/
+ll
+cd common-aliases/
+ll
+cat common-aliases.plugin.zsh 
+exit
+ll
+ls
+cd
+ll
+ls
+yasu
+man man
+cd
+ll
+cd
+ls
+man man
+exit
+cd
+ll
+exa
+cd
+ll
+ls
+man man
+cd
+sudo blkid 
+sudo *id
+sudo lsbid
+sudo lsblk 
+sudo cp /etc/fstab /etc/fstab.$(date +%Y-%m-%d)
+cmp /etc/fstab /etc/fstab.$(date +%Y-%m-%d)
+sudo gedit /etc/fstab 
+sudo nano /etc/fstab
+cd /etc/
+echo fstab
+cat fstab
+sudo mount -a
+lsblk
+sudo reboot 
+yay -Syu
+yay -S alacritty
+yay -Syu
+sudo pacman -Syu
+sudo rm /usr/lib/p11-kit-trust.so 
+sudo pacman -Syu
+yay -Syu
+yay -S stremio 
+yay -S dmenu2
+yay -S dmenu2
+sudo reboot 
+yasu 
+yain polybar
+cd .config/polybar
+./launch.sh 
+yain zsh
+chsh 
+cd
+ls
+cd
+yasu 
+ll
+cd
+exit
+cd
+ls
+ll
+cd
+yasu
+exit
+cd
+ls
+cd
+ll
+exa
+\ls
+\ll
+cd
+exit
+cd
+yarem fish
+l
+ls
+cd
+clear
+ls
+cd
+ll
+clear
+clear-scrollback
+cd
+clear
+yasu
+exit
+cd
+yasu
+cd
+pass generate -n 15 Misc/BllocCommunity
+pass generate Misc/BllocCommunity -n 15
+pass -c Misc/BllocCommunity 
+exit
+cd
+yasu
+chmod u+x ical2org.awk
+ls
+ll
+exit
+whoami
+uname
+uname -a
+sudo tlp start
+zsh
+kill
+exit
+cd
+zsh
+kill
+exit
+cd .config/polybar
+ls
+./launch.sh &
+killall -KILL polybar
+exit
+killall zsh 
+killall zsh zsh zsh zsh zsh zsh
+killall zsh 
+yain docky
+yay -Si docky
+yain docky
+exit

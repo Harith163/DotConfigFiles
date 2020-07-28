@@ -58,15 +58,15 @@ volume-max = #c23127
 ; =======================
 
 ; INTRCPTR theme ============
-;background = ${xrdb:color0:#222}
-;background = #aa000000
-;background-alt = #444
-;foreground = ${xrdb:color7:#222}
-;foreground = #fff
-;foreground-alt = #555
-;primary = #ffb52a
-;secondary = #e60053
-;alert = #bd2c40
+; background = ${xrdb:color0:#222}
+; background = #aa000000
+; background-alt = #444
+; foreground = ${xrdb:color7:#222}
+; foreground = #fff
+; foreground-alt = #555
+; primary = #ffb52a
+; secondary = #e60053
+; alert = #bd2c40
 
 ################################################################################
 ################################################################################
@@ -278,7 +278,7 @@ separator = |
 background = ${colors.background}
 foreground = ${colors.foreground}
 
-line-size = 2
+line-size = 1
 line-color = #f00
 
 ;border-size = 2
@@ -291,29 +291,30 @@ line-color = #f00
 padding-left = 1
 padding-right = 1
 
-module-margin-left = 3
-module-margin-right = 3
+module-margin-left = 1
+module-margin-right = 1
 
 ; Enable support for inter-process messaging
 ; See the Messaging wiki page for more details.
 enable-ipc = true
 
 ;https://github.com/jaagr/polybar/wiki/Fonts
-font-0 = "DejaVu Sans:size=8;0"
+;font-0 = "DejaVu Sans:size=8;0"
+font-0 = "Inconsolata LGC Markup:size=10;0"
 font-1 = "FontAwesome:size=10;0"
 font-2 = "Noto Sans:size=10;0"
 font-3 = "Noto Sans Mono:size=10;0"
 
-modules-left = bluetooth wifi ewmh xwindow
+modules-left = bluetooth wireless-network ewmh
 modules-center = weather date
-modules-right = todo pavolume xkeyboard backlight battery lowbat
+modules-right = todo volume xkeyboard xbacklight battery lowbat
 
-tray-detached = false
+tray-detached = true																			
 tray-offset-x = 0
-tray-offset-y = 0
-tray-padding = 2
-tray-maxsize = 20
-tray-scale = 1.0
+tray-offset-y = 1060
+tray-padding = 0
+tray-maxsize = 15
+tray-scale = 1,0
 tray-position = right
 tray-background = ${colors.background}
 
@@ -1123,8 +1124,9 @@ format-underline = #6790eb
 [module/wifi]
 type = custom/script
 exec = iw dev wlp107s0 info | awk 'FNR == 5 {print $2}'; nmcli connection show --active | awk 'FNR == 2 {print $1}' 
-interval = 5
+interval = 1
 click-left = sh ~/.config/rofi-wifi-menu/rofi-wifi-menu.sh &
+; click-left = networkmanger_dmenu &
 format-foreground = ${colors.foreground}
 format-background = ${colors.background}
 format-prefix = " "

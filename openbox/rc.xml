@@ -272,39 +272,45 @@
       </action>
     </keybind>
     <!-- Keybindings for running applications -->
-    <keybind key="W-t">
+    <keybind key="W-S-t">
       <action name="Execute">
         <command>alacritty</command>
       </action>
     </keybind>
-    <keybind key="W-e">
+    <keybind key="W-S-e">
       <action name="Execute">
         <command>emacsclient -c</command>
       </action>
     </keybind>
-    <keybind key="W-b">
+    <keybind key="W-S-b">
       <action name="Execute">
         <command>firefox</command>
       </action>
     </keybind>
     <keybind key="W-space">
       <action name="Execute">
-        <command>rofi -combi-modi run,window,drun,ssh -show window -modi combi</command>
+        <!-- <command>rofi -combi-modi run,window,drun,ssh -show window -modi combi</command> -->
+	<command>dmenu_run -h 26 -nb "#00000f" -nf "#99d1ce" -fn "Inconsolata LGC Markup-10" -f -i -dim .50</command>
       </action>
     </keybind>
-    <keybind key="W-p">
+    <keybind key="W-S-p">
       <action name="Execute">
         <command>rofi-pass</command>
       </action>
     </keybind>
-    <keybind key="W-f">
+    <keybind key="W-S-f">
       <action name="Execute">
         <command>thunar</command>
       </action>
     </keybind>
-    <keybind key="W-y">
+    <keybind key="W-S-y">
       <action name="Execute">
         <command>alacritty --command ytop</command>
+      </action>
+    </keybind>
+    <keybind key="W-S-w">
+      <action name="Execute">
+        <command>networkmanager_dmenu</command>
       </action>
     </keybind>
     <!-- Launch scrot when Print is pressed -->

@@ -1,3 +1,5 @@
+# -*- mode: sh; -*-
+
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
@@ -71,14 +73,23 @@ if ! shopt -oq posix; then
   fi
 fi
 
+
+#libvterm integration
+function vterm_printf(){
+    if [ -n "$TMUX" ]; then
+        # Tell tmux to pass the escape sequences through
+        # (Source: http://permalink.gmane.org/gmane.comp.terminal-emulators.tmux.user/1324)
+        printf "\ePtmux;\e\e]%s\007\e\\" "$1"
+    elif [ "${TERM%%-*}" = "screen" ]; then
+        # GNU screen (screen, screen-256color, screen-256color-bce)
+        printf "\eP\e]%s\007\e\\" "$1"
+    else
+        printf "\e]%s\e\\" "$1"
+    fi
+}
+
 #change cd path variable
-export CDPATH="$CDPATH:$HOME/Documents/SchoolStuff/:$HOME/Documents/SchoolStuff/ThesisUndergraduate/"
-
-#Montepython bin pointer
-export PATH="$PATH:~/Documents/SchoolStuff/ThesisUndergraduate/MontePython/montepython/"
-
-#Planck Liklihood sourcing
-source ~/Documents/SchoolStuff/ThesisUndergraduate/planck/code/plc_3.0/plc-3.01/bin/clik_profile.sh
+export CDPATH="$CDPATH:$HOME/Documents/:$HOME/Documents/life"
 
 #Bash powerline for pretty-fication
 source ~/.config/bash/bash-powerline.sh
@@ -86,4 +97,4 @@ source ~/.config/bash/bash-powerline.sh
 #Just one of those things
 #neofetch
 
-source ~/.config/bash/ufetch-arco.sh
+export MANPAGER="sh -c 'col -bx | bat -l man -p'"

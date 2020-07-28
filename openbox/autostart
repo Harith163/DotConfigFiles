@@ -1,26 +1,23 @@
+# -*- mode: sh; -*-
+
 ### xsettings
-# setxkbmap -layout us -option "ctrl:nocaps, ctrl:swap_rwin_rctl"
-xmodmap ~/.xmodmap
-xset r rate 250 50
-xset b off
+setxkbmap -layout us,de -option "ctrl:swap_rwin_rctl, ctrl:nocaps"  &
+xmodmap ~/.xmodmap & 
+xset r rate 250 50 & 
+xset b off &
 
 ### wallpaper
 nitrogen --restore &
 
-##tint2
-#tint2 &
-
 ##polybar
-sh ~/.config/polybar/launch.sh &
+sh ~/.config/polybar/launch.sh &> /dev/null &
 
 ##conky
 conky &
 
-##wifi-applet
-#nm-applet &
-
-##bluetooth-applet
-#blueman-applet &
+## Lock screen after 5 minutes of inactivity with xsecurelock triggered by xss-lock
+xset s 300 5 & 
+xss-lock -n /usr/lib/xsecurelock/dimmer -l -- xsecurelock & 
 
 ## compositor
-picom --blur-background --blur-method box --blur-size 0.5 --experimental-backends -b 
+picom -b
