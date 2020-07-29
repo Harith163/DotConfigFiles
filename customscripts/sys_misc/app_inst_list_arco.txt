@@ -60,7 +60,7 @@ bat 0.15.4-1
 bison 3.6.4-1
 blueman 2.1.3-1
 bookworm 1.1.2-2
-breeze 5.19.3-1
+breeze 5.19.4-1
 broadcom-wl 6.30.223.271-214
 clonezilla 3.35.2-2
 conky-lua-archers 1.11.3-2
@@ -71,7 +71,7 @@ ddrescue 1.25-1
 dmg2dir 3.1.1-2
 docky 2.2.1.1-4
 downgrade 8.0.0-1
-dropbox 101.4.434-1
+dropbox 102.4.431-1
 efitools 1.9.2-3
 electron 9.1.1-1
 emacs-org-mode 9.3.6-1
@@ -79,8 +79,9 @@ emacs-w3m-git r5933.e522a44b-1
 exa 0.9.0-2
 expac 10-2
 figlet 2.2.5-4
-filebrowser-bin 2.5.0-1
+filebrowser-bin 2.6.1-1
 firefox 78.0.2-1
+flashplugin 32.0.0.403-1
 flex 2.6.4-3
 fsarchiver 0.8.5-2
 geany 1.36-2
@@ -103,7 +104,7 @@ jq 1.6-3
 kvantum-theme-arc 20180614-3
 laptop-detect 0.16-1
 libatomic_ops 7.6.10-2
-libqalculate 3.11.0-1
+libqalculate 3.12.0-1
 logiops 0.2.2-1
 lolcat 100.0.0-2
 lshw B.02.19.2-1
@@ -119,7 +120,7 @@ meld 3.20.2-1
 memtest86+ 5.01-4
 mkinitcpio-openswap 0.1.0-3
 mtpfs 1.1-4
-mu 1.4.10-1
+mu 1.4.12-2
 multimc-git 0.6.11.r31.gcd57e354-1
 nano 4.9.3-1
 nbd 3.20-2
@@ -153,7 +154,7 @@ poppler-qt5 0.90.1-1
 python-feedparser 5.2.1-6
 python-grip 4.5.2-1
 python-pyinotify 0.9.6-7
-python-pymupdf 1.17.3-1
+python-pymupdf 1.17.4-1
 python-qrcode 6.1-4
 python-xlib 0.27-1
 python2-pyxdg 0.26-6
@@ -197,6 +198,7 @@ thefuck 3.30-1
 tint2 16.7-2
 tlp-rdw 1.3.1-2
 tmux 3.1_b-1
+translate-shell 0.9.6.11-2
 trizen 1:1.63-1
 ttf-all-the-icons 4.0.1-1
 ttf-font-awesome 5.14.0-1
@@ -236,7 +238,7 @@ xfce4-screenshooter 1.9.7-2
 xfce4-settings 4.14.3-1
 xfce4-taskmanager 1.2.3-1
 xfce4-terminal 0.8.9.2-1
-xfwm4 4.14.2-1
+xfwm4 4.14.3-1
 xl2tpd 1.3.15-2
 xorg-iceauth 1.0.8-2
 xorg-luit 1.1.1-4
@@ -264,9 +266,11 @@ xorg-xsetroot 1.1.2-2
 xorg-xvinfo 1.1.4-2
 xorg-xwd 1.0.7-2
 xorg-xwud 1.0.5-2
+xsecurelock 1.7.0-1
+xss-lock 0.3.0.g1e158fb20108-3
 yad 6.0-1
 yay-bin 10.0.3-1
-zenity 3.32.0+17+gfb0938f-2
+zenity 3.32.0+50+gc229637-1
 zoom 5.1.422789.0705-1
 zsh-completions 0.32.0-1
 zsh-syntax-highlighting 0.7.1-1
