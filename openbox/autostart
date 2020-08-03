@@ -16,8 +16,8 @@ sh ~/.config/polybar/launch.sh &> /dev/null &
 conky &
 
 ## Lock screen after 5 minutes of inactivity with xsecurelock triggered by xss-lock
-xset s 300 5 & 
-xss-lock -n /usr/lib/xsecurelock/dimmer -l -- xsecurelock & 
+xset s 120 5 &
+xss-lock -n /usr/lib/xsecurelock/dimmer -l -- xsecurelock &
 
 ## compositor
 picom -b

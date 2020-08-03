@@ -306,8 +306,8 @@ font-2 = "Noto Sans:size=10;0"
 font-3 = "Noto Sans Mono:size=10;0"
 
 modules-left = bluetooth wireless-network ewmh
-modules-center = weather date
-modules-right = todo volume xkeyboard xbacklight battery lowbat
+modules-center = date todo
+modules-right = volume xkeyboard xbacklight battery lowbat
 
 tray-detached = true																			
 tray-offset-x = 0
@@ -1770,7 +1770,8 @@ label =  %output:0:150:%
 ################################################################################
 
 [module/uptime]
-;https://github.com/jaagr/polybar/wiki/User-contributed-modules#uptime
+;https://github.com/jaagr/polybar/wiki/User-contributed-modules
+#uptime
 type = custom/script
 exec = uptime | awk -F, '{sub(".*up ",x,$1);print $1}'
 interval = 100
