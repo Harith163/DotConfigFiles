@@ -3,7 +3,7 @@ alacritty 0.5.0-1
 alsa-firmware 1.2.1-2
 alsa-utils 1.2.3-2
 android-backup-extractor-git r77.2b3af20-1
-android-tools 30.0.0-2
+android-tools 30.0.3-1
 arandr 0.1.10-4
 arc-gtk-theme 20200513-1
 archiso 46-1
@@ -34,6 +34,8 @@ arcolinux-openbox-dconf-git 19.12-7
 arcolinux-openbox-git 20.6-1
 arcolinux-openbox-themes-git 19.3-1
 arcolinux-pipemenus-git 19.12-3
+arcolinux-plank-git 19.3-2
+arcolinux-plank-themes-git 19.3-1
 arcolinux-polybar-git 20.7-2
 arcolinux-qt5-git 19.3-4
 arcolinux-rofi-git 19.3-1
@@ -61,7 +63,7 @@ bison 3.6.4-1
 blueman 2.1.3-1
 bookworm 1.1.2-2
 breeze 5.19.4-1
-broadcom-wl 6.30.223.271-215
+broadcom-wl 6.30.223.271-216
 clonezilla 3.35.2-2
 cmake 3.18.1-1
 conky-lua-archers 1.11.3-2
@@ -70,18 +72,17 @@ darkhttpd 1.12-6
 dconf-editor 3.36.4-1
 ddrescue 1.25-1
 dmg2dir 3.1.1-2
-docky 2.2.1.1-4
 downgrade 8.1.0-1
 dropbox 102.4.431-1
 efitools 1.9.2-3
+electron 9.1.2-1
 electronplayer 2.0.8-2
 emacs-org-mode 9.3.6-1
 emacs-w3m-git r5933.e522a44b-1
-etcher-git 1.5.102.r0.g6d9c81da-1
 exa 0.9.0-2
 expac 10-2
 figlet 2.2.5-4
-filebrowser-bin 2.6.1-1
+filebrowser-bin 2.6.2-1
 firefox 79.0-1
 flashplugin 32.0.0.403-1
 flex 2.6.4-3
@@ -91,7 +92,7 @@ gmrun 0.9.5w-2
 gnome-disk-utility 3.36.3-1
 gnu-netcat 0.7.1-8
 gparted 1.1.0-1
-gpick 0.2.6rc1-7
+gpick 0.2.6rc1-8
 gutenprint 5.3.3-2
 hardcode-fixer-git 1:r539.f812186-1
 hardinfo 0.5.1.816.g877ea2b-2
@@ -107,7 +108,7 @@ jq 1.6-3
 kvantum-theme-arc 20180614-3
 laptop-detect 0.16-1
 libatomic_ops 7.6.10-2
-libqalculate 3.12.0-1
+libqalculate 3.12.1-1
 logiops 0.2.2-1
 lolcat 100.0.0-2
 lshw B.02.19.2-1
@@ -129,7 +130,7 @@ nano 5.0-1
 nbd 3.20-2
 ndisc6 1.0.4-2
 neofetch 7.1.0-1
-neovim 0.4.3-3
+neovim 0.4.4-1
 netctl 1.23-1
 networkmanager-dispatcher-ntpd 1.0-7
 networkmanager-dmenu-git r115.4d5d0f3-1
@@ -150,8 +151,9 @@ patch 2.7.6-8
 pavucontrol 1:4.0-2
 pfetch 0.6.0-1
 pkgconf 1.7.3-1
+plank-theme-namor 0.1-1
+plank-theme-numix 0.1-1
 playerctl 2.1.1-1
-polkit-gnome 0.105-5
 polybar 3.4.3-2
 poppler-qt5 0.90.1-1
 pyside2 5.15.0-2
@@ -236,6 +238,7 @@ xf86-video-nouveau 1.0.16-2
 xf86-video-openchrome 0.6.0-4
 xf86-video-vesa 2.4.0-3
 xf86-video-vmware 13.3.0-2
+xfce-polkit-git 0.3.r4.g42e0afc-1
 xfce4-appfinder 4.14.0-2
 xfce4-notifyd 0.6.1-1
 xfce4-power-manager 1.6.6-1
@@ -276,6 +279,6 @@ xss-lock 0.3.0.g1e158fb20108-3
 yad 6.0-1
 yay-bin 10.0.3-1
 zenity 3.32.0+50+gc229637-1
-zoom 5.1.422789.0705-1
+zoom 5.2.440215.0803-1
 zsh-completions 0.32.0-1
 zsh-syntax-highlighting 0.7.1-1
