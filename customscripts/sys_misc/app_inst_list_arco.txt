@@ -108,6 +108,7 @@ irssi 1.2.2-3
 jq 1.6-3
 kvantum-theme-arc 20180614-3
 laptop-detect 0.16-1
+libappindicator-gtk2 12.10.0.r296-1
 libatomic_ops 7.6.10-2
 libqalculate 3.12.1-1
 logiops 0.2.2-1
@@ -124,6 +125,7 @@ mc 4.8.24-2
 meld 3.20.2-1
 memtest86+ 5.01-4
 mkinitcpio-openswap 0.1.0-3
+mono 6.10.0.104-1
 mtpfs 1.1-4
 mu 1.4.13-1
 multimc-git 0.6.11.r31.gcd57e354-1
