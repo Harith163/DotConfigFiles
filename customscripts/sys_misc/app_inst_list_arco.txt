@@ -85,7 +85,7 @@ expac 10-2
 figlet 2.2.5-4
 filebrowser-bin 2.6.2-1
 firefox 79.0-1
-flashplugin 32.0.0.403-1
+flashplugin 32.0.0.414-1
 flex 2.6.4-3
 fsarchiver 0.8.5-2
 geany 1.36-2
