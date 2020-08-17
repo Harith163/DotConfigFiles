@@ -67,7 +67,7 @@ broadcom-wl 6.30.223.271-216
 clonezilla 3.35.2-2
 cmake 3.18.1-1
 cmatrix 2.0-2
-conky-lua-archers 1.11.3-2
+conky 1.11.5-4
 cups-pdf 3.0.1-5
 darkhttpd 1.12-6
 dconf-editor 3.36.4-1
